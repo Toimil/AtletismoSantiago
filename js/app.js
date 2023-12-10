@@ -33,7 +33,6 @@ $(document).ready(function(){
             }
         }
     })
-
     //Projcet-slider
     $('#project-slider').owlCarousel({
         loop:true,
