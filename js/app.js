@@ -7,17 +7,30 @@ $(document).ready(function(){
         items:1,
         dots:false,
         autoplay: true,
-        autoplayTimeout: 7000,
+        autoplayTimeout: 4000,
         smartSpeed:1000,
-        navText : ['PREV','NEXT'],
-        responsive:{
-            0:{
-              nav:false,
+        navText : ['<','>'],
+        responsive: {
+            0: {
+                responsiveClass: true,
+                center:true,
+                items: 1,
+                nav: false,
+                dots: true
             },
-            768:{
-                nav:true
+            768: {
+                responsiveClass: true,
+                items: 1,
+                nav: true,
+                dots: false,
+                center: true
+            },
+            992: {
+                items: 1,
+                nav: true,
+                dots: false,
+                center: true
             }
-         
         }
     })
 
