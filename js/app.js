@@ -82,3 +82,17 @@ $(document).ready(function(){
         }
     })
 })
+
+
+function sendEmail() {
+    // Obtener los valores de los campos
+    var email = document.getElementById('email').value;
+    var subject = document.getElementById('subject').value;
+    var message = document.getElementById('message').value;
+
+    // Construir el enlace de correo electrónico
+    var mailtoLink = 'mailto:atletismosantiago@gmail.com?subject=' + encodeURIComponent(subject) + '&body=' + encodeURIComponent(message);
+
+    // Redirigir al usuario al enlace de correo electrónico
+    window.location.href = mailtoLink;
+}
