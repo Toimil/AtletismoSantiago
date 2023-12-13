@@ -15,13 +15,11 @@
     <link rel="stylesheet" href="css/style.css">
     <link rel=”stylesheet” href=”https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/css/bootstrap.min.css” />
 
+
+
     <!-- Icon Font Stylesheet -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.4.1/font/bootstrap-icons.css" rel="stylesheet">
-
-
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.10.2/fullcalendar.min.css" integrity="sha512-vTxq/ZfDUXe8ATiWD8qF9NQFstVh78z+dUUSnZlPl8ezp9v68W9V+xjsb8TG1jOWUQ53sJ86O+7bMq5eZ0RJRA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
-
 
     <title>Club Atletismo Santiago</title>
 </head>
@@ -70,7 +68,8 @@
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <li><a class="dropdown-item" href="">Historia</a></li>
-                            <li><a class="dropdown-item" href="https://swimburger-cas-app-demo.web.app/forms/licencia">Licencias</a></li>
+                            <li><a class="dropdown-item"
+                                    href="https://swimburger-cas-app-demo.web.app/forms/licencia">Licencias</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -103,115 +102,90 @@
                 <hr class="divider" />
                 <br>
             </div>
-            
-            <div id="calendario"></div>
-
-            
-        </div>
-    </div>
-    <script>
-        document.addEventListener('DOMContentLoaded', function() {
-            var calendarEl = document.getElementById('calendario');
-            var calendar = new FullCalendar.Calendar(calendarEl, {
-                // Configuración y opciones del calendario
-                initialView: 'dayGridMonth',
-                events: [
-                    // Aquí puedes agregar eventos, por ejemplo:
-                    {
-                        title: 'Evento 1',
-                        start: '2023-12-15'
-                    },
-                    {
-                        title: 'Evento 2',
-                        start: '2023-12-18',
-                        end: '2023-12-20'
-                    }
-                ]
-            });
-            calendar.render();
-        });
-    </script>
-
-
-
-    <!-- Footer-->
-    <footer class="bg-light py-5 mt-5">
-
-        <div class="container">
-            <div class="row">
-                <div class="col-6 col-md-3 mb-3">
-                    <h5>Atletismo Santiago</h5>
-                    <ul class="nav flex-column">
-                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Inicio</a></li>
-                        <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Club</a></li>
-                        <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Calendario</a></li>
-                        <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Estadisticas</a></li>
-                        <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Patrocinadores</a></li>
-                        <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Contacto</a></li>
-
-                    </ul>
-                </div>
-                <div class="col-6 col-md-3 mb-3">
-                    <h5>Club</h5>
-                    <ul class="nav flex-column">
-                        <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Historia</a></li>
-
-                        <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Inscripciones</a></li>
-
-                    </ul>
-                </div>
-                <div class="col-md-5 offset-md-1 mb-3">
-                    <form>
-                        <h5>Contacto</h5>
-                        <p>Si tienes alguna pregunta no dudes en ponerte en contacto con nosotros</p>
-                        <div class="d-flex flex-column flex-sm-row w-100 gap-2">
-                            <label for="newsletter1" class="visually-hidden">Correo electrónico</label>
-                            <input id="email" type="text" class="form-control" placeholder="Correo electrónico">
-                            <label for="subject" class="visually-hidden">Asunto</label>
-                            <input id="subject" type="text" class="form-control" placeholder="Asunto">
-
-                        </div>
-                        <div class="d-flex flex-column flex-sm-row w-100 gap-2 mt-2">
-                            <label for="message" class="visually-hidden">Mensaje</label>
-                            <textarea id="message" type="text" class="form-control" placeholder="Mensaje"></textarea>
-                        </div>
-                        <div
-                            class="d-flex flex-column flex-sm-row w-100 mt-2 text-center justify-content-center align-items-center">
-                            <button class="btn btn-primary" type="button" onclick="sendEmail()">Enviar</button>
-                        </div>
-
-
-                    </form>
-
-                </div>
-            </div>
-            <div class="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">
-                <p>&copy; 2023 Reservados todos los derechos. <a
-                        href="https://www.linkedin.com/in/%C3%B3scar-toimil-plaza/" style="color:#516171"
-                        target="_blank" rel="noopener noreferrer">Ó. Toimil</a>. &copy;</p>
-                <ul class="list-unstyled d-flex">
-                    <li class="ms-4"><a class="bi bi-twitter link-dark" href="#"></a></li>
-                    <li class="ms-4"><a class="bi bi-instagram link-dark" href="#"></a></li>
-                    <li class="ms-4"><a class="bi bi-facebook link-dark" href="#"></svg></a></li>
-                </ul>
-            </div>
-
+            <div id="calendar"></div>
 
         </div>
-    </footer>
 
 
 
-    <script src="js/jquery.min.js"></script>
-    <script src="js/bootstrap.bundle.min.js"></script>
-    <script src="js/owl.carousel.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment.min.js" integrity="sha512-cbTbd1zNiqZ33c5g3iTAHU/x6YDFnJMI0fZc4//aHHaQ2tz+JJb7fbvYf9V86I5wB+M5M4ZLZvhY2+/sflMZUw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/fullcalendar/3.10.2/fullcalendar.min.js" integrity="sha512-UIqEBlFqVp7YQMEuoHYw7w8QVk0QzVpl5AhnGvYibopQiP/QZ/7vN6nMVWZizh40i1f+7bF2BQct3FZb56GvQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+        <!-- Footer-->
+        <footer class="bg-light py-5 mt-5">
 
-    <!-- <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js"></script> -->
-    <script src="js/app.js"></script>
+            <div class="container">
+                <div class="row">
+                    <div class="col-6 col-md-3 mb-3">
+                        <h5>Atletismo Santiago</h5>
+                        <ul class="nav flex-column">
+                            <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Inicio</a></li>
+                            <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Club</a></li>
+                            <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Calendario</a></li>
+                            <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Estadisticas</a></li>
+                            <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Patrocinadores</a></li>
+                            <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Contacto</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="col-6 col-md-3 mb-3">
+                        <h5>Club</h5>
+                        <ul class="nav flex-column">
+                            <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Historia</a></li>
+
+                            <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Inscripciones</a></li>
+
+                        </ul>
+                    </div>
+                    <div class="col-md-5 offset-md-1 mb-3">
+                        <form>
+                            <h5>Contacto</h5>
+                            <p>Si tienes alguna pregunta no dudes en ponerte en contacto con nosotros</p>
+                            <div class="d-flex flex-column flex-sm-row w-100 gap-2">
+                                <label for="newsletter1" class="visually-hidden">Correo electrónico</label>
+                                <input id="email" type="text" class="form-control" placeholder="Correo electrónico">
+                                <label for="subject" class="visually-hidden">Asunto</label>
+                                <input id="subject" type="text" class="form-control" placeholder="Asunto">
+
+                            </div>
+                            <div class="d-flex flex-column flex-sm-row w-100 gap-2 mt-2">
+                                <label for="message" class="visually-hidden">Mensaje</label>
+                                <textarea id="message" type="text" class="form-control"
+                                    placeholder="Mensaje"></textarea>
+                            </div>
+                            <div
+                                class="d-flex flex-column flex-sm-row w-100 mt-2 text-center justify-content-center align-items-center">
+                                <button class="btn btn-primary" type="button" onclick="sendEmail()">Enviar</button>
+                            </div>
+
+
+                        </form>
+
+                    </div>
+                </div>
+                <div class="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">
+                    <p>&copy; 2023 Reservados todos los derechos. <a
+                            href="https://www.linkedin.com/in/%C3%B3scar-toimil-plaza/" style="color:#516171"
+                            target="_blank" rel="noopener noreferrer">Ó. Toimil</a>. &copy;</p>
+                    <ul class="list-unstyled d-flex">
+                        <li class="ms-4"><a class="bi bi-twitter link-dark" href="#"></a></li>
+                        <li class="ms-4"><a class="bi bi-instagram link-dark" href="#"></a></li>
+                        <li class="ms-4"><a class="bi bi-facebook link-dark" href="#"></svg></a></li>
+                    </ul>
+                </div>
+
+
+            </div>
+        </footer>
+
+
+
+        <script src="js/jquery.min.js"></script>
+        <script src="js/popper.min.js"></script>
+        <script src="js/bootstrap.bundle.min.js"></script>
+        <script src="js/owl.carousel.min.js"></script>
+        <script src='https://cdn.jsdelivr.net/npm/fullcalendar@6.1.10/index.global.min.js'></script>
+        <script src="js/app.js"></script>
+        <script src="js/tooltip.min.js"></script>
+
+
 </body>
 
 </html>

@@ -1,3 +1,53 @@
+document.addEventListener('DOMContentLoaded', function () {
+    var calendarEl = document.getElementById('calendar');
+
+    var calendar = new FullCalendar.Calendar(calendarEl, {
+        defaultView: 'dayGridMonth',
+        locale: 'es',
+        buttonText: {
+            today: 'Hoy',
+            month: 'Mes',
+            week: 'Semana',
+            day: 'Día',
+            list: 'Lista'
+        },
+        headerToolbar: {
+            left: 'prev,next today',
+            center: 'title',
+            right: 'dayGridMonth,timeGridWeek,listMonth'
+        },
+
+        eventMouseEnter: function (info) {
+            $(info.el).tooltip({
+                title: info.event.title,
+                placement: 'top',
+                trigger: 'hover',
+                container: 'body'
+            });
+        },
+
+        resourceLabelText: 'Rooms',
+        resources: 'https://fullcalendar.io/demo-resources.json?with-nesting&with-colors',
+        events: [
+            {
+                title: 'All Day Event',
+                description: 'description for All Day Event',
+                start: '2023-12-01'
+            },
+            {
+                title: 'Click for Google',
+                description: 'description for Click for Google',
+                url: 'http://google.com/',
+                start: '2023-12-13'
+            }
+        ]
+    });
+    calendar.render();
+    
+});
+
+  
+
 $(document).ready(function(){
     //HERO SLIDER
     $('#hero-slider').owlCarousel({
