@@ -1,0 +1,1400 @@
+{
+  "AL": {
+    "50 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "11.05",
+        "Atleta": "XOAN MUIÑOS ORGE",
+        "Lugar": "Pontevedra",
+        "Fecha": "05/01/2020"
+      }
+    },
+    "60 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "7.32",
+        "Atleta": " NACHO RIVAS PEREIRO",
+        "Lugar": "A Coruña",
+        "Fecha": "23/01/2015"
+      }
+    },
+    "100 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "10.48",
+        "Atleta": "JAVIER CANCELA SANCHEZ-AGUSTINO",
+        "Lugar": "Getafe",
+        "Fecha": "21/07/2018"
+      }
+    },
+    "200 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "21.86",
+        "Atleta": "ADRIAN OUTEIRAL VILAS",
+        "Lugar": "A Pobra do Caramiñal",
+        "Fecha": "02/07/2023"
+      }
+    },
+    "400 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "47.81",
+        "Atleta": "ALEXIS MIGUENS PEREZ",
+        "Lugar": "Pamplona",
+        "Fecha": "04/06/2023"
+      }
+    },
+    "800 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "1.49.18",
+        "Atleta": "PEDRO OSORIO LOPEZ",
+        "Lugar": "Ordizia",
+        "Fecha": "24/06/2023"
+      }
+    },
+    "1500 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "3.47.42",
+        "Atleta": " JORGE PUIG MALVAR",
+        "Lugar": "Los Corrales de Buelna",
+        "Fecha": "08/06/2019"
+      }
+    },
+    "3000 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "8.15.78",
+        "Atleta": " JORGE PUIG MALVAR",
+        "Lugar": "Pontevedra",
+        "Fecha": "05/06/2019"
+      }
+    },
+    "400 M.V. MASCULINO": {
+      "H": {
+        "Mejor Marca": "1.01.67",
+        "Atleta": "PABLO RODRIGUEZ RODRIGUEZ",
+        "Lugar": "Cangas",
+        "Fecha": "17/05/2017"
+      }
+    },
+    "ALTURA MASCULINO": {
+      "H": {
+        "Mejor Marca": "1.87",
+        "Atleta": "PABLO ALONSO CAMPO",
+        "Lugar": "A Coruña",
+        "Fecha": "23/07/2022"
+      }
+    },
+    "LONXITUDE MASCULINO": {
+      "H": {
+        "Mejor Marca": "6.58",
+        "Atleta": "ALEXIS MIGUENS PEREZ",
+        "Lugar": "O Barco Valdeorras",
+        "Fecha": "06/06/2021"
+      }
+    },
+    "TRIPLO MASCULINO": {
+      "H": {
+        "Mejor Marca": "13.87",
+        "Atleta": "ROI RIAL GARCÍA",
+        "Lugar": "Gijón",
+        "Fecha": "08/07/2023"
+      }
+    },
+    "4X100 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "41.86",
+        "Atleta": "ABSOLUTO HOMES CA SANTIAGO",
+        "Lugar": "Valladolid",
+        "Fecha": "17/06/2018"
+      }
+    },
+    "4X400 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "3.19.73",
+        "Atleta": "ALEXIS MIGUENS PEREZ",
+        "Lugar": "Santiago",
+        "Fecha": "17/06/2023"
+      }
+    },
+    "110 M.V. 0,914 MASCULINO": {
+      "H": {
+        "Mejor Marca": "18.67",
+        "Atleta": "DIEGO JAVIER IGLESIAS FREIRE",
+        "Lugar": "A Coruña",
+        "Fecha": "21/06/2014"
+      }
+    },
+    "110 M.V. 1,00 MASCULINO": {
+      "H": {
+        "Mejor Marca": "15.75",
+        "Atleta": "PABLO RODRIGUEZ RODRIGUEZ",
+        "Lugar": "Ferrol",
+        "Fecha": "05/05/2019"
+      }
+    },
+    "2000 OBS. MASCULINO": {
+      "H": {
+        "Mejor Marca": "6.19.45",
+        "Atleta": "DIEGO ALONSO CAMPO",
+        "Lugar": "Ferrol",
+        "Fecha": "26/05/2018"
+      }
+    },
+    "PESO 5 KG MASCULINO": {
+      "H": {
+        "Mejor Marca": "12.48",
+        "Atleta": "OLMO PRUNERI CABRINI",
+        "Lugar": "Noia",
+        "Fecha": "19/02/2017"
+      }
+    },
+    "DISCO 1,5 KG MASCULINO": {
+      "H": {
+        "Mejor Marca": "50.41",
+        "Atleta": "MARTIN BREA OZORES",
+        "Lugar": "Pontevedra",
+        "Fecha": "12/07/2023"
+      }
+    },
+    "MARTELO 6 KG MASCULINO": {
+      "H": {
+        "Mejor Marca": "43.55",
+        "Atleta": "ALFONSO LABELLA BLANCO",
+        "Lugar": "Vigo",
+        "Fecha": "13/05/2023"
+      }
+    },
+    "XABALINA 700GR MASCULINO": {
+      "H": {
+        "Mejor Marca": "55.41",
+        "Atleta": "DANIEL MATO GOMEZ",
+        "Lugar": "Castellon",
+        "Fecha": "22/02/2020"
+      }
+    },
+    "50 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "10.28",
+        "Atleta": "BLANCA MARTIN TREBOLLE",
+        "Lugar": "Santiago",
+        "Fecha": "15/03/2014"
+      }
+    },
+    "60 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "10.84",
+        "Atleta": "MARIA ISABEL MOUGAN DOMINGUEZ",
+        "Lugar": "Vigo",
+        "Fecha": "05/01/2014"
+      }
+    },
+    "80 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "11.97",
+        "Atleta": "EVA MARTIN TREBOLLE",
+        "Lugar": "Santiago",
+        "Fecha": "03/05/2014"
+      }
+    },
+    "100 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "12.63",
+        "Atleta": "MANUELA RAVIÑA VALENCIA",
+        "Lugar": "Noia",
+        "Fecha": "08/07/2022"
+      }
+    },
+    "400 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "1,10,88",
+        "Atleta": "MARTA PRIETO SEÑARIS",
+        "Lugar": "Santiago",
+        "Fecha": "07/03/2015"
+      }
+    },
+    "800 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "2.03.34",
+        "Atleta": "ANA ISABEL FIESTRAS GIL",
+        "Lugar": "A Coruña",
+        "Fecha": "30/06/2018"
+      }
+    },
+    "1500 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "4.43.93",
+        "Atleta": "DEGNESH MARIA MATO GOMEZ",
+        "Lugar": "Granollers",
+        "Fecha": "05/06/2021"
+      }
+    },
+    "ALTURA FEMININO": {
+      "M": {
+        "Mejor Marca": "1.42",
+        "Atleta": " ANDREA GONZALEZ GARCIA",
+        "Lugar": "Pontevedra",
+        "Fecha": "16/04/2016"
+      }
+    },
+    "LONXITUDE FEMININO": {
+      "M": {
+        "Mejor Marca": "5.41",
+        "Atleta": "MANUELA RAVIÑA VALENCIA",
+        "Lugar": "Vigo",
+        "Fecha": "13/05/2023"
+      }
+    },
+    "PESO 4 KG FEMININO": {
+      "M": {
+        "Mejor Marca": "9.19",
+        "Atleta": "VERONICA ARTECHE EGEA",
+        "Lugar": "Santiago",
+        "Fecha": "17/06/2023"
+      }
+    },
+    "5000  MARCHA FEMININO": {
+      "M": {
+        "Mejor Marca": "26.31.45",
+        "Atleta": "SALOMÉ SEGADE BUIDE",
+        "Lugar": "Pereiro de Aguiar",
+        "Fecha": "26/06/2022"
+      }
+    },
+    "1000 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "2.29.11",
+        "Atleta": "JORGE PUIG MALVAR",
+        "Lugar": "Pontevedra",
+        "Fecha": "13/07/2022"
+      }
+    },
+    "5000 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "15.32.49",
+        "Atleta": "ENRIQUE MARTINEZ MARTINEZ",
+        "Lugar": "Ourense",
+        "Fecha": "12/05/2018"
+      }
+    },
+    "110 M.V. 1,067 MASCULINO": {
+      "H": {
+        "Mejor Marca": "14.99",
+        "Atleta": "GUZMAN CARRIL ESCOLANTE",
+        "Lugar": "Santiago",
+        "Fecha": "17/06/2023"
+      }
+    },
+    "PÉRTEGA MASCULINO": {
+      "H": {
+        "Mejor Marca": "4.25",
+        "Atleta": "PABLO RODRIGUEZ RODRIGUEZ",
+        "Lugar": "O Barco Valdeorras",
+        "Fecha": "27/05/2018"
+      }
+    },
+    "PESO 7,260  KG MASCULINO": {
+      "H": {
+        "Mejor Marca": "13.85",
+        "Atleta": "FRANCISCO JAVIER GUZMAN ARES",
+        "Lugar": "A Coruña",
+        "Fecha": "30/08/2020"
+      }
+    },
+    "MARTELO 7,260  KG MASCULINO": {
+      "H": {
+        "Mejor Marca": "52.88",
+        "Atleta": "CARLOS ALBERTO ALMUDI CID",
+        "Lugar": "Vigo",
+        "Fecha": "07/05/2017"
+      }
+    },
+    "XABALINA 600GR MASCULINO": {
+      "H": {
+        "Mejor Marca": "34.63",
+        "Atleta": "DIEGO ALONSO CAMPO",
+        "Lugar": "Vila Nova de Cerveira",
+        "Fecha": "28/04/2018"
+      }
+    },
+    "XABALINA 800GR MASCULINO": {
+      "H": {
+        "Mejor Marca": "55.84",
+        "Atleta": "DANIEL MATO GOMEZ",
+        "Lugar": "Pontevedra",
+        "Fecha": "19/06/2021"
+      }
+    },
+    "DECATHLON MASCULINO": {
+      "H": {
+        "Mejor Marca": "4194.0",
+        "Atleta": "MARIO CABALEIRO DIAZ",
+        "Lugar": "Pontevedra",
+        "Fecha": "28/05/2017"
+      }
+    },
+    "60 M.V. 0,91 MASCULINO": {
+      "H": {
+        "Mejor Marca": "8,86",
+        "Atleta": "MATEO ALLER GARCIA",
+        "Lugar": "Pontevedra",
+        "Fecha": "05/01/2021"
+      }
+    },
+    "PESO 6 KG MASCULINO": {
+      "H": {
+        "Mejor Marca": "12.73",
+        "Atleta": " DIEGO JAVIER IGLESIAS FREIRE",
+        "Lugar": "Vigo",
+        "Fecha": "05/06/2016"
+      }
+    },
+    "3000 MARCHA MASCULINO": {
+      "H": {
+        "Mejor Marca": "12.25.18",
+        "Atleta": "ROBERTO VIEIRO PEREZ",
+        "Lugar": "Ferrol",
+        "Fecha": "05/05/2019"
+      }
+    },
+    "200 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "26.48",
+        "Atleta": "MARIA ANGEL RUIZ MARIN",
+        "Lugar": "Ferrol",
+        "Fecha": "05/05/2019"
+      }
+    },
+    "1000 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "4.56.78",
+        "Atleta": " VANESA VARELA RIVAS",
+        "Lugar": "A Coruña",
+        "Fecha": "20/05/2016"
+      }
+    },
+    "3000 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "10.38.31",
+        "Atleta": "PATRICIE VIADEL TURJANICOVA",
+        "Lugar": "Pontevedra",
+        "Fecha": "18/05/2022"
+      }
+    },
+    "100 M.V. 0,84 FEMININO": {
+      "M": {
+        "Mejor Marca": "15.92",
+        "Atleta": "LAURA BARBAZAN LESTA",
+        "Lugar": "A Coruña",
+        "Fecha": "29/05/2022"
+      }
+    },
+    "400 M.V. FEMININO": {
+      "M": {
+        "Mejor Marca": "1.11.41",
+        "Atleta": "CLAUDIA COSTAS GONZALEZ",
+        "Lugar": "Ferrol",
+        "Fecha": "27/04/2019"
+      }
+    },
+    "DISCO 1 KG FEMININO": {
+      "M": {
+        "Mejor Marca": "31.55",
+        "Atleta": "JIMENA MARTINEZ MONTEJO",
+        "Lugar": "Pontevedra",
+        "Fecha": "15/02/2020"
+      }
+    },
+    "MARTELO 4 KG FEMININO": {
+      "M": {
+        "Mejor Marca": "26.65",
+        "Atleta": "ZULFA MUIÑO VILELA",
+        "Lugar": "Pereiro de Aguiar",
+        "Fecha": "26/06/2022"
+      }
+    },
+    "4X100 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "43.64",
+        "Atleta": "JUNIOR MULLERES CA SANTIAGO",
+        "Lugar": "Bastiagueiro",
+        "Fecha": "05/05/2018"
+      }
+    },
+    "HEPTATHLON FEMININO": {
+      "M": {
+        "Mejor Marca": "3880.0",
+        "Atleta": " ANDREA GONZALEZ GARCIA",
+        "Lugar": "Mataro",
+        "Fecha": "26/06/2016"
+      }
+    },
+    "60 M.V. 0,762 FEMININO": {
+      "M": {
+        "Mejor Marca": "10.2",
+        "Atleta": "ALICIA SAMPEDRO SANTAMARIA",
+        "Lugar": "Riveira",
+        "Fecha": "22/01/2017"
+      }
+    },
+    "100 M.V. 0,762 FEMININO": {
+      "M": {
+        "Mejor Marca": "15.74",
+        "Atleta": " ANDREA GONZALEZ GARCIA",
+        "Lugar": "Vigo",
+        "Fecha": "15/05/2016"
+      }
+    },
+    "2000 OBS. FEMININO": {
+      "M": {
+        "Mejor Marca": "8,00,0",
+        "Atleta": "MARTA PRIETO SEÑARIS",
+        "Lugar": "A Coruña",
+        "Fecha": "07/06/2015"
+      }
+    },
+    "PESO 3 KG FEMININO": {
+      "M": {
+        "Mejor Marca": "11.31",
+        "Atleta": " ANDREA GONZALEZ GARCIA",
+        "Lugar": "Vigo",
+        "Fecha": "28/05/2016"
+      }
+    },
+    "XABALINA 500GR FEMININO": {
+      "M": {
+        "Mejor Marca": "38.9",
+        "Atleta": "ANDREA BOTELLA RODRIGUEZ",
+        "Lugar": "Vila Nova de Cerveira",
+        "Fecha": "28/04/2018"
+      }
+    },
+    "3000 MARCHA FEMININO": {
+      "M": {
+        "Mejor Marca": "18.49.44",
+        "Atleta": "LUZIA MENDEZ SENRA",
+        "Lugar": "Lugo",
+        "Fecha": "06/05/2017"
+      }
+    },
+    "150 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "16.96",
+        "Atleta": "ADRIAN OUTEIRAL VILAS",
+        "Lugar": "Pontevedra",
+        "Fecha": "13/07/2022"
+      }
+    },
+    "300 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "35.70",
+        "Atleta": "PEDRO POSE REGOS",
+        "Lugar": "Pontevedra",
+        "Fecha": "12/07/2023"
+      }
+    },
+    "500 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "1.05.90",
+        "Atleta": " ALBERTO CHAVES CAMINO",
+        "Lugar": "Pontevedra",
+        "Fecha": "28/07/2016"
+      }
+    },
+    "10000 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "32.48.60",
+        "Atleta": " ENRIQUE MARTINEZ MARTINEZ",
+        "Lugar": "Ourense",
+        "Fecha": "19/03/2016"
+      }
+    },
+    "3000 OBS. MASCULINO": {
+      "H": {
+        "Mejor Marca": "10.02.24",
+        "Atleta": "ROBERTO TRIGO LORES",
+        "Lugar": "Pontevedra",
+        "Fecha": "08/05/2021"
+      }
+    },
+    "DISCO 2 KG MASCULINO": {
+      "H": {
+        "Mejor Marca": "47.68",
+        "Atleta": "FRANCISCO JAVIER GUZMAN ARES",
+        "Lugar": "A Coruña",
+        "Fecha": "30/08/2020"
+      }
+    },
+    "MARTELO 5 KG MASCULINO": {
+      "H": {
+        "Mejor Marca": "49.11",
+        "Atleta": "ALFONSO LABELLA BLANCO",
+        "Lugar": "Vigo",
+        "Fecha": "21/05/2023"
+      }
+    },
+    "MILLA PISTA MASCULINO": {
+      "H": {
+        "Mejor Marca": "4.26.32",
+        "Atleta": "CIRO FERNANDEZ BRIONES",
+        "Lugar": "Pontevedra",
+        "Fecha": "27/07/2017"
+      }
+    },
+    "3000 OBS. FEMININO": {
+      "M": {
+        "Mejor Marca": "11.09.22",
+        "Atleta": "PATRICIE VIADEL TURJANICOVA",
+        "Lugar": "Santander",
+        "Fecha": "09/07/2022"
+      }
+    },
+    "TRIPLO FEMININO": {
+      "M": {
+        "Mejor Marca": "10.89",
+        "Atleta": "EMMA LORENZO CASAS",
+        "Lugar": "Pontevedra",
+        "Fecha": "15/07/2017"
+      }
+    },
+    "PÉRTEGA FEMININO": {
+      "M": {
+        "Mejor Marca": "2.55",
+        "Atleta": "PAULA DOBATO MOURIZ",
+        "Lugar": "Santiago",
+        "Fecha": "22/04/2023"
+      }
+    },
+    "XABALINA 600GR FEMININO": {
+      "M": {
+        "Mejor Marca": "39.49",
+        "Atleta": "ANDREA BOTELLA RODRIGUEZ",
+        "Lugar": "O Barco Valdeorras",
+        "Fecha": "06/06/2021"
+      }
+    },
+    "XABALINA 800GR FEMININO": {
+      "M": {
+        "Mejor Marca": "34.56",
+        "Atleta": " ANDREA GONZALEZ GARCIA",
+        "Lugar": "Ourense",
+        "Fecha": "16/07/2016"
+      }
+    },
+    "4X400 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "4.29.47",
+        "Atleta": "ABSOLUTO MULLERES CA SANTIAGO",
+        "Lugar": "Pontevedra",
+        "Fecha": "20/07/2019"
+      }
+    },
+    "HEPTATHLON JUVENIL FEMININO": {
+      "M": {
+        "Mejor Marca": "4058.0",
+        "Atleta": " ANDREA GONZALEZ GARCIA",
+        "Lugar": "Vigo",
+        "Fecha": "29/05/2016"
+      }
+    },
+    "PESO 4 KG MASCULINO": {
+      "H": {
+        "Mejor Marca": "13.42",
+        "Atleta": "SANTIAGO FERREIRO MARZOA",
+        "Lugar": "Ferrol",
+        "Fecha": "04/06/2017"
+      }
+    },
+    "DISCO 800 GR MASCULINO": {
+      "H": {
+        "Mejor Marca": "38.1",
+        "Atleta": "PABLO NOGUEIRA GONZALEZ",
+        "Lugar": "Vila Nova Cerveira",
+        "Fecha": "10/12/2016"
+      }
+    },
+    "5000  MARCHA MASCULINO": {
+      "H": {
+        "Mejor Marca": "21.17.20",
+        "Atleta": "ROBERTO VIEIRO PEREZ",
+        "Lugar": "Ferrol",
+        "Fecha": "27/04/2019"
+      }
+    },
+    "10000  MARCHA MASCULINO": {
+      "H": {
+        "Mejor Marca": "44.44.73",
+        "Atleta": "ROBERTO VIEIRO PEREZ",
+        "Lugar": "Madrid",
+        "Fecha": "04/10/2020"
+      }
+    },
+    "MILLA MARCHA PISTA MASCULINO": {
+      "H": {
+        "Mejor Marca": "6.50.61",
+        "Atleta": "ROBERTO VIEIRO PEREZ",
+        "Lugar": "Pontevedra",
+        "Fecha": "27/07/2017"
+      }
+    },
+    "60 M.V. 0,84 FEMININO": {
+      "M": {
+        "Mejor Marca": "11.25",
+        "Atleta": "FATIMA LUCIA PEREZ PEREZ",
+        "Lugar": "Santiago",
+        "Fecha": "22/12/2017"
+      }
+    },
+    "MILLA MARCHA PISTA FEMININO": {
+      "M": {
+        "Mejor Marca": "11.17.09",
+        "Atleta": "VANESA VARELA RIVAS",
+        "Lugar": "Pontevedra",
+        "Fecha": "27/07/2017"
+      }
+    },
+    "60 M.V. 1,00 MASCULINO": {
+      "H": {
+        "Mejor Marca": "10.00",
+        "Atleta": "ALESSANDRO BERTUSSI LORENZO",
+        "Lugar": "Santiago",
+        "Fecha": "22/12/2017"
+      }
+    },
+    "60 M.V. MASCULINO": {
+      "H": {
+        "Mejor Marca": "9.13",
+        "Atleta": "CARLOS MANUEL IGLESIAS CARBALLO",
+        "Lugar": "Santiago",
+        "Fecha": "22/12/2017"
+      }
+    },
+    "100 M.V. 0,91 MASCULINO": {
+      "H": {
+        "Mejor Marca": "15.00",
+        "Atleta": "PABLO RODRIGUEZ RODRIGUEZ",
+        "Lugar": "Ferrol",
+        "Fecha": "26/05/2018"
+      }
+    },
+    "DECATHLON JUNIOR MASCULINO": {
+      "H": {
+        "Mejor Marca": "4482.0",
+        "Atleta": "PABLO RODRIGUEZ RODRIGUEZ",
+        "Lugar": "Pontevedra",
+        "Fecha": "08/04/2018"
+      }
+    },
+    "PENTATLON VET. MASCULINO": {
+      "H": {
+        "Mejor Marca": "3027.0",
+        "Atleta": "CARLOS ALBERTO ALMUDI CID",
+        "Lugar": "Pontevedra",
+        "Fecha": "04/02/2018"
+      }
+    },
+    "MARTELO 3 KG FEMININO": {
+      "M": {
+        "Mejor Marca": "38.47",
+        "Atleta": "ALICIA GOMEZ BESADA",
+        "Lugar": "Vigo",
+        "Fecha": "15/04/2018"
+      }
+    },
+    "TRIATLÓN BENXAMÍN FEMININO": {
+      "M": {
+        "Mejor Marca": "385",
+        "Atleta": "RAQUEL MOSTEIRO OUBEL",
+        "Lugar": "Noia",
+        "Fecha": "14/04/2018"
+      }
+    },
+    "PESO 1KG FEMININO": {
+      "M": {
+        "Mejor Marca": "5.0",
+        "Atleta": "RAQUEL MOSTEIRO OUBEL",
+        "Lugar": "Noia",
+        "Fecha": "14/04/2018"
+      }
+    },
+    "CAMPO A TRAVÉS MASCULINO": {
+      "H": {
+        "Mejor Marca": "14.52",
+        "Atleta": "DAVID TOIMIL PLAZA",
+        "Lugar": "Cangas de Foz",
+        "Fecha": "22/10/2023"
+      }
+    },
+    "5000 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "20.18.09",
+        "Atleta": " MARIAM FERRÁN FRAGA",
+        "Lugar": "Pontevedra",
+        "Fecha": "20/07/2019"
+      }
+    },
+    "10000 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "47.01.96",
+        "Atleta": "CRISTINA TORRES HERVES",
+        "Lugar": "Marin",
+        "Fecha": "24/03/2019"
+      }
+    },
+    "CAMPO A TRAVÉS FEMININO": {
+      "M": {
+        "Mejor Marca": "20.56",
+        "Atleta": " MARIAM FERRÁN FRAGA",
+        "Lugar": "As Pontes",
+        "Fecha": "03/02/2019"
+      }
+    },
+    "MILLA PISTA FEMININO": {
+      "M": {
+        "Mejor Marca": "5.52.34",
+        "Atleta": "CRISTINA TORRES HERVES",
+        "Lugar": "Pontevedra",
+        "Fecha": "14/11/2020"
+      }
+    },
+    "300 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "44.86",
+        "Atleta": "AKISSI F. LAVANDEIRA VILLAR",
+        "Lugar": "Lugo",
+        "Fecha": "03/07/2021"
+      }
+    },
+    "600 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "1.24.24",
+        "Atleta": "JORGE PUIG MALVAR",
+        "Lugar": "Pontevedra",
+        "Fecha": "13/07/2022"
+      }
+    },
+    "DISCO 1,750 KG. MASCULINO": {
+      "H": {
+        "Mejor Marca": "18.06",
+        "Atleta": "DAVID VARELA RIVAS",
+        "Lugar": "Pereiro de Aguiar",
+        "Fecha": "26/06/2022"
+      }
+    },
+    "XABALINA 500GR MASCULINO": {
+      "H": {
+        "Mejor Marca": "23.83",
+        "Atleta": "ANTON DIAZ CAMPOS",
+        "Lugar": "O Barco Valdeorras",
+        "Fecha": "18/06/2023"
+      }
+    },
+    "4X200 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "1.39.90",
+        "Atleta": "ADRIAN OUTEIRAL VILAS",
+        "Lugar": "Pontevedra",
+        "Fecha": "13/07/2022"
+      }
+    },
+    "PESO 1KG MASCULINO": {
+      "H": {
+        "Mejor Marca": "4.94",
+        "Atleta": "GUSTAVO NOYA PENA",
+        "Lugar": "Lugo",
+        "Fecha": "05/06/2022"
+      }
+    },
+    "HEPTATHLON JUNIOR FEMININO": {
+      "M": {
+        "Mejor Marca": "2838.0",
+        "Atleta": "LAURA BARBAZAN LESTA",
+        "Lugar": "A Coruña",
+        "Fecha": "03/07/2022"
+      }
+    },
+    "10 KM. RUTA MASCULINO": {
+      "H": {
+        "Mejor Marca": "32.03",
+        "Atleta": "JORGE PUIG MALVAR",
+        "Lugar": "Ourense",
+        "Fecha": "12/11/2023"
+      }
+    },
+    "DECATHLON M50 MASCULINO": {
+      "H": {
+        "Mejor Marca": "4.828",
+        "Atleta": "DAVID LÓPEZ VILARIÑO",
+        "Lugar": "Vigo",
+        "Fecha": "23/04/2023"
+      }
+    },
+    "5KMR MASCULINO": {
+      "H": {
+        "Mejor Marca": "15.35",
+        "Atleta": "JORGE PUIG MALVAR",
+        "Lugar": "Ourense",
+        "Fecha": "12/11/2023"
+      }
+    },
+    "10 KM. RUTA FEMININO": {
+      "M": {
+        "Mejor Marca": "42.26",
+        "Atleta": "TERESA PARRADO PINAQUE",
+        "Lugar": "Ourense",
+        "Fecha": "12/11/2023"
+      }
+    },
+    "XAVELINA 800GR FEMININO": {
+      "M": {
+        "Mejor Marca": "17,33",
+        "Atleta": "LAURA BARBAZAN LESTA",
+        "Lugar": "Pontevedra",
+        "Fecha": "30/04/2023"
+      }
+    },
+    "5KMR FEMININO": {
+      "M": {
+        "Mejor Marca": "21.16",
+        "Atleta": "TERESA PARRADO PINAQUE",
+        "Lugar": "Ourense",
+        "Fecha": "12/11/2023"
+      }
+    }
+  },
+  "PC": {
+    "50 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "6.19",
+        "Atleta": " NACHO RIVAS PEREIRO",
+        "Lugar": "A Coruña",
+        "Fecha": "31/01/2015"
+      }
+    },
+    "60 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "6.85",
+        "Atleta": "JAVIER CANCELA SANCHEZ-AGUSTINO",
+        "Lugar": "Ourense",
+        "Fecha": "07/01/2018"
+      }
+    },
+    "400 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "49.17",
+        "Atleta": "ALEXIS MIGUENS PEREZ",
+        "Lugar": "Ourense",
+        "Fecha": "12/02/2022"
+      }
+    },
+    "800 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "1.51.40",
+        "Atleta": "PEDRO OSORIO LOPEZ",
+        "Lugar": "Ourense",
+        "Fecha": "21/01/2023"
+      }
+    },
+    "1000 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "2.52.57",
+        "Atleta": "MATEO ALLER GARCIA",
+        "Lugar": "Ourense",
+        "Fecha": "20/02/2022"
+      }
+    },
+    "1500 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "3.50.74",
+        "Atleta": "JORGE PUIG MALVAR",
+        "Lugar": "Ourense",
+        "Fecha": "09/12/2022"
+      }
+    },
+    "ALTURA MASCULINO": {
+      "H": {
+        "Mejor Marca": "1.88",
+        "Atleta": "PABLO ALONSO CAMPO",
+        "Lugar": "Valencia",
+        "Fecha": "07/03/2020"
+      }
+    },
+    "LONXITUDE MASCULINO": {
+      "H": {
+        "Mejor Marca": "12.32",
+        "Atleta": "MANUEL MARTINEZ PAZ",
+        "Lugar": "Ourense",
+        "Fecha": "11/01/2020"
+      }
+    },
+    "PESO 7,260  KG MASCULINO": {
+      "H": {
+        "Mejor Marca": "12.96",
+        "Atleta": "FRANCISCO JAVIER GUZMAN ARES",
+        "Lugar": "Ourense",
+        "Fecha": "12/01/2020"
+      }
+    },
+    "60 M.V. 1,00 MASCULINO": {
+      "H": {
+        "Mejor Marca": "10.81",
+        "Atleta": " JOSE CABADO CASTRO",
+        "Lugar": "Antequera",
+        "Fecha": "19/03/2016"
+      }
+    },
+    "200 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "2.57",
+        "Atleta": "BLANCA LORENZO BRANTUAS",
+        "Lugar": "A Coruña",
+        "Fecha": "04/02/2017"
+      }
+    },
+    "1500 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "4.57.48",
+        "Atleta": "TERESA PARRADO PINAQUE",
+        "Lugar": "Ourense",
+        "Fecha": "29/01/2023"
+      }
+    },
+    "200 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "22.26",
+        "Atleta": "ADRIAN OUTEIRAL VILAS",
+        "Lugar": "Ourense",
+        "Fecha": "21/01/2023"
+      }
+    },
+    "3000 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "8.30.90",
+        "Atleta": " JORGE PUIG MALVAR",
+        "Lugar": "Ourense",
+        "Fecha": "13/01/2019"
+      }
+    },
+    "TRIPLO MASCULINO": {
+      "H": {
+        "Mejor Marca": "13.4",
+        "Atleta": "ROI RIAL GARCÍA",
+        "Lugar": "Ourense",
+        "Fecha": "26/02/2023"
+      }
+    },
+    "PÉRTEGA MASCULINO": {
+      "H": {
+        "Mejor Marca": "4.2",
+        "Atleta": "HECTOR MARTINEZ FRANCO",
+        "Lugar": "Ourense",
+        "Fecha": "07/03/2020"
+      }
+    },
+    "HEPTATHLON MASCULINO": {
+      "H": {
+        "Mejor Marca": "4321.0",
+        "Atleta": "MATEO ALLER GARCIA",
+        "Lugar": "Ourense",
+        "Fecha": "20/02/2022"
+      }
+    },
+    "50 M.V. 0,91 MASCULINO": {
+      "H": {
+        "Mejor Marca": "7.56",
+        "Atleta": "PABLO RODRIGUEZ RODRIGUEZ",
+        "Lugar": "A Coruña",
+        "Fecha": "25/02/2017"
+      }
+    },
+    "50 M.V. MASCULINO": {
+      "H": {
+        "Mejor Marca": "7.34",
+        "Atleta": " CARLOS MANUEL IGLESIAS CARBALLO",
+        "Lugar": "A Coruña",
+        "Fecha": "24/01/2016"
+      }
+    },
+    "60 M.V. 0,91 MASCULINO": {
+      "H": {
+        "Mejor Marca": "10.32",
+        "Atleta": " BRANDÁN CANDAL BLANCO",
+        "Lugar": "Lugo",
+        "Fecha": "11/01/2015"
+      }
+    },
+    "60 M.V. MASCULINO": {
+      "H": {
+        "Mejor Marca": "8.43",
+        "Atleta": "GUZMAN CARRIL ESCOLANTE",
+        "Lugar": "Ourense",
+        "Fecha": "12/02/2022"
+      }
+    },
+    "PESO 5 KG MASCULINO": {
+      "H": {
+        "Mejor Marca": "12.15",
+        "Atleta": "OLMO PRUNERI CABRINI",
+        "Lugar": "A Coruña",
+        "Fecha": "25/02/2017"
+      }
+    },
+    "50 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "6.90",
+        "Atleta": "MARIA ANGEL RUIZ MARIN",
+        "Lugar": "A Coruña",
+        "Fecha": "08/02/2020"
+      }
+    },
+    "60 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "7.95",
+        "Atleta": "MANUELA RAVIÑA VALENCIA",
+        "Lugar": "Ourense",
+        "Fecha": "20/02/2022"
+      }
+    },
+    "800 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "2.16.67",
+        "Atleta": "DEGNESH MARIA MATO GOMEZ",
+        "Lugar": "Ourense",
+        "Fecha": "23/02/2020"
+      }
+    },
+    "ALTURA FEMININO": {
+      "M": {
+        "Mejor Marca": "1.4",
+        "Atleta": " ANDREA GONZALEZ GARCIA",
+        "Lugar": "Salamanca",
+        "Fecha": "05/03/2016"
+      }
+    },
+    "LONXITUDE FEMININO": {
+      "M": {
+        "Mejor Marca": "10.33",
+        "Atleta": "EMMA LORENZO CASAS",
+        "Lugar": "Ourense",
+        "Fecha": "07/01/2018"
+      }
+    },
+    "50 M.V. 0,762 FEMININO": {
+      "M": {
+        "Mejor Marca": "8,80",
+        "Atleta": " ANDREA GONZÁLEZ GARCÍA",
+        "Lugar": "A Coruña",
+        "Fecha": "15/02/2015"
+      }
+    },
+    "60 M.V. 0,762 FEMININO": {
+      "M": {
+        "Mejor Marca": "10.17",
+        "Atleta": "UXIA FERNANDEZ BLANCO",
+        "Lugar": "Ourense",
+        "Fecha": "28/02/2021"
+      }
+    },
+    "PESO 3 KG FEMININO": {
+      "M": {
+        "Mejor Marca": "10.79",
+        "Atleta": " ANDREA GONZALEZ GARCIA",
+        "Lugar": "Salamanca",
+        "Fecha": "05/03/2016"
+      }
+    },
+    "60 M.V. 0,762 MASCULINO": {
+      "H": {
+        "Mejor Marca": "11.46",
+        "Atleta": "JOSE CABADO CASTRO",
+        "Lugar": "Lugo",
+        "Fecha": "29/01/2017"
+      }
+    },
+    "400 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "1.01.47",
+        "Atleta": "CARLA PEREZ CORRAL",
+        "Lugar": "Oviedo",
+        "Fecha": "13/02/2021"
+      }
+    },
+    "3000 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "10.49.70",
+        "Atleta": "TERESA PARRADO PINAQUE",
+        "Lugar": "Ourense",
+        "Fecha": "21/01/2023"
+      }
+    },
+    "PÉRTEGA FEMININO": {
+      "M": {
+        "Mejor Marca": "2.71",
+        "Atleta": "ANDREA BOTELLA RODRIGUEZ",
+        "Lugar": "Ourense",
+        "Fecha": "08/01/2023"
+      }
+    },
+    "50 M.V. 0,84 FEMININO": {
+      "M": {
+        "Mejor Marca": "8.33",
+        "Atleta": " ANDREA GONZALEZ GARCIA",
+        "Lugar": "A Coruña",
+        "Fecha": "24/01/2016"
+      }
+    },
+    "MILLA PISTA MASCULINO": {
+      "H": {
+        "Mejor Marca": "4.14.19",
+        "Atleta": "OMAR ES SALMOUNY SALMOUNI",
+        "Lugar": "Columbia - (USA)",
+        "Fecha": "17/02/2017"
+      }
+    },
+    "PESO 6 KG MASCULINO": {
+      "H": {
+        "Mejor Marca": "10.93",
+        "Atleta": "MARTIN BREA OZORES",
+        "Lugar": "Ourense",
+        "Fecha": "12/03/2023"
+      }
+    },
+    "REL. 4X50 MASCULINO": {
+      "H": {
+        "Mejor Marca": "33.86",
+        "Atleta": "ABSOLUTO HOMES CA SANTIAGO",
+        "Lugar": "Lugo",
+        "Fecha": "17/12/2016"
+      }
+    },
+    "TRIPLO FEMININO": {
+      "M": {
+        "Mejor Marca": "11.06",
+        "Atleta": "PAULA DOBATO MOURIZ",
+        "Lugar": "Ourense",
+        "Fecha": "22/01/2022"
+      }
+    },
+    "PESO 4 KG FEMININO": {
+      "M": {
+        "Mejor Marca": "9.58",
+        "Atleta": "VERONICA ARTECHE EGEA",
+        "Lugar": "Ourense",
+        "Fecha": "28/02/2021"
+      }
+    },
+    "4X200 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "1.45.87",
+        "Atleta": "ABSOLUTO HOMES CA SANTIAGO",
+        "Lugar": "Ourense",
+        "Fecha": "23/12/2017"
+      }
+    },
+    "PENTATHLON MASCULINO": {
+      "H": {
+        "Mejor Marca": "2960.0",
+        "Atleta": "JOSE CABADO CASTRO",
+        "Lugar": "Lugo",
+        "Fecha": "28/01/2018"
+      }
+    },
+    "HEPTATLON XUVENIL MASCULINO": {
+      "H": {
+        "Mejor Marca": "3344",
+        "Atleta": "MARIO CABALEIRO DIAZ",
+        "Lugar": "Ourense",
+        "Fecha": "31/12/2017"
+      }
+    },
+    "RELEVOS4X3 MASCULINO": {
+      "H": {
+        "Mejor Marca": "4.13.81",
+        "Atleta": "ABSOLUTO HOMES CA SANTIAGO",
+        "Lugar": "Ourense",
+        "Fecha": "07/01/2018"
+      }
+    },
+    "60 M.V. 0,84 FEMININO": {
+      "M": {
+        "Mejor Marca": "10.34",
+        "Atleta": "LAURA BARBAZAN LESTA",
+        "Lugar": "Ourense",
+        "Fecha": "12/02/2022"
+      }
+    },
+    "RELEVOS4X3 FEMININO": {
+      "M": {
+        "Mejor Marca": "6.15.65",
+        "Atleta": "ABSOLUTO MULLERES CA SANTIAGO",
+        "Lugar": "Ourense",
+        "Fecha": "07/01/2018"
+      }
+    },
+    "50 M.V. 1,00 MASCULINO": {
+      "H": {
+        "Mejor Marca": "8.60",
+        "Atleta": "DAVID DOMINGUEZ SALAS",
+        "Lugar": "A Coruña",
+        "Fecha": "02/02/2019"
+      }
+    },
+    "PENTATHLON FEMININO": {
+      "M": {
+        "Mejor Marca": "1968.0",
+        "Atleta": "ANDREA BOTELLA RODRIGUEZ",
+        "Lugar": "Ourense",
+        "Fecha": "18/12/2021"
+      }
+    },
+    "PENTATLON FEMININO": {
+      "M": {
+        "Mejor Marca": "2.474",
+        "Atleta": "CLAUDIA COSTAS GONZALEZ",
+        "Lugar": "Ourense",
+        "Fecha": "29/12/2018"
+      }
+    },
+    "300 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "36.04",
+        "Atleta": "PEDRO POSE REGOS",
+        "Lugar": "Ourense",
+        "Fecha": "09/12/2022"
+      }
+    },
+    "4X200 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "5.56.13",
+        "Atleta": "MANUELA RAVIÑA VALENCIA",
+        "Lugar": "Ourense",
+        "Fecha": "22/01/2022"
+      }
+    },
+    "4X400 M.L. FEMININO": {
+      "M": {
+        "Mejor Marca": "4.38.86",
+        "Atleta": "TEODORA RUSO VIDAL",
+        "Lugar": "Ourense",
+        "Fecha": "07/01/2023"
+      }
+    }
+  },
+  "RU": {
+    "MILLA URBANA MASCULINO": {
+      "H": {
+        "Mejor Marca": "4.26",
+        "Atleta": " VICTOR RIOBO VILLANUEVA",
+        "Lugar": "Gijon",
+        "Fecha": "02/04/2016"
+      }
+    },
+    "5KMR MASCULINO": {
+      "H": {
+        "Mejor Marca": "14.57",
+        "Atleta": "JORGE PUIG MALVAR",
+        "Lugar": "As Pontes",
+        "Fecha": "19/03/2023"
+      }
+    },
+    "MILLA URBANA FEMININO": {
+      "M": {
+        "Mejor Marca": "5.49",
+        "Atleta": " PATRICIE VIADEL TURJANICOVÁ",
+        "Lugar": "Santiago",
+        "Fecha": "07/04/2019"
+      }
+    },
+    "5KM MARCHA RUTA FEMININO": {
+      "M": {
+        "Mejor Marca": "26.46",
+        "Atleta": "SOFIA CAMPOS ARES",
+        "Lugar": "Marín",
+        "Fecha": "01/02/2020"
+      }
+    },
+    "5KMR FEMININO": {
+      "M": {
+        "Mejor Marca": "19,19",
+        "Atleta": "PATRICIE VIADEL TURJANICOVA",
+        "Lugar": "Santiago",
+        "Fecha": "11/03/2023"
+      }
+    },
+    "10 KM M.R. FEMININO": {
+      "M": {
+        "Mejor Marca": "1.00.49",
+        "Atleta": "SALOME SEGADE BUIDE",
+        "Lugar": "Milladoiro (Ames)",
+        "Fecha": "05/02/2023"
+      }
+    },
+    "MEDIO MARATÓN MASCULINO": {
+      "H": {
+        "Mejor Marca": "1.08.40",
+        "Atleta": "FERNANDO RIAL CASTRO",
+        "Lugar": "Pontevedra",
+        "Fecha": "16/10/2022"
+      }
+    },
+    "10 KM. RUTA MASCULINO": {
+      "H": {
+        "Mejor Marca": "30.32",
+        "Atleta": "JORGE PUIG MALVAR",
+        "Lugar": "Ourense",
+        "Fecha": "20/11/2022"
+      }
+    },
+    "10 KM. RUTA FEMININO": {
+      "M": {
+        "Mejor Marca": "41.04",
+        "Atleta": "PATRICIE VIADEL TURJANICOVA",
+        "Lugar": "Santiago",
+        "Fecha": "30/04/2022"
+      }
+    },
+    "5KM MARCHA RUTA MASCULINO": {
+      "H": {
+        "Mejor Marca": "22.02",
+        "Atleta": "ROBERTO VIEIRO PEREZ",
+        "Lugar": "Marín",
+        "Fecha": "01/02/2020"
+      }
+    },
+    "10 KM M.R. MASCULINO": {
+      "H": {
+        "Mejor Marca": "44.24",
+        "Atleta": "ROBERTO VIEIRO PEREZ",
+        "Lugar": "Marín",
+        "Fecha": "01/02/2020"
+      }
+    },
+    "10 KMMR MASCULINO": {
+      "H": {
+        "Mejor Marca": "45.38",
+        "Atleta": "ROBERTO VIEIRO PEREZ",
+        "Lugar": "Merida",
+        "Fecha": "02/04/2017"
+      }
+    },
+    "MEDIO MARATÓN FEMININO": {
+      "M": {
+        "Mejor Marca": "1.36.25",
+        "Atleta": "MARÍA FERNÁNDEZ PRAVIA",
+        "Lugar": "A Coruña",
+        "Fecha": "26/02/2017"
+      }
+    },
+    "3KM MARCHA RUTA MASCULINO": {
+      "H": {
+        "Mejor Marca": "13.06",
+        "Atleta": "ROBERTO VIEIRO PEREZ",
+        "Lugar": "Marín",
+        "Fecha": "01/02/2020"
+      }
+    },
+    "3KM MARCHA RUTA FEMININO": {
+      "M": {
+        "Mejor Marca": "15.42",
+        "Atleta": "SOFIA CAMPOS ARES",
+        "Lugar": "Marín",
+        "Fecha": "01/02/2020"
+      }
+    }
+  }
+}

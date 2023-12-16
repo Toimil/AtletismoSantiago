@@ -223,3 +223,48 @@ function sendEmail() {
     // Redirigir al usuario al enlace de correo electrónico
     window.location.href = mailtoLink;
 }
+
+
+
+ // URL del JSON de datos
+ var url = 'https://ruta-de-tu-json.com/archivo.json';
+
+ // Función para cargar los datos en la tabla
+ function cargarDatosEnTabla(datos) {
+     var tabla = document.getElementById('tabla-marcas').getElementsByTagName('tbody')[0];
+
+     for (var tipoPrueba in datos) {
+         for (var nombrePrueba in datos[tipoPrueba]) {
+             for (var genero in datos[tipoPrueba][nombrePrueba]) {
+                 var marcaData = datos[tipoPrueba][nombrePrueba][genero]["H"];
+                 var mejorMarca = marcaData["Mejor Marca"];
+                 var atleta = marcaData["Atleta"];
+                 var lugar = marcaData["Lugar"];
+                 var fecha = marcaData["Fecha"];
+
+                 var fila = tabla.insertRow();
+                 var celdaTipoPrueba = fila.insertCell(0);
+                 var celdaNombrePrueba = fila.insertCell(1);
+                 var celdaGenero = fila.insertCell(2);
+                 var celdaMejorMarca = fila.insertCell(3);
+                 var celdaAtleta = fila.insertCell(4);
+                 var celdaLugar = fila.insertCell(5);
+                 var celdaFecha = fila.insertCell(6);
+
+                 celdaTipoPrueba.innerHTML = tipoPrueba;
+                 celdaNombrePrueba.innerHTML = nombrePrueba;
+                 celdaGenero.innerHTML = genero;
+                 celdaMejorMarca.innerHTML = mejorMarca;
+                 celdaAtleta.innerHTML = atleta;
+                 celdaLugar.innerHTML = lugar;
+                 celdaFecha.innerHTML = fecha;
+             }
+         }
+     }
+ }
+
+ // Cargar datos desde la URL
+ fetch(url)
+     .then(response => response.json())
+     .then(data => cargarDatosEnTabla(data))
+     .catch(error => console.error('Error al cargar los datos:', error));
