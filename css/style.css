@@ -682,3 +682,17 @@ hr.divider {
 }
 
 
+/* Media query para pantallas pequeñas */
+@media (max-width: 767px) {
+    .slide1 h6,
+    .slide2 h6 {
+        font-size: 0.8em; /* Tamaño del texto en pantallas pequeñas */
+    }
+
+    .slide1 .display-2,
+    .slide2 .display-2 {
+        font-size: 2rem; /* Tamaño del texto en pantallas pequeñas */
+    }
+}
+
+

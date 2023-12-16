@@ -46,7 +46,7 @@
 
     <nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top" id="barraNavegacion">
         <div class="container px-4">
-            <a class="navbar-brand" href="#" style="max-width: 40%">
+            <a class="navbar-brand" href="./index.html" style="max-width: 40%">
                 <img src="./img/logo.png" alt="Club Atletismo Santiago Logo" style="max-width: 50%; height: auto;">
             </a>
             <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse"
@@ -57,10 +57,10 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto my-2 my-lg-0 ">
                     <li nav-item>
-                        <a href="#inicio" class="nav-link">Inicio</a>
+                        <a href="./index.html" class="nav-link">Inicio</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="#" id="destinosDropdown" role="button"
+                        <a class="nav-link dropdown-toggle" href="./historia.html" id="destinosDropdown" role="button"
                             data-toggle="dropdown" data-bs-toggle="dropdown" aria-expanded="false">
                             Club
                         </a>
@@ -70,16 +70,16 @@
                         </ul>
                     </li>
                     <li class="nav-item">
-                        <a href="#calendario" class="nav-link">Calendario</a>
+                        <a href="./calendario.html" class="nav-link">Calendario</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#estadisticas" class="nav-link ">Estadísticas</a>
+                        <a href="./estadisticas_club.html" class="nav-link ">Estadísticas</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#patrocinadores" class="nav-link ">Patrocinadores</a>
+                        <a href="./patrocinadores.html" class="nav-link ">Patrocinadores</a>
                     </li>
                     <li class="nav-item">
-                        <a href="#contacto" class="nav-link ">Contacto</a>
+                        <a href="./contacto.html" class="nav-link ">Contacto</a>
                     </li>
 
                 </ul>
@@ -91,11 +91,18 @@
         <div class="container">
             <div class="text-center pb-1 wow fadeInUp" data-wow-delay="0.1s">
                 <h5 class="text-primary-gradient fw-medium">ESTADÍSTICAS</h5>
-                <h1 class="mb-1">RECORDS del Club</h1>
-                <p class="mb-0">A continuación, te mostramos los records del club en las diferentes pruebas atléticas</p>
+                <h1 class="mb-1">Récords del Club</h1>
+                <p class="mb-0">A continuación, te mostramos los records del club en las diferentes pruebas atléticas
+                </p>
                 <hr class="divider" />
                 <br>
             </div>
+
+        </div>
+
+        <div class="row justify-content-center text-center d-flex align-items-center mt-0  ">
+
+
             <table id="tabla-marcas">
                 <thead>
                     <tr>
@@ -103,98 +110,197 @@
                         <th>Nombre de Prueba</th>
                         <th>Género</th>
                         <th>Mejor Marca</th>
-                        <th>Atleta</th>
-                        <th>Lugar</th>
-                        <th>Fecha</th>
+
                     </tr>
                 </thead>
                 <tbody>
-                    <!-- Aquí se cargarán los datos dinámicamente -->
-                </tbody>            
+                </tbody>
+            </table>
+
         </div>
     </div>
 
 
 
-    
 
 
 
 
-    <!-- Footer-->
-    <footer class="bg-light py-5 mt-5">
-
-        <div class="container">
-            <div class="row">
-                <div class="col-6 col-md-3 mb-3">
-                    <h5>Atletismo Santiago</h5>
-                    <ul class="nav flex-column">
-                        <li class="nav-item mb-2"><a href="#" class="nav-link p-0 text-muted">Inicio</a></li>
-                        <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Club</a></li>
-                        <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Calendario</a></li>
-                        <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Estadisticas</a></li>
-                        <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Patrocinadores</a></li>
-                        <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Contacto</a></li>
-
-                    </ul>
-                </div>
-                <div class="col-6 col-md-3 mb-3">
-                    <h5>Club</h5>
-                    <ul class="nav flex-column">
-                        <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Historia</a></li>
-
-                        <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Inscripciones</a></li>
-
-                    </ul>
-                </div>
-                <div class="col-md-5 offset-md-1 mb-3">
-                    <form>
-                        <h5>Contacto</h5>
-                        <p>Si tienes alguna pregunta no dudes en ponerte en contacto con nosotros</p>
-                        <div class="d-flex flex-column flex-sm-row w-100 gap-2">
-                            <label for="newsletter1" class="visually-hidden">Correo electrónico</label>
-                            <input id="email" type="text" class="form-control" placeholder="Correo electrónico">
-                            <label for="subject" class="visually-hidden">Asunto</label>
-                            <input id="subject" type="text" class="form-control" placeholder="Asunto">
-
-                        </div>
-                        <div class="d-flex flex-column flex-sm-row w-100 gap-2 mt-2">
-                            <label for="message" class="visually-hidden">Mensaje</label>
-                            <textarea id="message" type="text" class="form-control" placeholder="Mensaje"></textarea>
-                        </div>
-                        <div
-                            class="d-flex flex-column flex-sm-row w-100 mt-2 text-center justify-content-center align-items-center">
-                            <button class="btn btn-primary" type="button" onclick="sendEmail()">Enviar</button>
-                        </div>
 
 
-                    </form>
 
-                </div>
-            </div>
-            <div class="d-flex flex-column flex-sm-row justify-content-between py-4 my-4 border-top">
-                <p>&copy; 2023 Reservados todos los derechos. <a
-                        href="https://www.linkedin.com/in/%C3%B3scar-toimil-plaza/" style="color:#516171"
-                        target="_blank" rel="noopener noreferrer">Ó. Toimil</a>. &copy;</p>
-                <ul class="list-unstyled d-flex">
-                    <li class="ms-4"><a class="bi bi-twitter link-dark" href="#"></a></li>
-                    <li class="ms-4"><a class="bi bi-instagram link-dark" href="#"></a></li>
-                    <li class="ms-4"><a class="bi bi-facebook link-dark" href="#"></svg></a></li>
+   <!-- Footer-->
+   <footer class="bg-light py-5 mt-5">
+
+    <div class="container">
+        <div class="row">
+            <div class="col-6 col-md-3 mb-3">
+                <h5>Atletismo Santiago</h5>
+                <ul class="nav flex-column">
+                    <li class="nav-item mb-2"><a href="./index.html" class="nav-link p-0 text-muted">Inicio</a></li>
+                    <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Club</a></li>
+                    <li class="nav-item mb-2"><a href="./calendario.html" class="nav-link p-0 text-muted">Calendario</a></li>
+                    <li class="nav-item mb-2"><a href="./estadisticas_club.html" class="nav-link p-0 text-muted">Estadisticas</a></li>
+                    <li class="nav-item mb-2"><a href="./patrocinadores.html" class="nav-link p-0 text-muted">Patrocinadores</a></li>
+                    <li class="nav-item mb-2"><a href="./contacto.html" class="nav-link p-0 text-muted">Contacto</a></li>
+
                 </ul>
             </div>
+            <div class="col-6 col-md-3 mb-3">
+                <h5>Club</h5>
+                <ul class="nav flex-column">
+                    <li class="nav-item mb-2"><a href="./historia.html" class="nav-link p-0 text-muted">Historia</a></li>
+
+                    <li class="nav-item mb-2"><a href="https://swimburger-cas-app-demo.web.app/forms/licencia" class="nav-link p-0 text-muted">Inscripciones</a></li>
+
+                </ul>
+            </div>
+            <div class="col-md-5 offset-md-1 mb-3">
+                <form>
+                    <h5>Contacto</h5>
+                    <p>Si tienes alguna pregunta no dudes en ponerte en contacto con nosotros</p>
+                    <div class="d-flex flex-column flex-sm-row w-100 gap-2">
+                        <label for="newsletter1" class="visually-hidden">Correo electrónico</label>
+                        <input id="email" type="text" class="form-control" placeholder="Correo electrónico">
+                        <label for="subject" class="visually-hidden">Asunto</label>
+                        <input id="subject" type="text" class="form-control" placeholder="Asunto">
+
+                    </div>
+                    <div class="d-flex flex-column flex-sm-row w-100 gap-2 mt-2">
+                        <label for="message" class="visually-hidden">Mensaje</label>
+                        <textarea id="message" type="text" class="form-control" placeholder="Mensaje"></textarea>
+                    </div>
+                    <div
+                        class="d-flex flex-column flex-sm-row w-100 mt-2 text-center justify-content-center align-items-center">
+                        <button class="btn btn-primary" type="button" onclick="sendEmail()">Enviar</button>
+                    </div>
 
 
+                </form>
+
+            </div>
         </div>
-    </footer>
+        <div class="d-flex flex-column flex-sm-row justify-content-between border-top">
+            <p>&copy; 2023 Reservados todos los derechos. <a
+                    href="https://www.linkedin.com/in/%C3%B3scar-toimil-plaza/" style="color:#5e5b5b"
+                    target="_blank" rel="noopener noreferrer">Ó. Toimil</a>. &copy;</p>
+            <ul class="list-unstyled d-flex">
+                <li class="ms-4"><a class="bi bi-twitter link-dark" href="#"></a></li>
+                <li class="ms-4"><a class="bi bi-instagram link-dark" href="#"></a></li>
+                <li class="ms-4"><a class="bi bi-facebook link-dark" href="#"></svg></a></li>
+            </ul>
+        </div>
+
+
+    </div>
+</footer>
+
+
 
 
 
     <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
-    <!-- <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js"></script> -->
+    <script src="js/owl.carousel.min.js"></script>
     <script src="js/app.js"></script>
+    <script src="js/tooltip.min.js"></script>
+
+    <script>
+        // URL del JSON de datos
+        var url = 'https://toimil.github.io/AtletismoSantiago/data/records_del_club.json';
+
+        // ... (código de inicio del fetch)
+
+        fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                var tabla = document.getElementById('tabla-marcas').getElementsByTagName('tbody')[0];
+
+                for (var tipoPrueba in data) {
+                    for (var nombrePrueba in data[tipoPrueba]) {
+                        for (var genero in data[tipoPrueba][nombrePrueba]) {
+                            var marcaData = data[tipoPrueba][nombrePrueba][genero];
+                            var mejorMarca = marcaData["Mejor Marca"];
+                            var atleta = marcaData["Atleta"];
+                            var lugar = marcaData["Lugar"];
+                            var fecha = marcaData["Fecha"];
+
+                            var fila = tabla.insertRow();
+
+                            var celdaTipoPrueba = fila.insertCell();
+                            var celdaNombrePrueba = fila.insertCell();
+                            var celdaGenero = fila.insertCell();
+                            var celdaMejorMarca = fila.insertCell();
+
+                            celdaTipoPrueba.innerHTML = tipoPrueba;
+                            celdaNombrePrueba.innerHTML = nombrePrueba;
+                            celdaGenero.innerHTML = genero;
+                            celdaMejorMarca.innerHTML = mejorMarca;
+
+                            // Agregar eventos de hover y clic a cada celda
+                            agregarEventos(celdaTipoPrueba, tipoPrueba, nombrePrueba, genero, mejorMarca, atleta, lugar, fecha);
+                            agregarEventos(celdaNombrePrueba, tipoPrueba, nombrePrueba, genero, mejorMarca, atleta, lugar, fecha);
+                            agregarEventos(celdaGenero, tipoPrueba, nombrePrueba, genero, mejorMarca, atleta, lugar, fecha);
+                            agregarEventos(celdaMejorMarca, tipoPrueba, nombrePrueba, genero, mejorMarca, atleta, lugar, fecha);
+
+                        }
+                    }
+                }
+            })
+            .catch(error => console.error('Error al cargar los datos:', error));
+
+        function agregarEventos(elemento, tipoPrueba, nombrePrueba, genero, mejorMarca, atleta, lugar, fecha) {
+            tooltip_en_pantalla = false;
+            elemento.addEventListener('mouseenter', function () {
+                mostrarTooltip(this, tipoPrueba, nombrePrueba, genero, mejorMarca, atleta, lugar, fecha);
+            });
+
+            elemento.addEventListener('mouseleave', function () {
+                ocultarTooltip(this);
+            });
+
+            elemento.addEventListener('click', function () {
+
+                if (tooltip_en_pantalla) {
+                    $('.tooltip.bs-tooltip-auto.fade.show').remove();
+                    tooltip_en_pantalla = false;
+                }
+
+                activeTooltip = mostrarTooltip(this, tipoPrueba, nombrePrueba, genero, mejorMarca, atleta, lugar, fecha);
+                tooltip_en_pantalla = true;
+            });
+        }
+
+        function mostrarTooltip(elemento, tipoPrueba, nombrePrueba, genero, mejorMarca, atleta, lugar, fecha) {
+            var tooltipContent = `Tipo de Prueba: ${tipoPrueba}<br>
+                         Nombre de Prueba: ${nombrePrueba}<br>
+                         Género: ${genero}<br>
+                         Mejor Marca: ${mejorMarca}<br>
+                         Atleta: ${atleta}<br>
+                         Lugar: ${lugar}<br>
+                         Fecha: ${fecha}`;
+
+            // Mostrar el tooltip utilizando Bootstrap
+            var tooltip = new bootstrap.Tooltip(elemento, {
+                title: tooltipContent,
+                placement: 'top',
+                html: true,
+                trigger: 'manual'
+            });
+
+            tooltip.show();
+        }
+
+        function ocultarTooltip(elemento) {
+            // Ocultar el tooltip cuando se deja de hacer hover
+            var tooltip = bootstrap.Tooltip.getInstance(elemento);
+            if (tooltip) {
+                tooltip.hide();
+            }
+        }
+
+    </script>
 </body>
 
 </html>
