@@ -33,10 +33,8 @@
                     <p> <i class='bx bxs-phone-call'></i> +34 666666666</p>
                 </div>
                 <div class="col-auto social-icons">
-                    <a href="#"><i class='bx bxl-facebook'></i></a>
-                    <a href="#"><i class='bx bxl-twitter'></i></a>
-                    <a href="#"><i class='bx bxl-instagram'></i></a>
-                    <a href="#"><i class='bx bxl-pinterest'></i></a>
+                    <a href="https://www.facebook.com/clubatletismo.santiago/?locale=es_ES"><i class='bx bxl-facebook'></i></a>
+                    <a href="https://www.instagram.com/atletismosantiago/?hl=es"><i class='bx bxl-instagram'></i></a>
                 </div>
             </div>
         </div>
@@ -60,20 +58,27 @@
                         <a href="./index.html" class="nav-link">Inicio</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="./historia.html" id="destinosDropdown" role="button"
+                        <a class="nav-link dropdown-toggle" href="" id="destinosDropdown" role="button"
                             data-toggle="dropdown" data-bs-toggle="dropdown" aria-expanded="false">
                             Club
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-                            <li><a class="dropdown-item" href="">Historia</a></li>
+                            <li><a class="dropdown-item" href="./historia.html">Historia</a></li>
                             <li><a class="dropdown-item" href="https://swimburger-cas-app-demo.web.app/forms/licencia">Licencias</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
                         <a href="./calendario.html" class="nav-link">Calendario</a>
                     </li>
-                    <li class="nav-item">
-                        <a href="./estadisticas_club.html" class="nav-link ">Estadísticas</a>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="" id="destinosDropdown" role="button"
+                            data-toggle="dropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                            Estadísticas                            
+                        </a>
+                        <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <li><a class="dropdown-item" href="./records_club.html">Récords del Club</a></li>
+                            <li><a class="dropdown-item" href="./estadisticas_atleta.html">Estadísticas Atletas</a></li>
+                        </ul>
                     </li>
                     <li class="nav-item">
                         <a href="./patrocinadores.html" class="nav-link ">Patrocinadores</a>
@@ -210,9 +215,9 @@
                     Para la tramitación de la licencia RFEA/FGA por parte del Club de Atletismo Santiago entre a través
                     de este enlace:</p>
                 <div class="d-flex justify-content-center align-items-center">
-                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    <a href="https://swimburger-cas-app-demo.web.app/forms/licencia" class="btn btn-primary">
                         Tramitación Licencias
-                    </button>
+                    </a>
                 </div>
             </div>
 
@@ -239,9 +244,9 @@
                     Descubre las fechas clave y no te pierdas ninguna oportunidad de participar en las mejores carreras
                     de Galicia</p>
                 <div class="d-flex justify-content-center align-items-center">
-                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
+                    <a href="./calendario.html" class="btn btn-primary">
                         Calendario de Competiciones
-                    </button>
+                    </a>
                 </div>
             </div>
 
@@ -257,13 +262,18 @@
             <div class="col-lg-5  py-2">
                 <h1 class="text-center">ESTADÍSTICAS</h1>
                 <hr class="divider" />
-                <p> Descubre los récords del club realizados en las diferentes pruebas atléticas. Visualiza el atleta que lo realizó además de la marca, lugar y fecha.
+                <p> Descubre los récords del club realizados en las diferentes pruebas atléticas.
+                    Además, visualiza las mejores marcas personales de nuestros atletas con licencia.
                     Sumérgete en las estadísticas que reflejan el esfuerzo y el éxito de nuestro
                     talentoso equipo:</p>
                 <div class="d-flex justify-content-center align-items-center">
-                    <button type="button" class="btn btn-primary" data-bs-toggle="modal" data-bs-target="#exampleModal">
-                        Estadísticas
-                    </button>
+                    <a href="./records_club.html" class="btn btn-primary" style="margin-right: 5%;">
+                        Récords del Club
+                    </a>
+                    
+                    <a href="./estadisticas_atleta.html" class="btn btn-primary">
+                        Estadísticas Atletas
+                    </a>
                 </div>
             </div>
 
@@ -515,7 +525,7 @@
                         <li class="nav-item mb-2"><a href="./index.html" class="nav-link p-0 text-muted">Inicio</a></li>
                         <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Club</a></li>
                         <li class="nav-item mb-2"><a href="./calendario.html" class="nav-link p-0 text-muted">Calendario</a></li>
-                        <li class="nav-item mb-2"><a href="./estadisticas_club.html" class="nav-link p-0 text-muted">Estadisticas</a></li>
+                        <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Estadisticas</a></li>
                         <li class="nav-item mb-2"><a href="./patrocinadores.html" class="nav-link p-0 text-muted">Patrocinadores</a></li>
                         <li class="nav-item mb-2"><a href="./contacto.html" class="nav-link p-0 text-muted">Contacto</a></li>
 
@@ -527,6 +537,14 @@
                         <li class="nav-item mb-2"><a href="./historia.html" class="nav-link p-0 text-muted">Historia</a></li>
 
                         <li class="nav-item mb-2"><a href="https://swimburger-cas-app-demo.web.app/forms/licencia" class="nav-link p-0 text-muted">Inscripciones</a></li>
+
+                    </ul>
+                    <br>
+                    <h5>Estadísticas</h5>
+                    <ul class="nav flex-column">
+                        <li class="nav-item mb-2"><a href="./records_club.html" class="nav-link p-0 text-muted">Récords del Club</a></li>
+
+                        <li class="nav-item mb-2"><a href="./estadisticas_atleta.html" class="nav-link p-0 text-muted">Estadisticas Atletas</a></li>
 
                     </ul>
                 </div>
@@ -560,9 +578,8 @@
                         href="https://www.linkedin.com/in/%C3%B3scar-toimil-plaza/" style="color:#5e5b5b"
                         target="_blank" rel="noopener noreferrer">Ó. Toimil</a>. &copy;</p>
                 <ul class="list-unstyled d-flex">
-                    <li class="ms-4"><a class="bi bi-twitter link-dark" href="#"></a></li>
-                    <li class="ms-4"><a class="bi bi-instagram link-dark" href="#"></a></li>
-                    <li class="ms-4"><a class="bi bi-facebook link-dark" href="#"></svg></a></li>
+                    <li class="ms-4"><a class="bi bi-instagram link-dark" href="https://www.instagram.com/atletismosantiago/?hl=es"></a></li>
+                    <li class="ms-4"><a class="bi bi-facebook link-dark" href="https://www.facebook.com/clubatletismo.santiago/?locale=es_ES"></svg></a></li>
                 </ul>
             </div>
 

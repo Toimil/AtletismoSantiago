@@ -97,85 +97,65 @@
     <div class="container mt-5 py-1">
         <div class="container">
             <div class="text-center pb-1 wow fadeInUp" data-wow-delay="0.1s">
-                <h5 class="text-primary-gradient fw-medium">CONTACTO</h5>
-                <h1 class="mb-1">Métodos de Contacto</h1>
-                <p class="mb-0">Si tienes alguna pregunta no dudes en ponerte en contacto con nosotros ya sea online o
-                    presencialmente</p>
+                <h5 class="text-primary-gradient fw-medium">ESTADÍSTICAS</h5>
+                <h1 class="mb-1">Récords del Club</h1>
+                <p class="mb-0">A continuación, te mostramos los records del club en las diferentes pruebas atléticas
+                </p>
                 <hr class="divider" />
                 <br>
             </div>
 
-            <div class="row justify-content-center text-center d-flex " id="columnas-contacto">
-                <!-- Columna de Localización -->
-                <div class="col-lg-3 col-md-4">
-                    <i class="fas fa-map-marker-alt"></i> <!-- Icono de ubicación -->
-                    <h5>Localización</h5>
-                    <p>Av. Romero Donallo 29 entreplanta Santiago</p>
-                </div>
+        </div>
+        <style>
+            .table-wrapper {
+                width: 100%;
+                overflow: auto;
+            }
 
-                <!-- Columna de Número de Teléfono -->
-                <div class="col-lg-3 col-md-4">
-                    <i class="fas fa-phone-alt"></i> <!-- Icono de teléfono -->
-                    <h5>Número de Teléfono</h5>
-                    <p>+34 666666666</p>
-                </div>
-
-                <!-- Columna de Correo Electrónico -->
-                <div class="col-lg-3 col-md-4">
-                    <i class="far fa-envelope"></i> <!-- Icono de sobre -->
-                    <h5>Correo Electrónico</h5>
-                    <p>atletismosantiago@gmail.com</p>
-                </div>
-            </div>
-
-            <div class="row justify-content-center text-center d-flex align-items-center mt-5   ">
+            .table-wrapper table {
+                border-collapse: separate;
+                border-spacing: 0;
+            }
 
 
+            .table-wrapper table  th,
+            .table-wrapper table  td {
+                border: 1px solid #000;
+                background-color: #FFF;
+            }
+        </style>
 
-                <!-- Columna de Formulario de Contacto -->
-                <div class="col-lg-8 mb-3">
-                    <h3>Contacto</h5>
-                        <p style="font-weight: var(--bs-body-font-weight);">Si tienes alguna pregunta no dudes en
-                            ponerte en contacto con nosotros</p>
-                        <div class="d-flex flex-column flex-sm-row w-100 gap-2">
-                            <label for="email" class="visually-hidden">Correo electrónico</label>
-                            <input id="email" type="text" class="form-control" placeholder="Correo electrónico"
-                                style="border:2px solid;border-color: var(--brand);">
-                            <label for="subject" class="visually-hidden">Asunto</label>
-                            <input id="subject" type="text" class="form-control" placeholder="Asunto"
-                                style="border:2px solid;border-color: var(--brand);">
-                        </div>
-                        <div class="d-flex flex-column flex-sm-row w-100 gap-2 mt-2">
-                            <label for="message" class="visually-hidden">Mensaje</label>
-                            <textarea id="message" type="text" class="form-control" placeholder="Mensaje"
-                                style="border:2px solid;border-color: var(--brand);"></textarea>
-                        </div>
-                        <div
-                            class="d-flex flex-column flex-sm-row w-100 mt-4 text-center justify-content-center align-items-center">
-                            <button class="btn btn-primary" type="button" onclick="sendEmail()">Enviar</button>
-                        </div>
-                </div>
+        <div class="row justify-content-center text-center d-flex align-items-center mt-0  table-wrapper">
 
-            </div>
+
+            <table id="tabla-marcas">
+                <thead>
+                    <tr>
+                        <th>Tipo de Prueba</th>
+                        <th>Nombre de Prueba</th>
+                        <th>Género</th>
+                        <th>Mejor Marca</th>
+
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+
         </div>
     </div>
 
 
-
-    <section class="map mt-2">
-        <div class="container-fluid p-0">
-            <iframe
-                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2924.0769986484106!2d-8.555213809876754!3d42.87121892827757!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0xd2efe158b981fc7%3A0x8d0501c2a3b47d0a!2sAv.%20de%20Romero%20Donallo%2C%2029%2C%2015706%20Santiago%20de%20Compostela%2C%20A%20Coru%C3%B1a!5e0!3m2!1ses!2ses!4v1702333696937!5m2!1ses!2ses"
-                width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                referrerpolicy="no-referrer-when-downgrade"></iframe>
-        </div>
-    </section><!-- End Map Section -->
+    
 
 
 
 
-    <!-- Footer-->
-    <!-- Footer-->
+
+
+
+
+
     <footer class="bg-light py-5 mt-5">
 
         <div class="container">
@@ -250,13 +230,110 @@
 
 
 
+
+
     <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
     <script src="js/bootstrap.bundle.min.js"></script>
     <script src="js/owl.carousel.min.js"></script>
-    <!-- <script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js"></script> -->
     <script src="js/app.js"></script>
+    <script src="js/tooltip.min.js"></script>
+
+    <script>
+        // URL del JSON de datos
+        var url = 'https://toimil.github.io/AtletismoSantiago/data/records_del_club.json';
+
+        // ... (código de inicio del fetch)
+
+        fetch(url)
+            .then(response => response.json())
+            .then(data => {
+                var tabla = document.getElementById('tabla-marcas').getElementsByTagName('tbody')[0];
+
+                for (var tipoPrueba in data) {
+                    for (var nombrePrueba in data[tipoPrueba]) {
+                        for (var genero in data[tipoPrueba][nombrePrueba]) {
+                            var marcaData = data[tipoPrueba][nombrePrueba][genero];
+                            var mejorMarca = marcaData["Mejor Marca"];
+                            var atleta = marcaData["Atleta"];
+                            var lugar = marcaData["Lugar"];
+                            var fecha = marcaData["Fecha"];
+
+                            var fila = tabla.insertRow();
+
+                            var celdaTipoPrueba = fila.insertCell();
+                            var celdaNombrePrueba = fila.insertCell();
+                            var celdaGenero = fila.insertCell();
+                            var celdaMejorMarca = fila.insertCell();
+
+                            celdaTipoPrueba.innerHTML = tipoPrueba;
+                            celdaNombrePrueba.innerHTML = nombrePrueba;
+                            celdaGenero.innerHTML = genero;
+                            celdaMejorMarca.innerHTML = mejorMarca;
+
+                            // Agregar eventos de hover y clic a cada celda
+                            agregarEventos(celdaTipoPrueba, tipoPrueba, nombrePrueba, genero, mejorMarca, atleta, lugar, fecha);
+                            agregarEventos(celdaNombrePrueba, tipoPrueba, nombrePrueba, genero, mejorMarca, atleta, lugar, fecha);
+                            agregarEventos(celdaGenero, tipoPrueba, nombrePrueba, genero, mejorMarca, atleta, lugar, fecha);
+                            agregarEventos(celdaMejorMarca, tipoPrueba, nombrePrueba, genero, mejorMarca, atleta, lugar, fecha);
+
+                        }
+                    }
+                }
+            })
+            .catch(error => console.error('Error al cargar los datos:', error));
+
+        function agregarEventos(elemento, tipoPrueba, nombrePrueba, genero, mejorMarca, atleta, lugar, fecha) {
+            tooltip_en_pantalla = false;
+            elemento.addEventListener('mouseenter', function () {
+                mostrarTooltip(this, tipoPrueba, nombrePrueba, genero, mejorMarca, atleta, lugar, fecha);
+            });
+
+            elemento.addEventListener('mouseleave', function () {
+                ocultarTooltip(this);
+            });
+
+            elemento.addEventListener('click', function () {
+
+                if (tooltip_en_pantalla) {
+                    $('.tooltip.bs-tooltip-auto.fade.show').remove();
+                    tooltip_en_pantalla = false;
+                }
+
+                activeTooltip = mostrarTooltip(this, tipoPrueba, nombrePrueba, genero, mejorMarca, atleta, lugar, fecha);
+                tooltip_en_pantalla = true;
+            });
+        }
+
+        function mostrarTooltip(elemento, tipoPrueba, nombrePrueba, genero, mejorMarca, atleta, lugar, fecha) {
+            var tooltipContent = `Tipo de Prueba: ${tipoPrueba}<br>
+                         Nombre de Prueba: ${nombrePrueba}<br>
+                         Género: ${genero}<br>
+                         Mejor Marca: ${mejorMarca}<br>
+                         Atleta: ${atleta}<br>
+                         Lugar: ${lugar}<br>
+                         Fecha: ${fecha}`;
+
+            // Mostrar el tooltip utilizando Bootstrap
+            var tooltip = new bootstrap.Tooltip(elemento, {
+                title: tooltipContent,
+                placement: 'top',
+                html: true,
+                trigger: 'manual'
+            });
+
+            tooltip.show();
+        }
+
+        function ocultarTooltip(elemento) {
+            // Ocultar el tooltip cuando se deja de hacer hover
+            var tooltip = bootstrap.Tooltip.getInstance(elemento);
+            if (tooltip) {
+                tooltip.hide();
+            }
+        }
+
+    </script>
 </body>
 
 </html>

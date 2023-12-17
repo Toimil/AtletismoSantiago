@@ -591,6 +591,10 @@ hr.divider {
         display: none;
         /* Ocultar los iconos de redes sociales en dispositivos móviles */
     }
+
+    .project .overlay {
+        height: 260px;
+    }
 }
 
 /* Estilo para el contenedor principal */
