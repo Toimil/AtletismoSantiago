@@ -3,7 +3,7 @@
         "title": "Xogade – Cros – Fase Zonal",
         "place": "Pino, O",
         "url": "https://atletismo.gal/competicions/xogade-cros-fase-zonal/",
-        "start": "2023-12-02"
+        "start": "2023-12-01"
     },
     {
         "title": "Campionato de España Clubes Sub-20 de Pista Cuberta 2023",
@@ -204,9 +204,27 @@
         "start": "2023-12-23"
     },
     {
+        "title": "XII Carreira e Andaina Popular do Nadal",
+        "place": "Rúa, A",
+        "url": "https://atletismo.gal/competicions/xii-carreira-e-andaina-popular-do-nadal/",
+        "start": "2023-12-24"
+    },
+    {
+        "title": "I Trofeo José Luis Torrado. Festa HQR! Rías Baixas",
+        "place": "Pontevedra",
+        "url": "https://atletismo.gal/competicions/i-trofeo-jose-luis-torrado-festa-hqr-rias-bixas/",
+        "start": "2023-12-28"
+    },
+    {
         "title": "VIII San Silvestre Concello de Fene",
         "place": "Fene",
         "url": "https://atletismo.gal/competicions/viii-san-silvestre-concello-de-fene/",
+        "start": "2023-12-30"
+    },
+    {
+        "title": "Control Expourense 30/12/2023",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/control-expourense-30-12-2023celta-vila-santiago-rias-baixas/",
         "start": "2023-12-30"
     },
     {
@@ -257,7 +275,7 @@
         "url": "https://atletismo.gal/competicions/vi-san-silvestre-solidaria-a-ilusion-de-sergio/",
         "start": "2023-12-31"
     },
-	{
+    {
         "title": "V Trofeo + Deporte La Región de Atletismo en Pista Curta",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/v-trofeo-deporte-la-region-de-atletismo-en-pista-curta/?cp_date=01/01/2024",
@@ -312,9 +330,9 @@
         "start": "2024-01-13"
     },
     {
-        "title": "Copa Xunta de Galicia de Clubs Absoluta de PC",
+        "title": "XIX Copa Xunta de Galicia de Clubs Absolutos en PC",
         "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/copa-xunta-de-galicia-de-clubs-absoluta-de-pc/?cp_date=01/01/2024",
+        "url": "https://atletismo.gal/competicions/xix-copa-xunta-de-galicia-de-clubs-absolutos-en-pc/?cp_date=01/01/2024",
         "start": "2024-01-14"
     },
     {
@@ -342,21 +360,21 @@
         "start": "2024-01-20"
     },
     {
-        "title": "Campionato Xunta de Galicia de Probas Combinadas Sub 16, Sub 18 e Sub 23",
+        "title": "Campionato Xunta de Galicia de Probas Combinadas Sub16 – Sub18 – Sub23 2024",
         "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-probas-combinadas-sub-16-sub-18-e-sub-23/?cp_date=01/01/2024",
+        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-probas-combinadas-sub16-sub18-sub23-2024/?cp_date=01/01/2024",
         "start": "2024-01-20"
     },
     {
-        "title": "Campionato Xunta de Galicia Sub 23 e de 3000 m. Absoluto de PC",
+        "title": "XXXIII Campionato Xunta de Galicia Sub23 en PC – 3000 m. Absoluto en PC",
         "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-sub-23-e-de-3000-m-absoluto-de-pc/?cp_date=01/01/2024",
+        "url": "https://atletismo.gal/competicions/xxxiii-campionato-xunta-de-galicia-sub23-en-pc-3000-m-absoluto-en-pc/?cp_date=01/01/2024",
         "start": "2024-01-21"
     },
     {
-        "title": "Campionato Xunta de Galicia Absoluto de PC (agás 3000 m)",
+        "title": "XXXIX Campionato Xunta de Galicia Absoluto en PC (Agás 3.000 m.)",
         "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-absoluto-de-pc-agas-3000-m/?cp_date=01/01/2024",
+        "url": "https://atletismo.gal/competicions/xxxix-campionato-xunta-de-galicia-absoluto-en-pc-agas-3-000-m/?cp_date=01/01/2024",
         "start": "2024-01-27"
     },
     {
@@ -366,21 +384,21 @@
         "start": "2024-01-27"
     },
     {
-        "title": "Campionato Xunta de Galicia Máster de PC",
+        "title": "XIX Campionato Xunta de Galicia Máster en PC",
         "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-master-de-pc/?cp_date=01/01/2024",
+        "url": "https://atletismo.gal/competicions/xix-campionato-xunta-de-galicia-master-en-pc/?cp_date=01/01/2024",
         "start": "2024-01-28"
     },
-	{
+    {
         "title": "Campionato Xunta de Galicia de 10.000 m. Abs, Sub 23 e Master e 5000 Sub18 e Sub 20. Memorial Alejandro Gómez",
         "place": "Cervo",
         "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-10-000-m-abs-sub-23-e-master-e-5000-sub18-e-sub-20-memorial-alejandro-gomez/?cp_date=01/02/2024",
-        "start": "2024-02-02"
+        "start": "2024-02-03"
     },
     {
-        "title": "Campionato Xunta de Galicia de Probas Combinadas Absolutas, Sub 20 e Máster",
+        "title": "XXXIV Campionato Xunta de Galicia de Probas Combinadas Absoluto – Sub20 – Máster",
         "place": "",
-        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-probas-combinadas-absolutas-sub-20-e-master/?cp_date=01/02/2024",
+        "url": "https://atletismo.gal/competicions/xxxiv-campionato-xunta-de-galicia-de-probas-combinadas-absoluto-sub20-master/?cp_date=01/02/2024",
         "start": "2024-02-03"
     },
     {
@@ -396,9 +414,9 @@
         "start": "2024-02-04"
     },
     {
-        "title": "Campionato Xunt de Galicia Sub 16 de PC",
+        "title": "XXXIII Campionato Xunta de Galicia Sub16 en PC",
         "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/campionato-xunt-de-galicia-sub-16-de-pc/?cp_date=01/02/2024",
+        "url": "https://atletismo.gal/competicions/xxxiii-campionato-xunta-de-galicia-sub16-en-pc/?cp_date=01/02/2024",
         "start": "2024-02-10"
     },
     {
@@ -408,9 +426,9 @@
         "start": "2024-02-10"
     },
     {
-        "title": "Campionato Xunta de Galicia Sub 18 de PC",
+        "title": "XXIX Campionato Xunta de Galicia Sub18 en PC",
         "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-sub-18-de-pc/?cp_date=01/02/2024",
+        "url": "https://atletismo.gal/competicions/xxix-campionato-xunta-de-galicia-sub18-en-pc/?cp_date=01/02/2024",
         "start": "2024-02-11"
     },
     {
@@ -438,9 +456,9 @@
         "start": "2024-02-18"
     },
     {
-        "title": "Campionato Xunta de Galicia Sub 20 PC",
+        "title": "XXXIII Campionato Xunta de Galicia Sub20 en PC",
         "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-sub-20-pc/?cp_date=01/02/2024",
+        "url": "https://atletismo.gal/competicions/xxxiii-campionato-xunta-de-galicia-sub20-en-pc/?cp_date=01/02/2024",
         "start": "2024-02-24"
     },
     {
@@ -448,5 +466,23 @@
         "place": "Coruña, A",
         "url": "https://atletismo.gal/competicions/xvi-medio-maraton-coruna-21-5k/?cp_date=01/02/2024",
         "start": "2024-02-25"
+    },
+    {
+        "title": "XVII Campionato Xunta de Galicia Sub10 – XIX Sub12 en PC",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/xvii-campionato-xunta-de-galicia-sub10-xix-sub12-en-pc/?cp_date=01/03/2024",
+        "start": "2024-03-09"
+    },
+    {
+        "title": "XX Campionato Xunta de Galicia Sub14 en PC",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/xx-campionato-xunta-de-galicia-sub14-en-pc/?cp_date=01/03/2024",
+        "start": "2024-03-10"
+    },
+    {
+        "title": "II Edición 10K “Costa Ártabra”",
+        "place": "Coruña, A",
+        "url": "https://atletismo.gal/competicions/ii-edicion-10k-costa-artabra/?cp_date=01/03/2024",
+        "start": "2024-03-10"
     }
 ]
