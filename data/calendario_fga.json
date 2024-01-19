@@ -1,279 +1,153 @@
 [
     {
-        "title": "Xogade – Cros – Fase Zonal",
-        "place": "Pino, O",
-        "url": "https://atletismo.gal/competicions/xogade-cros-fase-zonal/",
-        "start": "2023-12-01"
-    },
-    {
-        "title": "Campionato de España Clubes Sub-20 de Pista Cuberta 2023",
-        "place": "Antequera",
-        "url": "https://atletismo.gal/competicions/campionato-de-espana-clubes-sub-20-de-pista-cuberta-2023/",
-        "start": "2023-12-02"
-    },
-    {
-        "title": "XXVI Cros Guillelme Brown",
-        "place": "Pereiro de Aguiar, O",
-        "url": "https://atletismo.gal/competicions/xxvi-cros-guillelme-brown/",
-        "start": "2023-12-02"
-    },
-    {
-        "title": "Xogade – Cros – Fase Zonal",
-        "place": "Acea de Ama . O Burgo",
-        "url": "https://atletismo.gal/competicions/xogade-zonal-campo-a-traves-escolar/",
-        "start": "2023-12-02"
-    },
-    {
-        "title": "XXXVII Memorial Adolfo Ros – Volta á Ría",
-        "place": "Ferrol",
-        "url": "https://atletismo.gal/competicions/xxxvii-memorial-adolfo-ros-volta-a-ria/",
-        "start": "2023-12-03"
-    },
-    {
-        "title": "XVIII Carreira Popular Mar de Boiro. 16º Memorial Pepe Buceta",
-        "place": "Boiro",
-        "url": "https://atletismo.gal/competicions/xviii-carreira-popular-mar-de-boiro-15o-memorial-pepe-buceta/",
-        "start": "2023-12-03"
-    },
-    {
-        "title": "VIII Carreira Pedestre de Ribadavia",
-        "place": "Ribadavia",
-        "url": "https://atletismo.gal/competicions/viii-carreira-pedestre-de-ribadavia/",
-        "start": "2023-12-03"
-    },
-    {
-        "title": "Trofeo ABANCA 2023 Pista Cuberta",
+        "title": "V Trofeo + Deporte La Región de Atletismo en Pista Curta",
         "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/trofeo-abanca-2023-pista-cuberta/",
-        "start": "2023-12-03"
+        "url": "https://atletismo.gal/competicions/v-trofeo-deporte-la-region-de-atletismo-en-pista-curta/",
+        "start": "2024-01-03"
     },
     {
-        "title": "4ª Xornada. XL Copa Deputación Ourense de Atletismo – Cto. Provincial Federado de Campo a Través (Hipódromo de Antela)",
-        "place": "Sandiás - Xinzo de Limia",
-        "url": "https://atletismo.gal/competicions/4a-xornada-xl-copa-deputacion-ourense-de-atletismo-cpto-provincial-federado-de-campo-a-traves-hipodromo-de-antela/",
-        "start": "2023-12-06"
-    },
-    {
-        "title": "V Cros de Antioquía 2023",
-        "place": "Xinzo de Limia",
-        "url": "https://atletismo.gal/competicions/v-cros-de-antioquia-2023/",
-        "start": "2023-12-06"
-    },
-    {
-        "title": "5ª Xornada. XL Copa Deputación Ourense de Atletismo – Xornada en Pista Cuberta (Expourense)",
+        "title": "V Control Pista Cuberta S. G. Pontevedra – C. A. Sada",
         "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/5a-xornada-xl-copa-deputacion-ourense-de-atletismo-xornada-en-pista-cuberta-expourense/",
-        "start": "2023-12-07"
+        "url": "https://atletismo.gal/competicions/v-control-pista-cuberta-s-g-pontevedra-c-a-sada/",
+        "start": "2024-01-04"
     },
     {
-        "title": "XII Trofeo Club Deportivo Aurum",
-        "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/xii-trofeo-club-deportivo-aurum/",
-        "start": "2023-12-07"
+        "title": "Control Club Riazor 2024",
+        "place": "Coruña, A",
+        "url": "https://atletismo.gal/competicions/control-club-riazor-2024/",
+        "start": "2024-01-04"
     },
     {
-        "title": "I Milla Urbana Barrio de Caranza – “Memorial Armando Lobo”",
-        "place": "Ferrol",
-        "url": "https://atletismo.gal/competicions/i-milla-urbana-barrio-de-caranza-memorial-armando-lobo/",
-        "start": "2023-12-09"
-    },
-    {
-        "title": "XV Carreira Popular Vigo +11",
-        "place": "Vigo",
-        "url": "https://atletismo.gal/competicions/xv-carreira-popular-vigo-11/",
-        "start": "2023-12-10"
-    },
-    {
-        "title": "VIII Carreira Nocturna de Sada “Ninguén sen Nadal”",
-        "place": "Sada",
-        "url": "https://atletismo.gal/competicions/viii-carreira-nocturna-de-sada-ninguen-sen-nadal/",
-        "start": "2023-12-15"
-    },
-    {
-        "title": "Campionato de España Clubes Sub-16 de Pista Cuberta 2023",
-        "place": "Valencia",
-        "url": "https://atletismo.gal/competicions/campionato-de-espana-clubes-sub-16-de-pista-cuberta-2023/",
-        "start": "2023-12-16"
-    },
-    {
-        "title": "Campionato Xunta de Galicia de Clubs de Probas Combinadas e Criterium",
-        "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-clubs-de-probas-combinadas-e-criterium/",
-        "start": "2023-12-16"
-    },
-    {
-        "title": "Xogade – Cros – Fase Provincial Ourense",
-        "place": "Ribadavia",
-        "url": "https://atletismo.gal/competicions/xogade-cros-fase-provincial/",
-        "start": "2023-12-16"
-    },
-    {
-        "title": "Xogade – Cros – Fase Provincial Pontevedra",
-        "place": "Vigo",
-        "url": "https://atletismo.gal/competicions/xogade-cros-fase-provincial-2/",
-        "start": "2023-12-16"
-    },
-    {
-        "title": "Xogade – Cros – Fase Provincial A Coruña",
-        "place": "Santiago de Compostela",
-        "url": "https://atletismo.gal/competicions/xogade-cros-fase-provincial-3/",
-        "start": "2023-12-16"
-    },
-    {
-        "title": "Xogade – Cros – Fase Provincial Lugo",
-        "place": "Cangas de Foz",
-        "url": "https://atletismo.gal/competicions/xogade-cros-fase-provincial-4/",
-        "start": "2023-12-16"
-    },
-    {
-        "title": "Control FGA P.C. – 16/12/2023 (Xornada de Mañá)",
-        "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/control-fga-p-c-16-12-2023-ciriterium-xornada-de-mana/",
-        "start": "2023-12-16"
-    },
-    {
-        "title": "Control FGA P.C. – 16/12/2023 (Xornada de Tarde)",
-        "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/control-fga-p-c-16-12-2023-ciriterium-xornada-de-tarde/",
-        "start": "2023-12-16"
-    },
-    {
-        "title": "Campionato de España de Marcha de Invierno de Promoción 2023",
-        "place": "Getafe",
-        "url": "https://atletismo.gal/competicions/campionato-de-espana-de-marcha-de-invierno-de-promocion-2023/",
-        "start": "2023-12-17"
-    },
-    {
-        "title": "Carreira Popular Sin – Son 10 Km 2023",
-        "place": "Porto do Son",
-        "url": "https://atletismo.gal/competicions/carreira-popular-sin-son-10-km-2023/",
-        "start": "2023-12-17"
-    },
-    {
-        "title": "XX Carreira Pedestre de San Cibrao das Viñas",
-        "place": "San Cibrao das Viñas",
-        "url": "https://atletismo.gal/competicions/xx-carreira-pedestre-de-san-cibrao-das-vinas/",
-        "start": "2023-12-17"
-    },
-    {
-        "title": "VII Campionato Provincial de Ourense de 10Km en ruta Individual e por Equipos",
-        "place": "San Cibrao das Viñas",
-        "url": "https://atletismo.gal/competicions/vii-campionato-provincial-de-ourense-de-10km-en-ruta-individual-e-por-equipos/",
-        "start": "2023-12-17"
-    },
-    {
-        "title": "VII Trofeo Solidario de Nadal Celta Atletismo",
-        "place": "Vigo",
-        "url": "https://atletismo.gal/competicions/vii-trofeo-solidario-de-nadal-celta-atletismo/",
-        "start": "2023-12-17"
-    },
-    {
-        "title": "XLVI Trofeo de Campo a Través – San Miguel de Oia “Dedicada á Muller – Deporte Adaptado”",
-        "place": "San Miguel de Oia - Vigo",
-        "url": "https://atletismo.gal/competicions/xlvi-trofeo-de-campo-a-traves-san-miguel-de-oia-dedicada-a-muller-deporte-adaptado/",
-        "start": "2023-12-17"
-    },
-    {
-        "title": "Control FGA P.C. – 17/12/2023 (Xornada de Mañá)",
-        "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/control-fga-p-c-17-12-2023-ciriterium-xornada-de-mana/",
-        "start": "2023-12-17"
-    },
-    {
-        "title": "Control Lonxitude Club Atletismo Sada",
-        "place": "Oleiros (Bastiagueiro)",
-        "url": "https://atletismo.gal/competicions/control-longitude-club-atletismo-sada/",
-        "start": "2023-12-21"
-    },
-    {
-        "title": "Control Marcas de Inverno CAR",
-        "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/control-marcas-de-inverno-car/",
-        "start": "2023-12-23"
-    },
-    {
-        "title": "II Trofeo de Nadal Atletismo Barbanza “Estadio da Alta”",
-        "place": "Pobra do Caramiñal, A",
-        "url": "https://atletismo.gal/competicions/ii-trofeo-de-nadal-atletismo-barbanza-estadio-da-alta/",
-        "start": "2023-12-23"
-    },
-    {
-        "title": "Xornada Atletismo en P.C. Deputación de Lugo 23/12/2023",
-        "place": "Lugo",
-        "url": "https://atletismo.gal/competicions/xornada-atletismo-en-p-c-deputacion-de-lugo/",
-        "start": "2023-12-23"
-    },
-    {
-        "title": "XII Carreira e Andaina Popular do Nadal",
-        "place": "Rúa, A",
-        "url": "https://atletismo.gal/competicions/xii-carreira-e-andaina-popular-do-nadal/",
-        "start": "2023-12-24"
-    },
-    {
-        "title": "I Trofeo José Luis Torrado. Festa HQR! Rías Baixas",
+        "title": "VI Torneo de Reis 2024 Gran Premio Jim Sports",
         "place": "Pontevedra",
-        "url": "https://atletismo.gal/competicions/i-trofeo-jose-luis-torrado-festa-hqr-rias-bixas/",
-        "start": "2023-12-28"
+        "url": "https://atletismo.gal/competicions/vi-torneo-de-reis-2024-gran-premio-jim-sports/",
+        "start": "2024-01-05"
     },
     {
-        "title": "VIII San Silvestre Concello de Fene",
-        "place": "Fene",
-        "url": "https://atletismo.gal/competicions/viii-san-silvestre-concello-de-fene/",
-        "start": "2023-12-30"
-    },
-    {
-        "title": "Control Expourense 30/12/2023",
+        "title": "VI Copa Xunta de Galicia de Clubs Máster PC",
         "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/control-expourense-30-12-2023celta-vila-santiago-rias-baixas/",
-        "start": "2023-12-30"
+        "url": "https://atletismo.gal/competicions/copa-xunta-de-galicia-de-clubs-master-pista-cuberta/",
+        "start": "2024-01-07"
     },
     {
-        "title": "San Silvestre Concello de Neda 2023",
-        "place": "Neda",
-        "url": "https://atletismo.gal/competicions/san-silvestre-concello-de-neda-2023/",
-        "start": "2023-12-31"
+        "title": "Campionato Xunta de Galicia Individual e de Clubs: Sub 16, Sub 18, Sub 20, Sub 23 e Absoluto de Campo a Través",
+        "place": "Ribadavia",
+        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-sub-16-sub-18-sub-20-sub-23-e-absoluto-de-campo-a-traves/",
+        "start": "2024-01-07"
     },
     {
-        "title": "XVII Carreira Popular de Fin de Ano Ares – Mugardos – Ares",
-        "place": "Ares",
-        "url": "https://atletismo.gal/competicions/xvii-carreira-popular-de-fin-de-ano-ares-mugardos-ares/",
-        "start": "2023-12-31"
-    },
-    {
-        "title": "VIII San Silvestre Ourensá",
-        "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/viii-san-silvestre-ourensa/",
-        "start": "2023-12-31"
-    },
-    {
-        "title": "XXV Carreira de San Silvestre Castrelo de Miño",
-        "place": "Castrelo de Miño",
-        "url": "https://atletismo.gal/competicions/xxv-carreira-de-san-silvestre-castrelo-de-mino/",
-        "start": "2023-12-31"
-    },
-    {
-        "title": "San Silvestre Vigo 2023",
+        "title": "Campionato Xunta de Galicia de Lanzamentos Longos Máster 2024",
         "place": "Vigo",
-        "url": "https://atletismo.gal/competicions/san-silvestre-vigo-2023/",
-        "start": "2023-12-31"
+        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-lanzamentos-longos-master-2/",
+        "start": "2024-01-13"
     },
     {
-        "title": "A Trintaeundoce (San Silvestre Naronesa 2023)",
-        "place": "Narón",
-        "url": "https://atletismo.gal/competicions/a-trintaeundoce-san-silvestre-naronesa-2023/",
-        "start": "2023-12-31"
+        "title": "Xogade – Campionato de Galicia de Cros Escolar 2023/2024",
+        "place": "Ribadavia",
+        "url": "https://atletismo.gal/competicions/xogade-campionato-de-galicia-de-cros-escolar-2023-2024/",
+        "start": "2024-01-13"
     },
     {
-        "title": "San Silvestre Compostelá 2023",
-        "place": "Santiago de Compostela",
-        "url": "https://atletismo.gal/competicions/san-silvestre-compostela-2023/",
-        "start": "2023-12-31"
+        "title": "Control FGA A.L. 13/01/2024",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/control-fga-a-l-13-01-2024/",
+        "start": "2024-01-13"
     },
     {
-        "title": "VI San Silvestre Solidaria – A ilusión de Sergio",
-        "place": "Ordes",
-        "url": "https://atletismo.gal/competicions/vi-san-silvestre-solidaria-a-ilusion-de-sergio/",
-        "start": "2023-12-31"
+        "title": "XIX Copa Xunta de Galicia de Clubs Absolutos en PC",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/xix-copa-xunta-de-galicia-de-clubs-absolutos-en-pc/",
+        "start": "2024-01-14"
+    },
+    {
+        "title": "VI Carreira Popular Concello de Castro de Rei",
+        "place": "Castro de Rei",
+        "url": "https://atletismo.gal/competicions/vi-carreira-popular-concello-de-castro-de-rei/",
+        "start": "2024-01-14"
+    },
+    {
+        "title": "XL Carreira Popular San Xiao",
+        "place": "Ferrol",
+        "url": "https://atletismo.gal/competicions/xl-carreira-popular-san-xiao/",
+        "start": "2024-01-14"
+    },
+    {
+        "title": "Control FGA P.C.  14/01/2024",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/control-fga-p-c-14-01-2024/",
+        "start": "2024-01-14"
+    },
+    {
+        "title": "I Control A.V.A de P.C.",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/i-control-a-v-a-de-p-c/",
+        "start": "2024-01-19"
+    },
+    {
+        "title": "Campionato Xunta de Galicia Sub10 – Sub12 – Sub 14 de Campo a Través – XVIIMemorial Alejandro Lorenzo",
+        "place": "Rúa, A",
+        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-sub10-sub12-sub-14-de-campo-a-traves-xviimemorial-alejandro-lorenzo/",
+        "start": "2024-01-20"
+    },
+    {
+        "title": "XXXVI Campionato Xunta de Galicia Máster de Campo a Través",
+        "place": "Rúa, A",
+        "url": "https://atletismo.gal/competicions/xxxvi-campionato-xunta-de-galicia-master-de-campo-a-traves/",
+        "start": "2024-01-20"
+    },
+    {
+        "title": "Campionato Xunta de Galicia de Probas Combinadas Sub16 – Sub18 – Sub23 2024",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-probas-combinadas-sub16-sub18-sub23-2024/",
+        "start": "2024-01-20"
+    },
+    {
+        "title": "Control FGA P.C. – 20/01/2024 – Xornada de Mañá",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/control-fga-p-c-20-01-2024-xornada-de-mana/",
+        "start": "2024-01-20"
+    },
+    {
+        "title": "Control FGA P.C. – 20/01/2024 – Xornada de Tarde",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/control-fga-p-c-20-01-2024-xornada-de-tarde/",
+        "start": "2024-01-20"
+    },
+    {
+        "title": "XXXIII Campionato Xunta de Galicia Sub23 en PC – 3000 m. Absoluto en PC",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/xxxiii-campionato-xunta-de-galicia-sub23-en-pc-3000-m-absoluto-en-pc/",
+        "start": "2024-01-21"
+    },
+    {
+        "title": "Control FGA P.C. – 21/01/2024",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/control-fga-p-c-21-01-2024/",
+        "start": "2024-01-21"
+    },
+    {
+        "title": "I Trofeo de Atletismo + Deporte Atlántico – Celta Atletismo",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/i-trofeo-de-atletismo-deporte-atlantico-celta-atletismo/",
+        "start": "2024-01-26"
+    },
+    {
+        "title": "XXXIX Campionato Xunta de Galicia Absoluto en PC (Agás 3.000 m.)",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/xxxix-campionato-xunta-de-galicia-absoluto-en-pc-agas-3-000-m/",
+        "start": "2024-01-27"
+    },
+    {
+        "title": "II Trail Terras de Burón",
+        "place": "Fonsagrada, A",
+        "url": "https://atletismo.gal/competicions/ii-trail-terras-de-buron/",
+        "start": "2024-01-27"
+    },
+    {
+        "title": "XIX Campionato Xunta de Galicia Máster en PC",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/xix-campionato-xunta-de-galicia-master-en-pc/",
+        "start": "2024-01-28"
     },
     {
         "title": "V Trofeo + Deporte La Región de Atletismo en Pista Curta",
@@ -312,21 +186,21 @@
         "start": "2024-01-07"
     },
     {
-        "title": "Campionato Xunta de Galicia de Lanzamentos Longos Máster",
-        "place": "",
+        "title": "Campionato Xunta de Galicia de Lanzamentos Longos Máster 2024",
+        "place": "Vigo",
         "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-lanzamentos-longos-master-2/?cp_date=01/01/2024",
         "start": "2024-01-13"
     },
     {
-        "title": "Campionato de Galicia Cros Escolar",
+        "title": "Xogade – Campionato de Galicia de Cros Escolar 2023/2024",
         "place": "Ribadavia",
-        "url": "https://atletismo.gal/competicions/campionato-de-galicia-cros-escolar/?cp_date=01/01/2024",
+        "url": "https://atletismo.gal/competicions/xogade-campionato-de-galicia-de-cros-escolar-2023-2024/?cp_date=01/01/2024",
         "start": "2024-01-13"
     },
     {
-        "title": "Xogade – Cros – Fase Autonómica",
-        "place": "Ribadavia",
-        "url": "https://atletismo.gal/competicions/xogade-cros-fase-autonomica/?cp_date=01/01/2024",
+        "title": "Control FGA A.L. 13/01/2024",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/control-fga-a-l-13-01-2024/?cp_date=01/01/2024",
         "start": "2024-01-13"
     },
     {
@@ -348,15 +222,27 @@
         "start": "2024-01-14"
     },
     {
-        "title": "Campionato Xunta de Galicia Sub 10, Sub 12 e Sub 14 de Campo a Través. Memorial Alejandro Lorenzo",
+        "title": "Control FGA P.C.  14/01/2024",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/control-fga-p-c-14-01-2024/?cp_date=01/01/2024",
+        "start": "2024-01-14"
+    },
+    {
+        "title": "I Control A.V.A de P.C.",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/i-control-a-v-a-de-p-c/?cp_date=01/01/2024",
+        "start": "2024-01-19"
+    },
+    {
+        "title": "Campionato Xunta de Galicia Sub10 – Sub12 – Sub 14 de Campo a Través – XVIIMemorial Alejandro Lorenzo",
         "place": "Rúa, A",
-        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-sub-10-sub-12-e-sub-14-de-campo-a-traves-memorial-alejandro-lorenzo/?cp_date=01/01/2024",
+        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-sub10-sub12-sub-14-de-campo-a-traves-xviimemorial-alejandro-lorenzo/?cp_date=01/01/2024",
         "start": "2024-01-20"
     },
     {
-        "title": "Campionato Xunta de Galicia Máster de Campo a Través",
+        "title": "XXXVI Campionato Xunta de Galicia Máster de Campo a Través",
         "place": "Rúa, A",
-        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-master-de-campo-a-traves/?cp_date=01/01/2024",
+        "url": "https://atletismo.gal/competicions/xxxvi-campionato-xunta-de-galicia-master-de-campo-a-traves/?cp_date=01/01/2024",
         "start": "2024-01-20"
     },
     {
@@ -366,10 +252,34 @@
         "start": "2024-01-20"
     },
     {
+        "title": "Control FGA P.C. – 20/01/2024 – Xornada de Mañá",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/control-fga-p-c-20-01-2024-xornada-de-mana/?cp_date=01/01/2024",
+        "start": "2024-01-20"
+    },
+    {
+        "title": "Control FGA P.C. – 20/01/2024 – Xornada de Tarde",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/control-fga-p-c-20-01-2024-xornada-de-tarde/?cp_date=01/01/2024",
+        "start": "2024-01-20"
+    },
+    {
         "title": "XXXIII Campionato Xunta de Galicia Sub23 en PC – 3000 m. Absoluto en PC",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/xxxiii-campionato-xunta-de-galicia-sub23-en-pc-3000-m-absoluto-en-pc/?cp_date=01/01/2024",
         "start": "2024-01-21"
+    },
+    {
+        "title": "Control FGA P.C. – 21/01/2024",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/control-fga-p-c-21-01-2024/?cp_date=01/01/2024",
+        "start": "2024-01-21"
+    },
+    {
+        "title": "I Trofeo de Atletismo + Deporte Atlántico – Celta Atletismo",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/i-trofeo-de-atletismo-deporte-atlantico-celta-atletismo/?cp_date=01/01/2024",
+        "start": "2024-01-26"
     },
     {
         "title": "XXXIX Campionato Xunta de Galicia Absoluto en PC (Agás 3.000 m.)",
@@ -390,6 +300,12 @@
         "start": "2024-01-28"
     },
     {
+        "title": "II Control Club Riazor 2024",
+        "place": "Coruña, A",
+        "url": "https://atletismo.gal/competicions/control-club-riazor-2024-2/?cp_date=01/02/2024",
+        "start": "2024-02-02"
+    },
+    {
         "title": "Campionato Xunta de Galicia de 10.000 m. Abs, Sub 23 e Master e 5000 Sub18 e Sub 20. Memorial Alejandro Gómez",
         "place": "Cervo",
         "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-10-000-m-abs-sub-23-e-master-e-5000-sub18-e-sub-20-memorial-alejandro-gomez/?cp_date=01/02/2024",
@@ -397,7 +313,7 @@
     },
     {
         "title": "XXXIV Campionato Xunta de Galicia de Probas Combinadas Absoluto – Sub20 – Máster",
-        "place": "",
+        "place": "Ourense",
         "url": "https://atletismo.gal/competicions/xxxiv-campionato-xunta-de-galicia-de-probas-combinadas-absoluto-sub20-master/?cp_date=01/02/2024",
         "start": "2024-02-03"
     },
@@ -408,9 +324,27 @@
         "start": "2024-02-03"
     },
     {
+        "title": "XIII Campionato Xunta de Galicia de Lanzamentos Longos Absoluto e Sub 23",
+        "place": "Lugo",
+        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-lanzamentos-longos-absoluto-e-sub-23-2/?cp_date=01/02/2024",
+        "start": "2024-02-03"
+    },
+    {
+        "title": "LVII Trofeo “Joaquín Romero”. VIII Memorial",
+        "place": "Ferrol",
+        "url": "https://atletismo.gal/competicions/lvii-trofeo-joaquin-romero-viii-memorial/?cp_date=01/02/2024",
+        "start": "2024-02-03"
+    },
+    {
         "title": "Campionato Xunta de Galicia de Marcha en ruta",
         "place": "Pobra do Caramiñal, A",
         "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-marcha-en-ruta/?cp_date=01/02/2024",
+        "start": "2024-02-04"
+    },
+    {
+        "title": "Circuíto Galego de Marcha Atlética 2024",
+        "place": "",
+        "url": "https://atletismo.gal/competicions/circuito-galego-de-marcha-atletica-2024/?cp_date=01/02/2024",
         "start": "2024-02-04"
     },
     {
@@ -435,6 +369,12 @@
         "title": "Campionato Xunta de Galicia de Lanzamentos Longos Sub 16",
         "place": "",
         "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-lanzamentos-longos-sub-16/?cp_date=01/02/2024",
+        "start": "2024-02-11"
+    },
+    {
+        "title": "VIII Carreira do Entroido",
+        "place": "Trazo",
+        "url": "https://atletismo.gal/competicions/viii-carreira-do-entroido/?cp_date=01/02/2024",
         "start": "2024-02-11"
     },
     {
@@ -480,9 +420,21 @@
         "start": "2024-03-10"
     },
     {
-        "title": "II Edición 10K “Costa Ártabra”",
-        "place": "Coruña, A",
-        "url": "https://atletismo.gal/competicions/ii-edicion-10k-costa-artabra/?cp_date=01/03/2024",
-        "start": "2024-03-10"
+        "title": "V Trail e Andaina Ribeiras do Tambre",
+        "place": "Ponte Maceira (Ames)",
+        "url": "https://atletismo.gal/competicions/v-trail-e-andaina-ribeiras-do-tambre/?cp_date=01/03/2024",
+        "start": "2024-03-17"
+    },
+    {
+        "title": "IV Subida a San Cidre",
+        "place": "Toques",
+        "url": "https://atletismo.gal/competicions/iv-subida-a-san-cidre-xacodesafio-2022/?cp_date=01/03/2024",
+        "start": "2024-03-17"
+    },
+    {
+        "title": "Trofeo Marcha en Ruta 2024",
+        "place": "Ames",
+        "url": "https://atletismo.gal/competicions/trofeo-marcha-en-ruta-2024/?cp_date=01/03/2024",
+        "start": "2024-03-24"
     }
 ]

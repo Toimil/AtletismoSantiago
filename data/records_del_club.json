@@ -1,13 +1,6 @@
 {
   "AL": {
-    "50 M.L. MASCULINO": {
-      "H": {
-        "Mejor Marca": "11.05",
-        "Atleta": "XOAN MUIÑOS ORGE",
-        "Lugar": "Pontevedra",
-        "Fecha": "05/01/2020"
-      }
-    },
+    
     "60 M.L. MASCULINO": {
       "H": {
         "Mejor Marca": "7.32",
@@ -66,10 +59,10 @@
     },
     "400 M.V. MASCULINO": {
       "H": {
-        "Mejor Marca": "1.01.67",
-        "Atleta": "PABLO RODRIGUEZ RODRIGUEZ",
-        "Lugar": "Cangas",
-        "Fecha": "17/05/2017"
+        "Mejor Marca": "55.64",
+        "Atleta": "MATEO ALLER GARCIA",
+        "Lugar": "A Coruña",
+        "Fecha": "03/07/2022"
       }
     },
     "ALTURA MASCULINO": {
@@ -107,19 +100,12 @@
     "4X400 M.L. MASCULINO": {
       "H": {
         "Mejor Marca": "3.19.73",
-        "Atleta": "ALEXIS MIGUENS PEREZ",
+        "Atleta": "PEDRO POSE REGOS",
         "Lugar": "Santiago",
         "Fecha": "17/06/2023"
       }
     },
-    "110 M.V. 0,914 MASCULINO": {
-      "H": {
-        "Mejor Marca": "18.67",
-        "Atleta": "DIEGO JAVIER IGLESIAS FREIRE",
-        "Lugar": "A Coruña",
-        "Fecha": "21/06/2014"
-      }
-    },
+    
     "110 M.V. 1,00 MASCULINO": {
       "H": {
         "Mejor Marca": "15.75",
@@ -714,10 +700,10 @@
     },
     "CAMPO A TRAVÉS MASCULINO": {
       "H": {
-        "Mejor Marca": "14.52",
-        "Atleta": "DAVID TOIMIL PLAZA",
-        "Lugar": "Cangas de Foz",
-        "Fecha": "22/10/2023"
+        "Mejor Marca": "24.28",
+        "Atleta": "DIEGO ALONSO CAMPO",
+        "Lugar": "As Pontes",
+        "Fecha": "03/02/2019"
       }
     },
     "5000 M.L. FEMININO": {
@@ -778,10 +764,10 @@
     },
     "XABALINA 500GR MASCULINO": {
       "H": {
-        "Mejor Marca": "23.83",
-        "Atleta": "ANTON DIAZ CAMPOS",
-        "Lugar": "O Barco Valdeorras",
-        "Fecha": "18/06/2023"
+        "Mejor Marca": "17.02",
+        "Atleta": "XOSE LUIS OTERO CEPEDA",
+        "Lugar": "Pontevedra",
+        "Fecha": "22/10/2022"
       }
     },
     "4X200 M.L. MASCULINO": {
@@ -808,12 +794,20 @@
         "Fecha": "03/07/2022"
       }
     },
-    "10 KM. RUTA MASCULINO": {
+    "XAVELINA 500GR MASCULINO": {
       "H": {
-        "Mejor Marca": "32.03",
-        "Atleta": "JORGE PUIG MALVAR",
-        "Lugar": "Ourense",
-        "Fecha": "12/11/2023"
+        "Mejor Marca": "23,83",
+        "Atleta": "ANTON DIAZ CAMPOS",
+        "Lugar": "O Barco Valdeorras",
+        "Fecha": "18/06/2023"
+      }
+    },
+    "XAVELINA 700GR MASCULINO": {
+      "H": {
+        "Mejor Marca": "40,31",
+        "Atleta": "ALFONSO LABELLA BLANCO",
+        "Lugar": "Santiago",
+        "Fecha": "05/05/2023"
       }
     },
     "DECATHLON M50 MASCULINO": {
@@ -824,20 +818,20 @@
         "Fecha": "23/04/2023"
       }
     },
-    "5KMR MASCULINO": {
-      "H": {
-        "Mejor Marca": "15.35",
-        "Atleta": "JORGE PUIG MALVAR",
-        "Lugar": "Ourense",
-        "Fecha": "12/11/2023"
+    "XAVELINA 500GR FEMININO": {
+      "M": {
+        "Mejor Marca": "34,18",
+        "Atleta": "ARALE FABEIRO CAO",
+        "Lugar": "A Pobra do Caramiñal",
+        "Fecha": "23/12/2023"
       }
     },
-    "10 KM. RUTA FEMININO": {
+    "XAVELINA 600GR FEMININO": {
       "M": {
-        "Mejor Marca": "42.26",
-        "Atleta": "TERESA PARRADO PINAQUE",
-        "Lugar": "Ourense",
-        "Fecha": "12/11/2023"
+        "Mejor Marca": "35,28",
+        "Atleta": "ANDREA BOTELLA RODRIGUEZ",
+        "Lugar": "Santiago",
+        "Fecha": "22/04/2023"
       }
     },
     "XAVELINA 800GR FEMININO": {
@@ -846,14 +840,6 @@
         "Atleta": "LAURA BARBAZAN LESTA",
         "Lugar": "Pontevedra",
         "Fecha": "30/04/2023"
-      }
-    },
-    "5KMR FEMININO": {
-      "M": {
-        "Mejor Marca": "21.16",
-        "Atleta": "TERESA PARRADO PINAQUE",
-        "Lugar": "Ourense",
-        "Fecha": "12/11/2023"
       }
     }
   },
@@ -876,18 +862,18 @@
     },
     "400 M.L. MASCULINO": {
       "H": {
-        "Mejor Marca": "49.17",
-        "Atleta": "ALEXIS MIGUENS PEREZ",
+        "Mejor Marca": "1.00.64",
+        "Atleta": "FRANCISCO JAVIER CAMPOS SUÁREZ",
         "Lugar": "Ourense",
-        "Fecha": "12/02/2022"
+        "Fecha": "07/01/2024"
       }
     },
     "800 M.L. MASCULINO": {
       "H": {
-        "Mejor Marca": "1.51.40",
+        "Mejor Marca": "1.49.73",
         "Atleta": "PEDRO OSORIO LOPEZ",
         "Lugar": "Ourense",
-        "Fecha": "21/01/2023"
+        "Fecha": "14/01/2024"
       }
     },
     "1000 M.L. MASCULINO": {
@@ -900,10 +886,10 @@
     },
     "1500 M.L. MASCULINO": {
       "H": {
-        "Mejor Marca": "3.50.74",
-        "Atleta": "JORGE PUIG MALVAR",
+        "Mejor Marca": "3.48.84",
+        "Atleta": "PEDRO OSORIO LOPEZ",
         "Lugar": "Ourense",
-        "Fecha": "09/12/2022"
+        "Fecha": "16/12/2023"
       }
     },
     "ALTURA MASCULINO": {
@@ -972,10 +958,10 @@
     },
     "TRIPLO MASCULINO": {
       "H": {
-        "Mejor Marca": "13.4",
-        "Atleta": "ROI RIAL GARCÍA",
+        "Mejor Marca": "13.74",
+        "Atleta": "ROI RIAL GARCIA",
         "Lugar": "Ourense",
-        "Fecha": "26/02/2023"
+        "Fecha": "14/01/2024"
       }
     },
     "PÉRTEGA MASCULINO": {
@@ -1266,12 +1252,44 @@
         "Fecha": "22/01/2022"
       }
     },
+    "80 M.V. 0,84 FEMININO": {
+      "M": {
+        "Mejor Marca": "11.03",
+        "Atleta": "LAURA BARBAZAN LESTA",
+        "Lugar": "Ourense",
+        "Fecha": "30/12/2023"
+      }
+    },
     "4X400 M.L. FEMININO": {
       "M": {
-        "Mejor Marca": "4.38.86",
-        "Atleta": "TEODORA RUSO VIDAL",
+        "Mejor Marca": "3.26.33",
+        "Atleta": "FERNANDO VALES FERREIRA",
         "Lugar": "Ourense",
-        "Fecha": "07/01/2023"
+        "Fecha": "14/01/2024"
+      }
+    },
+    "PESO 4 KG MASCULINO": {
+      "H": {
+        "Mejor Marca": "6.89",
+        "Atleta": "XOSE LUIS OTERO CEPEDA",
+        "Lugar": "Ourense",
+        "Fecha": "07/01/2024"
+      }
+    },
+    "4X400 M.L. MASCULINO": {
+      "H": {
+        "Mejor Marca": "3.26.33",
+        "Atleta": "PEDRO OSORIO LOPEZ",
+        "Lugar": "Ourense",
+        "Fecha": "14/01/2024"
+      }
+    },
+    "60 M.V. FEMININO": {
+      "M": {
+        "Mejor Marca": "8.97",
+        "Atleta": "DIEGO LIÑARES ROSENDE",
+        "Lugar": "Ourense",
+        "Fecha": "14/01/2024"
       }
     }
   },
