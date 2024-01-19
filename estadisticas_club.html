@@ -66,7 +66,8 @@
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <li><a class="dropdown-item" href="">Historia</a></li>
-                            <li><a class="dropdown-item" href="https://swimburger-cas-app-demo.web.app/forms/licencia">Licencias</a></li>
+                            <li><a class="dropdown-item"
+                                    href="https://swimburger-cas-app-demo.web.app/forms/licencia">Licencias</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -101,7 +102,7 @@
         </div>
 
         <div class="row justify-content-center text-center d-flex align-items-center mt-0  ">
-
+            
 
             <table id="tabla-marcas">
                 <thead>
@@ -129,71 +130,77 @@
 
 
 
-   <!-- Footer-->
-   <footer class="bg-light py-5 mt-5">
+    <!-- Footer-->
+    <footer class="bg-light py-5 mt-5">
 
-    <div class="container">
-        <div class="row">
-            <div class="col-6 col-md-3 mb-3">
-                <h5>Atletismo Santiago</h5>
-                <ul class="nav flex-column">
-                    <li class="nav-item mb-2"><a href="./index.html" class="nav-link p-0 text-muted">Inicio</a></li>
-                    <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Club</a></li>
-                    <li class="nav-item mb-2"><a href="./calendario.html" class="nav-link p-0 text-muted">Calendario</a></li>
-                    <li class="nav-item mb-2"><a href="./estadisticas_club.html" class="nav-link p-0 text-muted">Estadisticas</a></li>
-                    <li class="nav-item mb-2"><a href="./patrocinadores.html" class="nav-link p-0 text-muted">Patrocinadores</a></li>
-                    <li class="nav-item mb-2"><a href="./contacto.html" class="nav-link p-0 text-muted">Contacto</a></li>
+        <div class="container">
+            <div class="row">
+                <div class="col-6 col-md-3 mb-3">
+                    <h5>Atletismo Santiago</h5>
+                    <ul class="nav flex-column">
+                        <li class="nav-item mb-2"><a href="./index.html" class="nav-link p-0 text-muted">Inicio</a></li>
+                        <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Club</a></li>
+                        <li class="nav-item mb-2"><a href="./calendario.html"
+                                class="nav-link p-0 text-muted">Calendario</a></li>
+                        <li class="nav-item mb-2"><a href="./estadisticas_club.html"
+                                class="nav-link p-0 text-muted">Estadisticas</a></li>
+                        <li class="nav-item mb-2"><a href="./patrocinadores.html"
+                                class="nav-link p-0 text-muted">Patrocinadores</a></li>
+                        <li class="nav-item mb-2"><a href="./contacto.html" class="nav-link p-0 text-muted">Contacto</a>
+                        </li>
 
+                    </ul>
+                </div>
+                <div class="col-6 col-md-3 mb-3">
+                    <h5>Club</h5>
+                    <ul class="nav flex-column">
+                        <li class="nav-item mb-2"><a href="./historia.html" class="nav-link p-0 text-muted">Historia</a>
+                        </li>
+
+                        <li class="nav-item mb-2"><a href="https://swimburger-cas-app-demo.web.app/forms/licencia"
+                                class="nav-link p-0 text-muted">Inscripciones</a></li>
+
+                    </ul>
+                </div>
+                <div class="col-md-5 offset-md-1 mb-3">
+                    <form>
+                        <h5>Contacto</h5>
+                        <p>Si tienes alguna pregunta no dudes en ponerte en contacto con nosotros</p>
+                        <div class="d-flex flex-column flex-sm-row w-100 gap-2">
+                            <label for="newsletter1" class="visually-hidden">Correo electrónico</label>
+                            <input id="email" type="text" class="form-control" placeholder="Correo electrónico">
+                            <label for="subject" class="visually-hidden">Asunto</label>
+                            <input id="subject" type="text" class="form-control" placeholder="Asunto">
+
+                        </div>
+                        <div class="d-flex flex-column flex-sm-row w-100 gap-2 mt-2">
+                            <label for="message" class="visually-hidden">Mensaje</label>
+                            <textarea id="message" type="text" class="form-control" placeholder="Mensaje"></textarea>
+                        </div>
+                        <div
+                            class="d-flex flex-column flex-sm-row w-100 mt-2 text-center justify-content-center align-items-center">
+                            <button class="btn btn-primary" type="button" onclick="sendEmail()">Enviar</button>
+                        </div>
+
+
+                    </form>
+
+                </div>
+            </div>
+            <div class="d-flex flex-column flex-sm-row justify-content-between border-top">
+                <p>&copy; 2023 Reservados todos los derechos. <a
+                        href="https://www.linkedin.com/in/%C3%B3scar-toimil-plaza/" style="color:#5e5b5b"
+                        target="_blank" rel="noopener noreferrer">Ó. Toimil</a>. &copy;</p>
+                <ul class="list-unstyled d-flex">
+                    <li class="ms-4"><a class="bi bi-twitter link-dark" href="#"></a></li>
+                    <li class="ms-4"><a class="bi bi-instagram link-dark" href="#"></a></li>
+                    <li class="ms-4"><a class="bi bi-facebook link-dark" href="#"></svg></a></li>
                 </ul>
             </div>
-            <div class="col-6 col-md-3 mb-3">
-                <h5>Club</h5>
-                <ul class="nav flex-column">
-                    <li class="nav-item mb-2"><a href="./historia.html" class="nav-link p-0 text-muted">Historia</a></li>
-
-                    <li class="nav-item mb-2"><a href="https://swimburger-cas-app-demo.web.app/forms/licencia" class="nav-link p-0 text-muted">Inscripciones</a></li>
-
-                </ul>
-            </div>
-            <div class="col-md-5 offset-md-1 mb-3">
-                <form>
-                    <h5>Contacto</h5>
-                    <p>Si tienes alguna pregunta no dudes en ponerte en contacto con nosotros</p>
-                    <div class="d-flex flex-column flex-sm-row w-100 gap-2">
-                        <label for="newsletter1" class="visually-hidden">Correo electrónico</label>
-                        <input id="email" type="text" class="form-control" placeholder="Correo electrónico">
-                        <label for="subject" class="visually-hidden">Asunto</label>
-                        <input id="subject" type="text" class="form-control" placeholder="Asunto">
-
-                    </div>
-                    <div class="d-flex flex-column flex-sm-row w-100 gap-2 mt-2">
-                        <label for="message" class="visually-hidden">Mensaje</label>
-                        <textarea id="message" type="text" class="form-control" placeholder="Mensaje"></textarea>
-                    </div>
-                    <div
-                        class="d-flex flex-column flex-sm-row w-100 mt-2 text-center justify-content-center align-items-center">
-                        <button class="btn btn-primary" type="button" onclick="sendEmail()">Enviar</button>
-                    </div>
 
 
-                </form>
-
-            </div>
         </div>
-        <div class="d-flex flex-column flex-sm-row justify-content-between border-top">
-            <p>&copy; 2023 Reservados todos los derechos. <a
-                    href="https://www.linkedin.com/in/%C3%B3scar-toimil-plaza/" style="color:#5e5b5b"
-                    target="_blank" rel="noopener noreferrer">Ó. Toimil</a>. &copy;</p>
-            <ul class="list-unstyled d-flex">
-                <li class="ms-4"><a class="bi bi-twitter link-dark" href="#"></a></li>
-                <li class="ms-4"><a class="bi bi-instagram link-dark" href="#"></a></li>
-                <li class="ms-4"><a class="bi bi-facebook link-dark" href="#"></svg></a></li>
-            </ul>
-        </div>
-
-
-    </div>
-</footer>
+    </footer>
 
 
 
@@ -214,7 +221,7 @@
 
         fetch(url)
             .then(response => response.json())
-            .then(data => {
+            .then(data => {             
                 var tabla = document.getElementById('tabla-marcas').getElementsByTagName('tbody')[0];
 
                 for (var tipoPrueba in data) {

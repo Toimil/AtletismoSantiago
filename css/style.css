@@ -699,4 +699,31 @@ hr.divider {
     }
 }
 
+.accordion {
+    --bs-accordion-active-color: white;
+    --bs-accordion-active-bg: var(--brand);
+    --bs-accordion-bg: var(--brand);
+    --bs-accordion-color: white;
+    --bs-accordion-btn-icon: url(../img/descarga.svg);
+    --bs-accordion-btn-focus-border-color: ;
+    --bs-accordion-btn-focus-box-shadow: ;
+    
+
+}
+.accordion-button::after {
+    background-image: url(../img/descarga.svg);
+}
+
+.accordion-button:not(.collapsed)::after {
+    background-image: url(../img/descarga.svg);
+    transform: rotate(180deg);
+
+}
+
+
+
+.accordion-button {
+    color: white;
+    font-weight: bold;
+}
 
