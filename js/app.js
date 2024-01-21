@@ -108,13 +108,10 @@ window.onload = function () {
     }
 
     const owlDotButtons = document.querySelectorAll('.owl-dots button');
-    console.log("prueba:" + owlDotButtons.length);
 
     owlDotButtons.forEach(function(button, index) {
-        console.log("pueba2" + button);
         const buttonLabel = 'Slide ' + (index + 1); // Puedes personalizar el texto según tus necesidades
         button.setAttribute('aria-label', buttonLabel);
-        console.log(buttonLabel);
     });
 };
 
