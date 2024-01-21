@@ -100,3 +100,17 @@ function sendEmail() {
 }
 
 
+document.addEventListener('DOMContentLoaded', function () {
+    const instagramIframe = document.getElementById('instagram-embed-0');
+    if (instagramIframe) {
+        instagramIframe.title = 'Título del Iframe para Instagram'; // Reemplaza con tu propio título
+    }
+
+    const owlDotButtons = document.querySelectorAll('.owl-dot');
+    owlDotButtons.forEach(function (button, index) {
+        button.setAttribute('aria-label', 'Botón ' + (index + 1)); // Puedes personalizar el texto según tus necesidades
+    });
+});
+
+
+
