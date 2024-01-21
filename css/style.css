@@ -218,7 +218,7 @@ hr.divider {
 /* SLIDDER */
 
 .slide1 {
-    background: linear-gradient(rgba(9, 32, 50, 0.3), #09203256), url(../img/bg_banner1.jpg);
+    background: linear-gradient(rgba(9, 32, 50, 0.3), #09203256), url(../img/bg_banner1.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -230,7 +230,7 @@ hr.divider {
 }
 
 .slide2 {
-    background: linear-gradient(rgba(0, 0, 0, 0.3), #09203256), url(../img/bg_banner2.jpg);
+    background: linear-gradient(rgba(0, 0, 0, 0.3), #09203256), url(../img/bg_banner2.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: scroll;
@@ -463,7 +463,7 @@ hr.divider {
 
 #reviews {
 
-    background: linear-gradient(to top, rgba(9, 32, 50, 12), #07192756), url(../img/bg_banner1.jpg);
+    background: linear-gradient(to top, rgba(9, 32, 50, 12), #07192756), url(../img/bg_banner1.webp);
     background-position: center;
     background-size: cover;
     background-size: 100vh;
