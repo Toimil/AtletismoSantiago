@@ -727,3 +727,24 @@ hr.divider {
     font-weight: bold;
 }
 
+.owl-theme .owl-dots .owl-dot.active span{
+    background: var(--brand);
+    width: 15px;
+    height: 15px;
+    
+}
+
+.owl-theme .owl-dots .owl-dot span{
+    width: 15px;
+    height: 15px;
+   
+}
+
+.owl-dots button {
+    margin-right: 10px; /* Ajusta el valor según tus necesidades */
+  }
+
+  /* Para evitar que el último botón tenga margen derecho */
+  .owl-dot:last-child {
+    margin-right: 0;
+  }
