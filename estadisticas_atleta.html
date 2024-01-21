@@ -421,7 +421,7 @@ Triki Team" />
         const apellidoSelect = document.getElementById('apellido');
 
         // Rellenar opciones de temporadas y tipos de prueba desde los datos obtenidos
-        fetch('https://https://www.atletismosantiago.club/data/output.json')
+        fetch('https://www.atletismosantiago.club/data/output.json')
             .then(response => response.json())
             .then(datos => {
                 const temporadas = Array.from(new Set(datos.map(item => item.Temporada)));
@@ -558,7 +558,7 @@ Triki Team" />
             const tipoPrueba = tipoPruebaSelect.value;
 
             // Realizar la solicitud Fetch para obtener los datos desde la URL
-            fetch('https:/https://www.atletismosantiago.club/data/output.json')
+            fetch('https://www.atletismosantiago.club/data/output.json')
                 .then(response => response.json())
                 .then(datos => {
                     const datosFiltrados = datos.filter(item =>
