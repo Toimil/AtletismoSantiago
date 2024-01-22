@@ -15,10 +15,10 @@ Visita la web en la URL: [AtletismoSantiago.club](https://www.atletismosantiago.
 * **Página completamente responsive** adaptándose sin problema a los **diferentes tamaños de pantalla**
 
 ## Imágenes
-<image src="https://raw.githubusercontent.com/OToimil/ClubAtletismoSantiago/master/readme-img/pc_inicio.png" alt="Imagen de la pantalla de inicio en ordenador">
-<image src="https://raw.githubusercontent.com/OToimil/ClubAtletismoSantiago/master/readme-img/movil_responsive.png" alt="Imagen móvil responsive">
-<image src="https://raw.githubusercontent.com/OToimil/ClubAtletismoSantiago/master/readme-img/pc_estadisticas.png" alt="Imagen de la pantalla de estadisticas en ordenador">
-<image src="https://raw.githubusercontent.com/OToimil/ClubAtletismoSantiago/master/readme-img/pc_calendario.png" alt="Imagen de la pantalla de calendario en ordenador">
+<image src="https://raw.githubusercontent.com/Toimil/AtletismoSantiago/master/readme-img/pc_inicio.png" alt="Imagen de la pantalla de inicio en ordenador">
+<image src="https://raw.githubusercontent.com/Toimil/AtletismoSantiago/master/readme-img/movil_responsive.png" alt="Imagen móvil responsive">
+<image src="https://raw.githubusercontent.com/Toimil/AtletismoSantiago/master/readme-img/pc_estadisticas.png" alt="Imagen de la pantalla de estadisticas en ordenador">
+<image src="https://raw.githubusercontent.com/Toimil/AtletismoSantiago/master/readme-img/pc_calendario.png" alt="Imagen de la pantalla de calendario en ordenador">
 
 ## Autor
 
