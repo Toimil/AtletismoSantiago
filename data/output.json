@@ -46314,19 +46314,58 @@
         "Data": [
             {
                 "#": "1.",
-                "Marca": "7.01",
-                "Pto.": "2",
+                "Marca": "7.00",
+                "Pto.": "1",
                 "Atleta": {
                     "Nombre": "ANTÓN",
                     "Apellido": "RIVERO ALONSO",
                     "ID": "AG-3279"
                 },
                 "Equipo": "STOC",
-                "Data": "14/01/2024",
+                "Data": "21/01/2024",
                 "Lugar": "Ourense"
             },
             {
                 "#": "2.",
+                "Marca": "7.38",
+                "Pto.": "6",
+                "Atleta": {
+                    "Nombre": "PEDRO",
+                    "Apellido": "POSE REGOS",
+                    "ID": "GA-645"
+                },
+                "Equipo": "STOC",
+                "Data": "20/01/2024",
+                "Lugar": "Ourense"
+            },
+            {
+                "#": "3.",
+                "Marca": "7.53",
+                "Pto.": "11",
+                "Atleta": {
+                    "Nombre": "DIEGO",
+                    "Apellido": "LIÑARES ROSENDE",
+                    "ID": "AG-766012"
+                },
+                "Equipo": "STOC",
+                "Data": "21/01/2024",
+                "Lugar": "Ourense"
+            },
+            {
+                "#": "4.",
+                "Marca": "7.56",
+                "Pto.": "8",
+                "Atleta": {
+                    "Nombre": "DAVID",
+                    "Apellido": "GARCIA BLANCO",
+                    "ID": "GA-9330"
+                },
+                "Equipo": "STOC",
+                "Data": "20/01/2024",
+                "Lugar": "Ourense"
+            },
+            {
+                "#": "5.",
                 "Marca": "8.49",
                 "Pto.": "7",
                 "Atleta": {
@@ -46382,6 +46421,19 @@
         "Data": [
             {
                 "#": "1.",
+                "Marca": "50.43",
+                "Pto.": "3",
+                "Atleta": {
+                    "Nombre": "PEDRO",
+                    "Apellido": "POSE REGOS",
+                    "ID": "GA-645"
+                },
+                "Equipo": "STOC",
+                "Data": "20/01/2024",
+                "Lugar": "Ourense"
+            },
+            {
+                "#": "2.",
                 "Marca": "1.00.64",
                 "Pto.": "1",
                 "Atleta": {
@@ -46412,6 +46464,19 @@
                 },
                 "Equipo": "STOC",
                 "Data": "14/01/2024",
+                "Lugar": "Ourense"
+            },
+            {
+                "#": "2.",
+                "Marca": "2.21.45",
+                "Pto.": "7",
+                "Atleta": {
+                    "Nombre": "JOSE",
+                    "Apellido": "CABADO CASTRO",
+                    "ID": "GA-4400"
+                },
+                "Equipo": "STOC",
+                "Data": "20/01/2024",
                 "Lugar": "Ourense"
             }
         ]
@@ -46458,6 +46523,32 @@
         "Data": [
             {
                 "#": "1.",
+                "Marca": "8.09.21",
+                "Pto.": "1",
+                "Atleta": {
+                    "Nombre": "EL MEHDI",
+                    "Apellido": "EL NABAOUI",
+                    "ID": "GA-5907"
+                },
+                "Equipo": "STOC",
+                "Data": "21/01/2024",
+                "Lugar": "Ourense"
+            },
+            {
+                "#": "2.",
+                "Marca": "9.04.43",
+                "Pto.": "18",
+                "Atleta": {
+                    "Nombre": "YAGO IGNACIO",
+                    "Apellido": "GARCÍA SAINZ",
+                    "ID": "GA-1090"
+                },
+                "Equipo": "STOC",
+                "Data": "21/01/2024",
+                "Lugar": "Ourense"
+            },
+            {
+                "#": "3.",
                 "Marca": "9.54.20",
                 "Pto.": "3",
                 "Atleta": {
@@ -46467,6 +46558,27 @@
                 },
                 "Equipo": "STOC",
                 "Data": "07/01/2024",
+                "Lugar": "Ourense"
+            }
+        ]
+    },
+    {
+        "Temporada": "2024",
+        "TipoPrueba": "PC",
+        "Genero": "H",
+        "Title": "60 M.V. MASCULINO",
+        "Data": [
+            {
+                "#": "1.",
+                "Marca": "8.82",
+                "Pto.": "2",
+                "Atleta": {
+                    "Nombre": "DIEGO",
+                    "Apellido": "LIÑARES ROSENDE",
+                    "ID": "AG-766012"
+                },
+                "Equipo": "STOC",
+                "Data": "21/01/2024",
                 "Lugar": "Ourense"
             }
         ]
@@ -46626,9 +46738,9 @@
                 "Marca": "2.05.94",
                 "Pto.": "4",
                 "Atleta": {
-                    "Nombre": "JOAQUIN",
-                    "Apellido": "SANCHEZ LEIRA",
-                    "ID": "AG-768724"
+                    "Nombre": "JOSE M.",
+                    "Apellido": "LORENZO FERNANDEZ",
+                    "ID": "AG-6988"
                 },
                 "Equipo": "STOC",
                 "Data": "07/01/2024",
@@ -46639,9 +46751,9 @@
                 "Marca": "2.05.94",
                 "Pto.": "4",
                 "Atleta": {
-                    "Nombre": "JOSE M.",
-                    "Apellido": "LORENZO FERNANDEZ",
-                    "ID": "AG-6988"
+                    "Nombre": "JOAQUIN",
+                    "Apellido": "SANCHEZ LEIRA",
+                    "ID": "AG-8724"
                 },
                 "Equipo": "STOC",
                 "Data": "07/01/2024",
@@ -46699,9 +46811,9 @@
                 "Marca": "3.26.33",
                 "Pto.": "3",
                 "Atleta": {
-                    "Nombre": "ABSOLUTO HOMES",
-                    "Apellido": "CA SANTIAGO",
-                    "ID": "STO-STOABH"
+                    "Nombre": "ANTÓN",
+                    "Apellido": "RIVERO ALONSO",
+                    "ID": "AG-3279"
                 },
                 "Equipo": "STOC",
                 "Data": "14/01/2024",
@@ -46725,9 +46837,9 @@
                 "Marca": "3.26.33",
                 "Pto.": "3",
                 "Atleta": {
-                    "Nombre": "ANTÓN",
-                    "Apellido": "RIVERO ALONSO",
-                    "ID": "AG-3279"
+                    "Nombre": "ABSOLUTO HOMES",
+                    "Apellido": "CA SANTIAGO",
+                    "ID": "STO-STOABH"
                 },
                 "Equipo": "STOC",
                 "Data": "14/01/2024",
@@ -46743,6 +46855,19 @@
         "Data": [
             {
                 "#": "1.",
+                "Marca": "8.08",
+                "Pto.": "1",
+                "Atleta": {
+                    "Nombre": "MANUELA",
+                    "Apellido": "RAVIÑA VALENCIA",
+                    "ID": "AG-2026078"
+                },
+                "Equipo": "STOC",
+                "Data": "21/01/2024",
+                "Lugar": "Ourense"
+            },
+            {
+                "#": "2.",
                 "Marca": "8.43",
                 "Pto.": "6",
                 "Atleta": {
@@ -46755,7 +46880,7 @@
                 "Lugar": "Ourense"
             },
             {
-                "#": "2.",
+                "#": "3.",
                 "Marca": "8.69",
                 "Pto.": "1",
                 "Atleta": {
@@ -46768,7 +46893,20 @@
                 "Lugar": "Ourense"
             },
             {
-                "#": "3.",
+                "#": "4.",
+                "Marca": "8.94",
+                "Pto.": "2",
+                "Atleta": {
+                    "Nombre": "NURIA",
+                    "Apellido": "PARADELO ÁLVAREZ",
+                    "ID": "AG-13350"
+                },
+                "Equipo": "STOC",
+                "Data": "20/01/2024",
+                "Lugar": "Ourense"
+            },
+            {
+                "#": "5.",
                 "Marca": "9.35",
                 "Pto.": "5",
                 "Atleta": {
@@ -46834,6 +46972,19 @@
                 "Equipo": "STOC",
                 "Data": "14/01/2024",
                 "Lugar": "Ourense"
+            },
+            {
+                "#": "2.",
+                "Marca": "2.52.98",
+                "Pto.": "0",
+                "Atleta": {
+                    "Nombre": "LAURA",
+                    "Apellido": "BARBAZAN LESTA",
+                    "ID": "AG-2020905"
+                },
+                "Equipo": "STOC",
+                "Data": "20/01/2024",
+                "Lugar": "Ourense"
             }
         ]
     },
@@ -46896,19 +47047,19 @@
         "Temporada": "2024",
         "TipoPrueba": "PC",
         "Genero": "M",
-        "Title": "60 M.V. FEMININO",
+        "Title": "ALTURA FEMININO",
         "Data": [
             {
                 "#": "1.",
-                "Marca": "8.97",
-                "Pto.": "4",
+                "Marca": "1,24",
+                "Pto.": "3",
                 "Atleta": {
-                    "Nombre": "DIEGO",
-                    "Apellido": "LIÑARES ROSENDE",
-                    "ID": "AG-766012"
+                    "Nombre": "LAURA",
+                    "Apellido": "BARBAZAN LESTA",
+                    "ID": "AG-2020905"
                 },
                 "Equipo": "STOC",
-                "Data": "14/01/2024",
+                "Data": "21/01/2024",
                 "Lugar": "Ourense"
             }
         ]
@@ -46955,15 +47106,28 @@
             },
             {
                 "#": "2.",
-                "Marca": "4,80",
-                "Pto.": "6",
+                "Marca": "5,36",
+                "Pto.": "2",
                 "Atleta": {
                     "Nombre": "MANUELA",
                     "Apellido": "RAVIÑA VALENCIA",
                     "ID": "AG-2026078"
                 },
                 "Equipo": "STOC",
-                "Data": "14/01/2024",
+                "Data": "21/01/2024",
+                "Lugar": "Ourense"
+            },
+            {
+                "#": "3.",
+                "Marca": "3,99",
+                "Pto.": "0",
+                "Atleta": {
+                    "Nombre": "LAURA",
+                    "Apellido": "BARBAZAN LESTA",
+                    "ID": "AG-2020905"
+                },
+                "Equipo": "STOC",
+                "Data": "20/01/2024",
                 "Lugar": "Ourense"
             }
         ]
@@ -47007,6 +47171,19 @@
                 "Equipo": "STOC",
                 "Data": "14/01/2024",
                 "Lugar": "Ourense"
+            },
+            {
+                "#": "2.",
+                "Marca": "7,81",
+                "Pto.": "0",
+                "Atleta": {
+                    "Nombre": "LAURA",
+                    "Apellido": "BARBAZAN LESTA",
+                    "ID": "AG-2020905"
+                },
+                "Equipo": "STOC",
+                "Data": "20/01/2024",
+                "Lugar": "Ourense"
             }
         ]
     },
@@ -47034,9 +47211,9 @@
                 "Marca": "4.37.20",
                 "Pto.": "7",
                 "Atleta": {
-                    "Nombre": "ARALE",
-                    "Apellido": "FABEIRO CAO",
-                    "ID": "GA-1466"
+                    "Nombre": "IRIA",
+                    "Apellido": "GARCIA GIL",
+                    "ID": "AG-4857"
                 },
                 "Equipo": "STOC",
                 "Data": "14/01/2024",
@@ -47047,9 +47224,9 @@
                 "Marca": "4.37.20",
                 "Pto.": "7",
                 "Atleta": {
-                    "Nombre": "ABSOLUTO MULLERES",
-                    "Apellido": "CA SANTIAGO",
-                    "ID": "STO-STOABM"
+                    "Nombre": "ARALE",
+                    "Apellido": "FABEIRO CAO",
+                    "ID": "GA-1466"
                 },
                 "Equipo": "STOC",
                 "Data": "14/01/2024",
@@ -47057,19 +47234,6 @@
             },
             {
                 "#": "4.",
-                "Marca": "4.37.20",
-                "Pto.": "7",
-                "Atleta": {
-                    "Nombre": "IRIA",
-                    "Apellido": "GARCIA GIL",
-                    "ID": "AG-4857"
-                },
-                "Equipo": "STOC",
-                "Data": "14/01/2024",
-                "Lugar": "Ourense"
-            },
-            {
-                "#": "5.",
                 "Marca": "4.37.20",
                 "Pto.": "7",
                 "Atleta": {
@@ -47082,7 +47246,7 @@
                 "Lugar": "Ourense"
             },
             {
-                "#": "6.",
+                "#": "5.",
                 "Marca": "4.37.20",
                 "Pto.": "7",
                 "Atleta": {
@@ -47092,6 +47256,40 @@
                 },
                 "Equipo": "STOC",
                 "Data": "14/01/2024",
+                "Lugar": "Ourense"
+            },
+            {
+                "#": "6.",
+                "Marca": "4.37.20",
+                "Pto.": "7",
+                "Atleta": {
+                    "Nombre": "ABSOLUTO MULLERES",
+                    "Apellido": "CA SANTIAGO",
+                    "ID": "STO-STOABM"
+                },
+                "Equipo": "STOC",
+                "Data": "14/01/2024",
+                "Lugar": "Ourense"
+            }
+        ]
+    },
+    {
+        "Temporada": "2024",
+        "TipoPrueba": "PC",
+        "Genero": "M",
+        "Title": "PENTATHLON FEMININO",
+        "Data": [
+            {
+                "#": "1.",
+                "Marca": "1.664",
+                "Pto.": "5",
+                "Atleta": {
+                    "Nombre": "LAURA",
+                    "Apellido": "BARBAZAN LESTA",
+                    "ID": "AG-2020905"
+                },
+                "Equipo": "STOC",
+                "Data": "20/01/2024",
                 "Lugar": "Ourense"
             }
         ]
