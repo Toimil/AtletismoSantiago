@@ -4,7 +4,7 @@ Desarrollo de la web del tercer club más importante de atletismo en Galicia y r
 
 Visita la web en la URL --> [AtletismoSantiago.club](https://www.atletismosantiago.club) 
 
- [Imágenes de la web](https://github.com/Toimil/AtletismoSantiago#Imágenes)
+ [Imágenes de la web](#Imágenes)
 
 ## Características
 
