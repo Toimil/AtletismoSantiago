@@ -499,6 +499,8 @@ Triki Team" />
                     option.text = atleta;
                     apellidoSelect.add(option);
                 });
+                temporadaSelect.value = '2024';
+                consultarMarcas();
 
             })
             .catch(error => console.error('Error al obtener los datos:', error));
