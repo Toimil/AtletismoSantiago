@@ -1,6 +1,6 @@
 # Web del Club Atletismo Santiago
 
-Desarrollo de la web del tercer club más importante de atletismo en Galicia y referente a nivel local y comarcal. 
+Desarrollo de la web de uno de los clubes más importante de atletismo en Galicia y referente a nivel local y comarcal. 
 
 Visita la web en la URL --> [AtletismoSantiago.club](https://www.atletismosantiago.club) 
 
