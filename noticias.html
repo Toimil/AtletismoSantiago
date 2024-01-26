@@ -408,15 +408,20 @@ Triki Team" />
                 document.getElementById('loading-message').innerHTML = 'Error al cargar las noticias. Por favor, inténtelo de nuevo más tarde.';
             });
 
-            function mostrarNoticias(noticias, cantidadMaxima) {
-    const noticiasContainer = document.getElementById('noticias-container');
-    const noticiasCargadas = noticiasContainer.querySelectorAll('.noticia-card').length;
+        function mostrarNoticias(noticias, cantidadMaxima) {
+            const noticiasContainer = document.getElementById('noticias-container');
+            const noticiasCargadas = noticiasContainer.querySelectorAll('.noticia-card').length;
 
-    noticias.slice(noticiasCargadas, noticiasCargadas + cantidadMaxima).forEach(noticia => {
-        const card = `
+            // Ordenar las noticias por fecha en orden descendente
+            noticias.sort((a, b) => new Date(b.Fecha) - new Date(a.Fecha));
+
+            noticias.slice(noticiasCargadas, noticiasCargadas + cantidadMaxima).forEach(noticia => {
+                const imagenUrl = noticia.Imagen || 'https://www.atletismosantiago.club/img/bg_banner1.webp';
+
+                const card = `
             <div class="col-md-6 col-lg-4 mb-4 noticia-card">
                 <div class="card">
-                    <img src="${noticia.Imagen}" class="card-img-top" alt="${noticia.Titulo}">
+                    <img src="${imagenUrl}" class="card-img-top" alt="${noticia.Titulo}">
                     <div class="card-body">
                         <h5 class="card-title" style="text-align: center;">${noticia.Titulo}</h5>
                         <p class="card-text">${noticia.Contenido.substring(0, 150)}...</p>
@@ -427,28 +432,28 @@ Triki Team" />
                 </div>
             </div>
         `;
-        noticiasContainer.innerHTML += card;
-    });
+                noticiasContainer.innerHTML += card;
+            });
 
-    // Mostrar el botón de cargar más si hay más noticias por cargar
-    if (noticiasCargadas + cantidadMaxima < noticias.length) {
-        const cargarMasButton = `
+            // Mostrar el botón de cargar más si hay más noticias por cargar
+            if (noticiasCargadas + cantidadMaxima < noticias.length) {
+                const cargarMasButton = `
             <div class="col-12 text-center mt-3">
                 <button class="btn btn-secondary cargar-mas-button" onclick="cargarMasNoticias(${cantidadMaxima})">Cargar más noticias</button>
             </div>
         `;
-        noticiasContainer.innerHTML += cargarMasButton;
-    }else{
-        const cargarMasButton = document.querySelector('.cargar-mas-button');
-        if (cargarMasButton) {
-            cargarMasButton.style.display = 'none';
+                noticiasContainer.innerHTML += cargarMasButton;
+            } else {
+                const cargarMasButton = document.querySelector('.cargar-mas-button');
+                if (cargarMasButton) {
+                    cargarMasButton.style.display = 'none';
+                }
+            }
         }
-    }
-}
 
         function cargarMasNoticias(cantidadMaxima) {
             mostrarNoticias(noticiasData, cantidadMaxima);
-            
+
         }
 
         function cargarNoticia(ID) {
@@ -473,11 +478,13 @@ Triki Team" />
             // Formatear la fecha como "DD/MM/YYYY"
             const fechaFormateada = `${dia}/${mes}/${ano}`;
             const modalBody = document.getElementById('modal-body');
+            const imagenUrl = noticia.Imagen || 'https://www.atletismosantiago.club/img/bg_banner1.webp';
+
             modalBody.innerHTML = `
-                <img src="${noticia.Imagen}" class="img-fluid mb-3" alt="${noticia.Titulo}">
+
+                <img src="${imagenUrl}" class="img-fluid mb-3" alt="${noticia.Titulo}">
                 <h5>${noticia.Titulo}</h5>
                 <p>${noticia.Contenido}</p>
-                <p><strong>Etiquetas:</strong> ${noticia.Etiquetas}</p>
                 <p><strong>Fecha:</strong> ${fechaFormateada}</p>
             `;
         }
@@ -486,6 +493,11 @@ Triki Team" />
     <style>
         #modal-body p {
             white-space: pre-line;
+        }
+
+        .noticia-card .card-img-top {
+            width: 100%;
+            object-fit: cover;
         }
     </style>
 
