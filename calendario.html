@@ -267,7 +267,6 @@ Triki Team" />
 
 
     <!-- Footer-->
-    <!-- Footer-->
     <footer class="bg-light py-5 mt-5">
 
         <div class="container">
@@ -414,6 +413,9 @@ Triki Team" />
                                 tooltip_en_pantalla = false;
                             }
 
+                            var startDate = info.event.start;  // Obtener la fecha del evento
+
+
                             $(info.el).tooltip({
                                 title: function () {
                                     var tooltipContent = '<strong>' + info.event.title + '</strong>';
@@ -425,6 +427,15 @@ Triki Team" />
                                     if (info.event.url) {
                                         tooltipContent += '<br><a href="' + info.event.url + '" target="_blank">Más información</a>';
                                     }
+
+                                    // Formatear la fecha al formato YYYY-MM-DD
+                                    var formattedDate = startDate.toLocaleDateString('en-CA'); // Formato "YYYY-MM-DD"
+
+                                    // Crear el enlace al formulario de inscripción con la fecha actual y el nombre de la prueba
+                                    var formLink = 'https://docs.google.com/forms/d/e/1FAIpQLSejBudJ0YPq87iSHckvR3YEQt-CIkQF6gphRX_W1Qp2-4cOKw/viewform?usp=pp_url&entry.1531174623=' + info.event.title + '&entry.478235961=' + formattedDate;
+
+                                    tooltipContent += '<br><a href="' + formLink + '" target="_blank">Formulario de inscripción</a>';
+
 
                                     return tooltipContent;
                                 },
@@ -440,9 +451,14 @@ Triki Team" />
                         },
 
                         eventMouseEnter: function (info) {
+                            var startDate = info.event.start;  // Obtener la fecha del evento
+
+
                             $(info.el).tooltip({
                                 title: function () {
                                     var tooltipContent = '<strong>' + info.event.title + '</strong>';
+
+                                    
 
                                     if (info.event.extendedProps.place) {
                                         tooltipContent += '<br>Lugar: ' + info.event.extendedProps.place;
@@ -451,6 +467,15 @@ Triki Team" />
                                     if (info.event.url) {
                                         tooltipContent += '<br><a href="' + info.event.url + '" target="_blank">Más información</a>';
                                     }
+                                    // Formatear la fecha al formato YYYY-MM-DD
+                                    var formattedDate = startDate.toLocaleDateString('en-CA'); // Formato "YYYY-MM-DD"
+                                    
+
+                                    // Crear el enlace al formulario de inscripción con la fecha actual y el nombre de la prueba
+                                    var formLink = 'https://docs.google.com/forms/d/e/1FAIpQLSejBudJ0YPq87iSHckvR3YEQt-CIkQF6gphRX_W1Qp2-4cOKw/viewform?usp=pp_url&entry.1531174623=' + info.event.title + '&entry.478235961=' + formattedDate;
+
+                                    tooltipContent += '<br><a href="' + formLink + '" target="_blank">Formulario de inscripción</a>';
+
 
                                     return tooltipContent;
                                 },
