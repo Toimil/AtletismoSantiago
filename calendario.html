@@ -24,7 +24,7 @@
     <title>Club Atletismo Santiago</title>
     <meta name="title" content="Calendario Competiciones | Atletismo Santiago" />
     <meta name="description"
-        content="Calendario de competiciones de Aire Libre, Pista Corta, Carreras Populares y Cross de la Federación Gallega de Atletismo (FGA). Atletismo Santiago, un club hecho por atletas para atletas." />
+        content="Calendario de competiciones de Aire Libre, Pista Corta, Carreras Populares y Cross de la Federación Gallega de Atletismo (FGA). Club Atletismo Santiago, un club hecho por atletas para atletas." />
     <meta name="keywords" content="CAS,Club Atletismo Santiago, Atletismo Santiago, Club Atletismo, Atletismo,AtletismoSantiago,ClubAtletismoSantiago,AtletismoGalego,FederacionGalegaAtletismo,FederacionGallegaAtletismo,FGA,GaliciaAtletismo,CarreirasGalegas,AtletismoGallego,PistaCubierta,PistaCuberta,PistaAireLibre,PistaAlAireLibre,PistaCorta,PistaCurta,CampeonatoGallegoAtletismo,CrossGalicia,TrailGalicia,Galicia,AtletismoCoruna,AtletismoLugo,AtletismoOurense,AtletismoPontevedra,AtletismoVigo,CorrerEnGalicia,RunningSantiago,DeporteGallego,RunnersGalicia,AtletismoGalicia,CorrerEnCompostela,RunnersCompostela,AtletasGallegos,SantiagoRunners,GaliciaEnForma,CarreraPopularSantiago,CarreraPedestreSantiago,SantYago10k,SantYago,Corresan,ConcelloSantiago,RunGallego,AtletismoEspaña,EntrenamientoAtletismo,CorrerEsVida,AtletismoJuvenil,AtletismoFemenino,CompostelaRunnersClub,GaliciaActiva,ViveElDeporteGallego,CorrerPorSalud,EntrenamientoGallego,AtletismoPopular,RunSantiagoRun,AtletismoCoruña,GaliciaRunnersClub,RunGallegoRun,SantiagoDeporte,CarreraGallega,CorrerEnSantiagoDeCompostela,AtletismoCorredores,ClubDeportivoSantiago,RunnersVigo,GaliciaRun,EntrenamientoDeAtletismo,CorrerGallego,SantiagoRunClub,DeporteCompostela,CaminodeSantiagoRunning,AtletismoInfantil,CorrerPorGalicia,RunnersJuveniles,DeporteSantiagués,GaliciaSaludable,AtletismoViral,CorrerConPasión,SantiagoRunnersLife,GaliciaEnCarrera,AtletismoGallegoRun,RunnersCoruña,CorrerSantiagoGalicia,SantiagoRunnersCommunity,ClubAtletismoGallego,RutasDeRunningSantiago,DeporteCoruña,AtletismoCoruñés,CorrerEnGallego,SantiagoTrailRunning,RunningGallego,CarreraAtletismoSantiago,GaliciaRunnersLife,ClubAtletismoCoruña,SantiagoAtletismoActivo,CorrerEnEquipo,AtletismoConPasión,GaliciaRunAndFun,RunningSantiagoDeCompostela,AtletismoCorrerVivir,SantiagoRunnersFamily,GaliciaRunnersChallenge,CorrerEsVivirGalicia,AtletismoSantiagoRunClub,RutasDeAtletismoGallego,PistaAtletismoGalicia,CampeonatoGallegoAtletismo,CompeticionesAtletismoSantiago,PistaYCampoGalicia,SantiagoCompeticionesAtletismo,GaliciaRunnerChallenge,CampeonatoGallegoPista,AtletismoSantiagoCompetición,GaliciaRunnersChampionship,SantiagoPistaAtletismo,CampeonatoAtletismoCoruña,GaliciaTrackAndField,CompeticionesDeportivasSantiago,AtletismoGallegoChampion,CampeonatoGallegoRunning,PistaAtletismoCoruña,CompetenciasGallegasSantiago,GaliciaAtletismoChallenge,SantiagoCampeonatoAtletismo,CampeonatoGallegoRunner,AtletismoEnPistaGallega,GaliciaAthleticsChampion,SantiagoRunningCompetition,CampeonatoGallegoRunners,PistaAtletismoSantiagoGalicia,Running,Runners,Run,Correr,Corredores,ComoEmpezarACorrer,NiñosCorrer,NenosAtletismo,AtletismoSub18,AtletismoSub20,AtletismoSub23,AtletismoSub16, EscuelaAtletismo,A.D. Fogar Carballo,
 A.D. Rego do Lobo,
 AD Fogar Carballo – Oleiros,
@@ -425,7 +425,7 @@ Triki Team" />
                                     }
 
                                     if (info.event.url) {
-                                        tooltipContent += '<br><a href="' + info.event.url + '" target="_blank">Más información</a>';
+                                        tooltipContent += '<br><a id="mas_info" href="' + info.event.url + '" target="_blank">Más información</a>';
                                     }
 
                                     // Formatear la fecha al formato YYYY-MM-DD
@@ -434,7 +434,7 @@ Triki Team" />
                                     // Crear el enlace al formulario de inscripción con la fecha actual y el nombre de la prueba
                                     var formLink = 'https://docs.google.com/forms/d/e/1FAIpQLSejBudJ0YPq87iSHckvR3YEQt-CIkQF6gphRX_W1Qp2-4cOKw/viewform?usp=pp_url&entry.1531174623=' + info.event.title + '&entry.478235961=' + formattedDate;
 
-                                    tooltipContent += '<br><a href="' + formLink + '" target="_blank">Formulario de inscripción</a>';
+                                    tooltipContent += '<a id="form_inscripcion" href="' + formLink + '" target="_blank">Formulario de inscripción</a>';
 
 
                                     return tooltipContent;
@@ -465,7 +465,7 @@ Triki Team" />
                                     }
 
                                     if (info.event.url) {
-                                        tooltipContent += '<br><a href="' + info.event.url + '" target="_blank">Más información</a>';
+                                        tooltipContent += '<br><a id="mas_info" href="' + info.event.url + '" target="_blank">Más información</a>';
                                     }
                                     // Formatear la fecha al formato YYYY-MM-DD
                                     var formattedDate = startDate.toLocaleDateString('en-CA'); // Formato "YYYY-MM-DD"
@@ -474,7 +474,7 @@ Triki Team" />
                                     // Crear el enlace al formulario de inscripción con la fecha actual y el nombre de la prueba
                                     var formLink = 'https://docs.google.com/forms/d/e/1FAIpQLSejBudJ0YPq87iSHckvR3YEQt-CIkQF6gphRX_W1Qp2-4cOKw/viewform?usp=pp_url&entry.1531174623=' + info.event.title + '&entry.478235961=' + formattedDate;
 
-                                    tooltipContent += '<br><a href="' + formLink + '" target="_blank">Formulario de inscripción</a>';
+                                    tooltipContent += '<br><a id="form_inscripcion" href="' + formLink + '" target="_blank">Formulario de inscripción</a>';
 
 
                                     return tooltipContent;

@@ -33,6 +33,28 @@ a {
     font-weight: 700 !important;
 }
 
+#mas_info{
+    text-decoration: underline;
+    color: #ff0000;
+    font-weight: 500 !important;
+}
+#mas_info:hover{
+    text-decoration: underline;
+    color: #ab0000;
+    font-weight: 500 !important;
+}
+#form_inscripcion{
+    text-decoration: underline;
+    color: #ff0000;
+    font-weight: 500 !important;
+}
+#form_inscripcion:hover{
+    text-decoration: underline;
+    color: #ab0000;
+    font-weight: 500 !important;
+}
+
+
 .btn {
     background-color: var(--brand);
 }
