@@ -273,13 +273,15 @@ Triki Team" />
                     .table-wrapper table td {
                         border: 1px solid #000;
                         background-color: #FFF;
+                        vertical-align: middle;
+
                     }
                 </style>
 
                 <div class="col-md-8 mt-3 table-wrapper">
                     <p id="loading-message" style="text-align: center;font-weight: 700 !important;
             color: #092932;font-size: large;">Cargando los atletas inscritos, espera unos segundos...</p>
-                    <table id="inscritos" class="table">
+                    <table id="inscritos" class="table ">
                         <!-- Aquí se mostrarán los resultados de la consulta -->
                     </table>
                 </div>
@@ -423,35 +425,71 @@ Triki Team" />
 
 
 
-        function mostrarTabla(data) {
-            // Obtener el encabezado de la tabla
-            var tableHead = '<thead><tr>';
-            for (var header in data[0]) {
-                if (header !== "Anotado?") {  // Excluir la última columna
-                    tableHead += '<th>' + header + '</th>';
-                }
+            function mostrarTabla(data) {
+        // Obtener el encabezado de la tabla
+        var tableHead = '<thead><tr>';
+        var headers = Object.keys(data[0]);
+
+        for (var i = 0; i < headers.length; i++) {
+            if (headers[i] !== "Anotado?") {  // Excluir la última columna
+                tableHead += '<th>' + headers[i] + '</th>';
             }
-            tableHead += '</tr></thead>';
-
-            // Obtener el cuerpo de la tabla
-            var tableBody = '<tbody>';
-            data.forEach(row => {
-                tableBody += '<tr>';
-                for (var key in row) {
-                    if (key !== "Anotado?") {  // Excluir la última columna
-                        tableBody += '<td>' + row[key] + '</td>';
-                    }
-                }
-                tableBody += '</tr>';
-            });
-            tableBody += '</tbody>';
-
-            // Construir la tabla completa
-            var table = '<table class="table">' + tableHead + tableBody + '</table>';
-
-            // Insertar la tabla en el elemento con el ID 'inscritos'
-            document.getElementById('inscritos').innerHTML = table;
         }
+
+        tableHead += '</tr></thead>';
+
+        // Obtener el cuerpo de la tabla
+        var tableBody = '<tbody>';
+
+        var currentNombreComp = "";
+        var currentFechaComp = "";
+
+        for (var i = 0; i < data.length; i++) {
+            if (data[i]["Nombre de la Competición"] !== currentNombreComp || data[i]["Fecha de la Competición"] !== currentFechaComp) {
+                // Nueva combinación de "Nombre de la Competición" y "Fecha de la Competición"
+                currentNombreComp = data[i]["Nombre de la Competición"];
+                currentFechaComp = data[i]["Fecha de la Competición"];
+                
+                var rowspanValue = calcularRowspan(data, i, "Nombre de la Competición", "Fecha de la Competición");
+
+                tableBody += '<tr>';
+                tableBody += '<td rowspan="' + rowspanValue + '">' + currentNombreComp + '</td>';
+                tableBody += '<td rowspan="' + rowspanValue + '">' + currentFechaComp + '</td>';
+                tableBody += '<td>' + data[i]["Nombre y Apellidos del Atleta"] + '</td>';
+                tableBody += '<td>' + data[i]["Pruebas a realizar y marca en esas pruebas"] + '</td>';
+                tableBody += '</tr>';
+            } else {
+                // Mismo "Nombre de la Competición" y "Fecha de la Competición", mostrar solo Atleta y Pruebas
+                tableBody += '<tr>';
+                tableBody += '<td>' + data[i]["Nombre y Apellidos del Atleta"] + '</td>';
+                tableBody += '<td>' + data[i]["Pruebas a realizar y marca en esas pruebas"] + '</td>';
+                tableBody += '</tr>';
+            }
+        }
+
+        tableBody += '</tbody>';
+
+        // Construir la tabla completa
+        var table = '<table class="table">' + tableHead + tableBody + '</table>';
+
+        // Insertar la tabla en el elemento con el ID 'inscritos'
+        document.getElementById('inscritos').innerHTML = table;
+    }
+
+    function calcularRowspan(data, currentIndex, nombreColumna, fechaColumna) {
+        var rowspanValue = 1;
+
+        for (var i = currentIndex + 1; i < data.length; i++) {
+            if (data[currentIndex][nombreColumna] === data[i][nombreColumna] && data[currentIndex][fechaColumna] === data[i][fechaColumna]) {
+                rowspanValue++;
+            } else {
+                break;
+            }
+        }
+
+        return rowspanValue;
+    }
+
 
         function formatearFecha(fecha) {
             // Crear un objeto Date a partir de la cadena de fecha
