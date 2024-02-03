@@ -4,15 +4,15 @@ import re
 import json
 
 
-def save_to_file(data, filename='calendario_fga2.json'):
+def save_to_file(data, filename='calendario_fga.json'):
     with open(filename, 'w', encoding='utf-8') as file:
         json.dump(data, file, indent=4, ensure_ascii=False)
 
 def scrape_atletismo_gal():
-    urls = ["https://atletismo.gal/competicions/",
-    "https://atletismo.gal/competicions/?cp_date=01%2F01%2F2024",
+    urls = [
     "https://atletismo.gal/competicions/?cp_date=01%2F02%2F2024",
-    "https://atletismo.gal/competicions/?cp_date=01%2F03%2F2024"]
+    "https://atletismo.gal/competicions/?cp_date=01%2F03%2F2024",
+    "https://atletismo.gal/competicions/?cp_date=01%2F04%2F2024"]
     events = []
 
     for url in urls:
