@@ -214,6 +214,7 @@ Triki Team" />
                             <li><a class="dropdown-item" href="./historia.html">Historia</a></li>
                             <li><a class="dropdown-item"
                                     href="https://swimburger-cas-app-demo.web.app/forms/licencia">Licencias</a></li>
+                            <li><a class="dropdown-item" href="./noticias.html">Últimas Noticias</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -458,7 +459,7 @@ Triki Team" />
                                 title: function () {
                                     var tooltipContent = '<strong>' + info.event.title + '</strong>';
 
-                                    
+
 
                                     if (info.event.extendedProps.place) {
                                         tooltipContent += '<br>Lugar: ' + info.event.extendedProps.place;
@@ -469,7 +470,7 @@ Triki Team" />
                                     }
                                     // Formatear la fecha al formato YYYY-MM-DD
                                     var formattedDate = startDate.toLocaleDateString('en-CA'); // Formato "YYYY-MM-DD"
-                                    
+
 
                                     // Crear el enlace al formulario de inscripción con la fecha actual y el nombre de la prueba
                                     var formLink = 'https://docs.google.com/forms/d/e/1FAIpQLSejBudJ0YPq87iSHckvR3YEQt-CIkQF6gphRX_W1Qp2-4cOKw/viewform?usp=pp_url&entry.1531174623=' + info.event.title + '&entry.478235961=' + formattedDate;

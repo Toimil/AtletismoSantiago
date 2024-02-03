@@ -174,9 +174,10 @@ Triki Team" />
                     <p> <i class='bx bxs-phone-call'></i> +34 618127115</p>
                 </div>
                 <div class="col-auto social-icons">
-                    <a href="https://www.facebook.com/clubatletismo.santiago/?locale=es_ES" aria-label="Facebook de Atletismo Santiago"><i
-                            class='bx bxl-facebook'></i></a>
-                    <a href="https://www.instagram.com/atletismosantiago/?hl=es" aria-label="Instagram del AtletismoSantiago"><i class='bx bxl-instagram'></i></a>
+                    <a href="https://www.facebook.com/clubatletismo.santiago/?locale=es_ES"
+                        aria-label="Facebook de Atletismo Santiago"><i class='bx bxl-facebook'></i></a>
+                    <a href="https://www.instagram.com/atletismosantiago/?hl=es"
+                        aria-label="Instagram del AtletismoSantiago"><i class='bx bxl-instagram'></i></a>
                 </div>
             </div>
         </div>
@@ -200,14 +201,15 @@ Triki Team" />
                         <a href="./index.html" class="nav-link">Inicio</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href="./historia.html"   role="button"
-                            data-toggle="dropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="./historia.html" role="button" data-toggle="dropdown"
+                            data-bs-toggle="dropdown" aria-expanded="false">
                             Club
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <li><a class="dropdown-item" href="">Historia</a></li>
                             <li><a class="dropdown-item"
                                     href="https://swimburger-cas-app-demo.web.app/forms/licencia">Licencias</a></li>
+                            <li><a class="dropdown-item" href="./noticias.html">Últimas Noticias</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -242,7 +244,7 @@ Triki Team" />
         </div>
 
         <div class="row justify-content-center text-center d-flex align-items-center mt-0  ">
-            
+
 
             <table id="tabla-marcas">
                 <thead>
@@ -328,11 +330,17 @@ Triki Team" />
                 </div>
             </div>
             <div class="d-flex flex-column flex-sm-row justify-content-between border-top text-center">
-                <p>&copy; 2024 Reservados todos los derechos. <a href="https://www.linkedin.com/in/%C3%B3scar-toimil-plaza/" style="color:#5e5b5b" target="_blank" rel="noopener noreferrer">Ó. Toimil</a>. &copy;</p>
-            
+                <p>&copy; 2024 Reservados todos los derechos. <a
+                        href="https://www.linkedin.com/in/%C3%B3scar-toimil-plaza/" style="color:#5e5b5b"
+                        target="_blank" rel="noopener noreferrer">Ó. Toimil</a>. &copy;</p>
+
                 <ul class="list-unstyled d-flex justify-content-center justify-content-sm-end mt-3 mt-sm-0">
-                    <li class="ms-4"><a class="bi bi-instagram link-dark d-none d-sm-inline" href="https://www.instagram.com/atletismosantiago/?hl=es" aria-label="Instagram de Atletismo Santiago"></a></li>
-                    <li class="ms-4"><a class="bi bi-facebook link-dark d-none d-sm-inline" href="https://www.facebook.com/clubatletismo.santiago/?locale=es_ES" aria-label="Facebook de Atletismo Santiago"></a></li>
+                    <li class="ms-4"><a class="bi bi-instagram link-dark d-none d-sm-inline"
+                            href="https://www.instagram.com/atletismosantiago/?hl=es"
+                            aria-label="Instagram de Atletismo Santiago"></a></li>
+                    <li class="ms-4"><a class="bi bi-facebook link-dark d-none d-sm-inline"
+                            href="https://www.facebook.com/clubatletismo.santiago/?locale=es_ES"
+                            aria-label="Facebook de Atletismo Santiago"></a></li>
                 </ul>
             </div>
 
@@ -359,7 +367,7 @@ Triki Team" />
 
         fetch(url)
             .then(response => response.json())
-            .then(data => {             
+            .then(data => {
                 var tabla = document.getElementById('tabla-marcas').getElementsByTagName('tbody')[0];
 
                 for (var tipoPrueba in data) {
