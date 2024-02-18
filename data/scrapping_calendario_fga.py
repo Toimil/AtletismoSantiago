@@ -2,6 +2,7 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import json
+from datetime import datetime
 
 
 def save_to_file(data, filename='calendario_fga.json'):
@@ -9,10 +10,14 @@ def save_to_file(data, filename='calendario_fga.json'):
         json.dump(data, file, indent=4, ensure_ascii=False)
 
 def scrape_atletismo_gal():
+    base_url = "https://atletismo.gal/competicions/?cp_date={}/{}/{}"
+    today = datetime.today().strftime("%d/%m/%Y")
+    day, month, year = today.split('/')
     urls = [
-    "https://atletismo.gal/competicions/?cp_date=01%2F02%2F2024",
-    "https://atletismo.gal/competicions/?cp_date=01%2F03%2F2024",
-    "https://atletismo.gal/competicions/?cp_date=01%2F04%2F2024"]
+        base_url.format("01", month, year),
+        base_url.format("01", str(int(month) + 1).zfill(2), year),
+        base_url.format("01", str(int(month) + 2).zfill(2), year)
+    ]
     events = []
 
     for url in urls:
@@ -20,10 +25,11 @@ def scrape_atletismo_gal():
         response = requests.get(url)
         
         if response.status_code == 200:
+            print("Datos scrapeados con exito a la url ", url, "en la fecha ", today)
+
             soup = BeautifulSoup(response.text, 'html.parser')
 
             for event_div in soup.find_all('div', class_='row archive__body__row'):
-                print(event_div)
                 
                 date_div = event_div.find('div', class_='archive__body__item__date')
                 date_span = date_div.find('span')
