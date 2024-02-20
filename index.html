@@ -675,7 +675,7 @@ Triki Team" />
         let noticiasData; // Variable global para almacenar los datos de noticias
 
         // Cargar noticias desde el JSON
-        fetch('https://script.google.com/macros/s/AKfycbzgrxuBXoP_4uYBCKiWZWvf6LXjUy1Gp9gehHCHno-OrIpdHs1HB6kpoeLJ6yDLTcsGWg/exec')
+        fetch('https://script.google.com/macros/s/AKfycbwzSvfateLbpW_3aec1OclCVygDtQEWUGTgdr8vYtKdowjA9WahfpDJXqJXaKzHWlhqmA/exec')
             .then(response => response.json())
             .then(data => {
                 noticiasData = data.filter(noticia => noticia.ID !== "");
