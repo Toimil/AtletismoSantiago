@@ -430,6 +430,11 @@ Triki Team" />
             var tableHead = '<thead><tr>';
             var headers = Object.keys(data[0]);
 
+            for (var i = 0; i < headers.length; i++) {
+                tableHead += '<th>' + headers[i] + '</th>';
+            
+        }
+
             tableHead += '</tr></thead>';
 
             // Obtener el cuerpo de la tabla
