@@ -430,12 +430,6 @@ Triki Team" />
         var tableHead = '<thead><tr>';
         var headers = Object.keys(data[0]);
 
-        for (var i = 0; i < headers.length; i++) {
-            if (headers[i] !== "Anotado?") {  // Excluir la última columna
-                tableHead += '<th>' + headers[i] + '</th>';
-            }
-        }
-
         tableHead += '</tr></thead>';
 
         // Obtener el cuerpo de la tabla
