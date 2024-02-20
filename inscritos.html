@@ -9,7 +9,7 @@
 
     <!-- Bootstrap CSS -->
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    
+
     <link rel='stylesheet' href='css/boxicons.min.css'>
     <link rel="stylesheet" href="css/style.css">
     <link rel=”stylesheet” href=”https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.0.1/css/bootstrap.min.css” />
@@ -425,64 +425,64 @@ Triki Team" />
 
 
 
-            function mostrarTabla(data) {
-        // Obtener el encabezado de la tabla
-        var tableHead = '<thead><tr>';
-        var headers = Object.keys(data[0]);
+        function mostrarTabla(data) {
+            // Obtener el encabezado de la tabla
+            var tableHead = '<thead><tr>';
+            var headers = Object.keys(data[0]);
 
-        tableHead += '</tr></thead>';
+            tableHead += '</tr></thead>';
 
-        // Obtener el cuerpo de la tabla
-        var tableBody = '<tbody>';
+            // Obtener el cuerpo de la tabla
+            var tableBody = '<tbody>';
 
-        var currentNombreComp = "";
-        var currentFechaComp = "";
+            var currentNombreComp = "";
+            var currentFechaComp = "";
 
-        for (var i = 0; i < data.length; i++) {
-            if (data[i]["Nombre de la Competición"] !== currentNombreComp || data[i]["Fecha de la Competición"] !== currentFechaComp) {
-                // Nueva combinación de "Nombre de la Competición" y "Fecha de la Competición"
-                currentNombreComp = data[i]["Nombre de la Competición"];
-                currentFechaComp = data[i]["Fecha de la Competición"];
-                
-                var rowspanValue = calcularRowspan(data, i, "Nombre de la Competición", "Fecha de la Competición");
+            for (var i = 0; i < data.length; i++) {
+                if (data[i]["Nombre de la Competición"] !== currentNombreComp || data[i]["Fecha de la Competición"] !== currentFechaComp) {
+                    // Nueva combinación de "Nombre de la Competición" y "Fecha de la Competición"
+                    currentNombreComp = data[i]["Nombre de la Competición"];
+                    currentFechaComp = data[i]["Fecha de la Competición"];
 
-                tableBody += '<tr>';
-                tableBody += '<td rowspan="' + rowspanValue + '">' + currentNombreComp + '</td>';
-                tableBody += '<td rowspan="' + rowspanValue + '">' + currentFechaComp + '</td>';
-                tableBody += '<td>' + data[i]["Nombre y Apellidos del Atleta"] + '</td>';
-                tableBody += '<td>' + data[i]["Pruebas a realizar y marca en esas pruebas"] + '</td>';
-                tableBody += '</tr>';
-            } else {
-                // Mismo "Nombre de la Competición" y "Fecha de la Competición", mostrar solo Atleta y Pruebas
-                tableBody += '<tr>';
-                tableBody += '<td>' + data[i]["Nombre y Apellidos del Atleta"] + '</td>';
-                tableBody += '<td>' + data[i]["Pruebas a realizar y marca en esas pruebas"] + '</td>';
-                tableBody += '</tr>';
+                    var rowspanValue = calcularRowspan(data, i, "Nombre de la Competición", "Fecha de la Competición");
+
+                    tableBody += '<tr>';
+                    tableBody += '<td rowspan="' + rowspanValue + '">' + currentNombreComp + '</td>';
+                    tableBody += '<td rowspan="' + rowspanValue + '">' + currentFechaComp + '</td>';
+                    tableBody += '<td>' + data[i]["Nombre y Apellidos del Atleta"] + '</td>';
+                    tableBody += '<td>' + data[i]["Pruebas a realizar y marca en esas pruebas"] + '</td>';
+                    tableBody += '</tr>';
+                } else {
+                    // Mismo "Nombre de la Competición" y "Fecha de la Competición", mostrar solo Atleta y Pruebas
+                    tableBody += '<tr>';
+                    tableBody += '<td>' + data[i]["Nombre y Apellidos del Atleta"] + '</td>';
+                    tableBody += '<td>' + data[i]["Pruebas a realizar y marca en esas pruebas"] + '</td>';
+                    tableBody += '</tr>';
+                }
             }
+
+            tableBody += '</tbody>';
+
+            // Construir la tabla completa
+            var table = '<table class="table">' + tableHead + tableBody + '</table>';
+
+            // Insertar la tabla en el elemento con el ID 'inscritos'
+            document.getElementById('inscritos').innerHTML = table;
         }
 
-        tableBody += '</tbody>';
+        function calcularRowspan(data, currentIndex, nombreColumna, fechaColumna) {
+            var rowspanValue = 1;
 
-        // Construir la tabla completa
-        var table = '<table class="table">' + tableHead + tableBody + '</table>';
-
-        // Insertar la tabla en el elemento con el ID 'inscritos'
-        document.getElementById('inscritos').innerHTML = table;
-    }
-
-    function calcularRowspan(data, currentIndex, nombreColumna, fechaColumna) {
-        var rowspanValue = 1;
-
-        for (var i = currentIndex + 1; i < data.length; i++) {
-            if (data[currentIndex][nombreColumna] === data[i][nombreColumna] && data[currentIndex][fechaColumna] === data[i][fechaColumna]) {
-                rowspanValue++;
-            } else {
-                break;
+            for (var i = currentIndex + 1; i < data.length; i++) {
+                if (data[currentIndex][nombreColumna] === data[i][nombreColumna] && data[currentIndex][fechaColumna] === data[i][fechaColumna]) {
+                    rowspanValue++;
+                } else {
+                    break;
+                }
             }
-        }
 
-        return rowspanValue;
-    }
+            return rowspanValue;
+        }
 
 
         function formatearFecha(fecha) {
