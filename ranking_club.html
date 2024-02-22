@@ -477,7 +477,7 @@ Triki Team" />
                     tipoSelect.add(option);
                 });
 
-                
+
 
                 // Dentro del bloque que llena las opciones de genero
                 generos.forEach(genero => {
@@ -622,19 +622,26 @@ Triki Team" />
             const categoria = categoriaSelect.value;
             const tipoPrueba = tipoPruebaSelect.value;
 
-            // Si se selecciona "Todas las categorías", no filtrar por categoría
-            const filtroCategoria = categoria ? item.Categoria === categoria : true;
+
 
 
             // Realizar la solicitud Fetch para obtener los datos desde la URL
             fetch('https://www.atletismosantiago.club/data/output2.json')
                 .then(response => response.json())
                 .then(datos => {
-                    const datosFiltrados = datos.filter(item =>
-                        item.Genero === genero && filtroCategoria && item.TipoPrueba === tipo && item.Title === tipoPrueba
-
-                    );
-
+                    // Filtrar datos basados en la categoría seleccionada
+                    let datosFiltrados;
+                    if (categoria === '') {
+                        // Si se selecciona "Todas las categorías", no aplicar filtro por categoría
+                        datosFiltrados = datos.filter(item =>
+                            item.Genero === genero && item.TipoPrueba === tipo && item.Title === tipoPrueba
+                        );
+                    } else {
+                        // Filtrar por categoría seleccionada
+                        datosFiltrados = datos.filter(item =>
+                            item.Genero === genero && item.Categoria === categoria && item.TipoPrueba === tipo && item.Title === tipoPrueba
+                        );
+                    }
 
                     // Mostrar los resultados en la tabla
                     generarTabla(datosFiltrados);
