@@ -597,7 +597,7 @@ Triki Team" />
                 datosTotales.sort((a, b) => {
                     const marcaA = formatMarca(a.Marca);
                     const marcaB = formatMarca(b.Marca);
-                    
+
                     // Primero, ordenar por la longitud total de la cadena
                     if (marcaA.length !== marcaB.length) {
                         return marcaA.length - marcaB.length;
@@ -640,8 +640,26 @@ Triki Team" />
                 });
                 resultadosTabla.appendChild(fila);
             });
+
+
+            //eliminar las filas duplicadas
+            eliminarFilasDuplicadas(resultadosTabla);
         }
 
+        function eliminarFilasDuplicadas(tabla) {
+            const filas = tabla.querySelectorAll('tr');
+            const valoresUnicos = {};
+
+            filas.forEach(fila => {
+                const valores = Array.from(fila.children).map(td => td.textContent.trim());
+                const clave = valores.join('|');
+                if (valoresUnicos[clave]) {
+                    fila.remove();
+                } else {
+                    valoresUnicos[clave] = true;
+                }
+            });
+        }
 
         function consultarRanking() {
             const genero = generoSelect.value;
