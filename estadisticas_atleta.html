@@ -176,9 +176,10 @@ Triki Team" />
                     <p> <i class='bx bxs-envelope'></i> atletismosantiago@gmail.com</p>
                 </div>
                 <div class="col-auto social-icons">
-                    <a href="https://www.facebook.com/clubatletismo.santiago/?locale=es_ES" aria-label="Facebook de Atletismo Santiago"><i
-                            class='bx bxl-facebook'></i></a>
-                    <a href="https://www.instagram.com/atletismosantiago/?hl=es" aria-label="Instagram del AtletismoSantiago"><i class='bx bxl-instagram'></i></a>
+                    <a href="https://www.facebook.com/clubatletismo.santiago/?locale=es_ES"
+                        aria-label="Facebook de Atletismo Santiago"><i class='bx bxl-facebook'></i></a>
+                    <a href="https://www.instagram.com/atletismosantiago/?hl=es"
+                        aria-label="Instagram del AtletismoSantiago"><i class='bx bxl-instagram'></i></a>
                 </div>
             </div>
         </div>
@@ -202,24 +203,24 @@ Triki Team" />
                         <a href="./index.html" class="nav-link">Inicio</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href=""   role="button"
-                            data-toggle="dropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="" role="button" data-toggle="dropdown"
+                            data-bs-toggle="dropdown" aria-expanded="false">
                             Club
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <li><a class="dropdown-item" href="./historia.html">Historia</a></li>
-                            <li><a class="dropdown-item" href="https://swimburger-cas-app-demo.web.app/forms/licencia">Licencias</a></li>
                             <li><a class="dropdown-item"
-                                href="./noticias.html">Últimas Noticias</a></li>
+                                    href="https://swimburger-cas-app-demo.web.app/forms/licencia">Licencias</a></li>
+                            <li><a class="dropdown-item" href="./noticias.html">Últimas Noticias</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
                         <a href="./calendario.html" class="nav-link">Calendario</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href=""   role="button"
-                            data-toggle="dropdown" data-bs-toggle="dropdown" aria-expanded="false">
-                            Estadísticas                            
+                        <a class="nav-link dropdown-toggle" href="" role="button" data-toggle="dropdown"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            Estadísticas
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <li><a class="dropdown-item" href="./records_club.html">Récords del Club</a></li>
@@ -352,7 +353,7 @@ Triki Team" />
                         <li class="nav-item mb-2"><a href="./historia.html" class="nav-link p-0 text-muted">Historia</a>
                         </li>
 
-                        
+
 
                         <li class="nav-item mb-2"><a href="./noticias.html" class="nav-link p-0 text-muted">Últimas
                                 Noticias</a></li>
@@ -366,8 +367,8 @@ Triki Team" />
                         <li class="nav-item mb-2"><a href="./estadisticas_atleta.html"
                                 class="nav-link p-0 text-muted">Estadísticas Atletas</a></li>
 
-                                <li class="nav-item mb-2"><a href="./ranking_club.html"
-                                    class="nav-link p-0 text-muted">Ranking del Club</a></li>     
+                        <li class="nav-item mb-2"><a href="./ranking_club.html" class="nav-link p-0 text-muted">Ranking
+                                del Club</a></li>
 
                     </ul>
                 </div>
@@ -397,11 +398,17 @@ Triki Team" />
                 </div>
             </div>
             <div class="d-flex flex-column flex-sm-row justify-content-between border-top text-center">
-                <p>&copy; 2024 Reservados todos los derechos. <a href="https://www.linkedin.com/in/%C3%B3scar-toimil-plaza/" style="color:#5e5b5b" target="_blank" rel="noopener noreferrer">Ó. Toimil</a>. &copy;</p>
-            
+                <p>&copy; 2024 Reservados todos los derechos. <a
+                        href="https://www.linkedin.com/in/%C3%B3scar-toimil-plaza/" style="color:#5e5b5b"
+                        target="_blank" rel="noopener noreferrer">Ó. Toimil</a>. &copy;</p>
+
                 <ul class="list-unstyled d-flex justify-content-center justify-content-sm-end mt-3 mt-sm-0">
-                    <li class="ms-4"><a class="bi bi-instagram link-dark d-none d-sm-inline" href="https://www.instagram.com/atletismosantiago/?hl=es" aria-label="Instagram de Atletismo Santiago"></a></li>
-                    <li class="ms-4"><a class="bi bi-facebook link-dark d-none d-sm-inline" href="https://www.facebook.com/clubatletismo.santiago/?locale=es_ES" aria-label="Facebook de Atletismo Santiago"></a></li>
+                    <li class="ms-4"><a class="bi bi-instagram link-dark d-none d-sm-inline"
+                            href="https://www.instagram.com/atletismosantiago/?hl=es"
+                            aria-label="Instagram de Atletismo Santiago"></a></li>
+                    <li class="ms-4"><a class="bi bi-facebook link-dark d-none d-sm-inline"
+                            href="https://www.facebook.com/clubatletismo.santiago/?locale=es_ES"
+                            aria-label="Facebook de Atletismo Santiago"></a></li>
                 </ul>
             </div>
 
@@ -448,8 +455,9 @@ Triki Team" />
                         });
                     }
                 });
-                const atletas = Array.from(atletasSet).sort(); // Convertir el Set a un array y ordenar alfabéticamente
-
+                const atletas = Array.from(atletasSet).sort((a, b) => {
+                    return a.replace(' ', '').localeCompare(b.replace(' ', ''));
+                });
 
                 // Dentro del bloque que llena las opciones de apellidos
                 const atletasApellidosSet = new Set();
@@ -484,14 +492,14 @@ Triki Team" />
                 optionApellido.text = '---';
                 apellidoSelect.add(optionApellido);
 
-                
+
 
                 temporadas.forEach(temporada => {
                     const option = document.createElement('option');
                     option.text = temporada;
                     temporadaSelect.add(option);
                 });
-
+                tiposPrueba.sort(); // Ordenar alfabéticamente
                 tiposPrueba.forEach(tipoPrueba => {
                     const option = document.createElement('option');
                     option.text = tipoPrueba;
@@ -582,7 +590,7 @@ Triki Team" />
                 .then(response => response.json())
                 .then(datos => {
                     const datosFiltrados = datos.filter(item =>
-                    (!temporada || item.Temporada === temporada) &&
+                        (!temporada || item.Temporada === temporada) &&
                         (!tipoPrueba || item.Title === tipoPrueba)
                     );
 
