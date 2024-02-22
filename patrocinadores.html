@@ -173,12 +173,12 @@ Triki Team" />
             <div class="row justify-content-between">
                 <div class="col-auto">
                     <p> <i class='bx bxs-envelope'></i> atletismosantiago@gmail.com</p>
-                    <p> <i class='bx bxs-phone-call'></i> +34 618127115</p>
                 </div>
                 <div class="col-auto social-icons">
-                    <a href="https://www.facebook.com/clubatletismo.santiago/?locale=es_ES" aria-label="Facebook de Atletismo Santiago"><i
-                            class='bx bxl-facebook'></i></a>
-                    <a href="https://www.instagram.com/atletismosantiago/?hl=es" aria-label="Instagram del AtletismoSantiago"><i class='bx bxl-instagram'></i></a>
+                    <a href="https://www.facebook.com/clubatletismo.santiago/?locale=es_ES"
+                        aria-label="Facebook de Atletismo Santiago"><i class='bx bxl-facebook'></i></a>
+                    <a href="https://www.instagram.com/atletismosantiago/?hl=es"
+                        aria-label="Instagram del AtletismoSantiago"><i class='bx bxl-instagram'></i></a>
                 </div>
             </div>
         </div>
@@ -202,28 +202,30 @@ Triki Team" />
                         <a href="./index.html" class="nav-link">Inicio</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href=""   role="button"
-                            data-toggle="dropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                        <a class="nav-link dropdown-toggle" href="" role="button" data-toggle="dropdown"
+                            data-bs-toggle="dropdown" aria-expanded="false">
                             Club
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <li><a class="dropdown-item" href="./historia.html">Historia</a></li>
-                            <li><a class="dropdown-item" href="https://swimburger-cas-app-demo.web.app/forms/licencia">Licencias</a></li>
                             <li><a class="dropdown-item"
-                                href="./noticias.html">Últimas Noticias</a></li>
+                                    href="https://swimburger-cas-app-demo.web.app/forms/licencia">Licencias</a></li>
+                            <li><a class="dropdown-item" href="./noticias.html">Últimas Noticias</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
                         <a href="./calendario.html" class="nav-link">Calendario</a>
                     </li>
                     <li class="nav-item dropdown">
-                        <a class="nav-link dropdown-toggle" href=""   role="button"
-                            data-toggle="dropdown" data-bs-toggle="dropdown" aria-expanded="false">
-                            Estadísticas                            
+                        <a class="nav-link dropdown-toggle" href="" role="button" data-toggle="dropdown"
+                            data-bs-toggle="dropdown" aria-expanded="false">
+                            Estadísticas
                         </a>
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <li><a class="dropdown-item" href="./records_club.html">Récords del Club</a></li>
                             <li><a class="dropdown-item" href="./estadisticas_atleta.html">Estadísticas Atletas</a></li>
+                            <li><a class="dropdown-item" href="./ranking_club.html">Ranking del Club</a></li>
+
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -249,13 +251,54 @@ Triki Team" />
                 <br>
             </div>
 
-            <!-- Sección de Patrocinadores Actuales -->
-            <div class="row">
+            <div class="row mobile-patrocinadores" style="display: none;">
                 <div class="col-12 mb-4" style="margin-top: -3%;">
-                    <img src="./img/patrocinadores.webp" alt="Patrocinadores" style="width: 100%;">
+                    <!-- Se muestran las imágenes de los patrocinadores para dispositivos móviles -->
+                    <div class="d-flex justify-content-between">
+                        <!-- Reemplaza las rutas de las imágenes con las de tus patrocinadores -->
+                        <img src="./img/patrocinador_carrilana.jpg" alt="Patrocinador 1"
+                            style="max-width: 33%; height: auto;">
+                        <img src="./img/patrocinador_fisioGDS.jpg" alt="Patrocinador 2"
+                            style="max-width: 33%; height: auto;">
+                        <img src="./img/patrocinador_redes.jpg" alt="Patrocinador 3"
+                            style="max-width: 33%; height: auto;">
+
+                    </div>
+                </div>
+                <div class="col-12 ">
+
+
+                    <div class="d-flex justify-content-between">
+                        <!-- Reemplaza las rutas de las imágenes con las de tus patrocinadores -->
+
+                        <!-- Reemplaza las rutas de las imágenes con las de tus patrocinadores -->
+                        <img src="./img/patrocinador_deputacion_coruna.jpg" alt="Patrocinador 5"
+                            style="max-width: 33%; height: auto;">
+                        <img src="./img/patrocinador_wooden_architecture.jpg" alt="Patrocinador 6"
+                            style="max-width: 33%; height: auto;">
+                        <img src="./img/patrocinador_deporte_galego.jpg" alt="Patrocinador 4"
+                            style="max-width: 33%; height: auto;">
+
+                    </div>
+                </div>
+
+
+                <div class="col-12">
+                    <div class="d-flex justify-content-center align-items-center">
+                        <!-- Alineación vertical y horizontal -->
+                        <img src="./img/patrocinador_san.jpg" alt="Patrocinador 7"
+                            style="max-width: 33%; height: auto;">
+                    </div>
                 </div>
             </div>
+            <div class="row desktop-patrocinadores" style="display: flex;">
 
+                <!-- Se muestran las imágenes de los patrocinadores para dispositivos de escritorio y tableta -->
+                <div class="col-12 mb-4" style="margin-top: -3%;">
+                    <img src="./img/patrocinadores.webp" ata-src="./img/patrocinadores.webp" loading="lazy"
+                        alt="Patrocinadores" style="width: 100%;">
+                </div>
+            </div>
 
 
 
@@ -272,8 +315,10 @@ Triki Team" />
                         <br>
                     </div>
 
-                    <div class="d-flex flex-column flex-sm-row w-100 mt-4 text-center justify-content-center align-items-center" style="margin-top: -3%;">
-                        <button class="btn btn-primary btn-lg" type="button" onclick="window.location.href='contacto.html'">¡Contáctanos!</button>
+                    <div class="d-flex flex-column flex-sm-row w-100 mt-4 text-center justify-content-center align-items-center"
+                        style="margin-top: -3%;">
+                        <button class="btn btn-primary btn-lg" type="button"
+                            onclick="window.location.href='contacto.html'">¡Contáctanos!</button>
                     </div>
                 </div>
             </div>
@@ -291,10 +336,13 @@ Triki Team" />
                     <ul class="nav flex-column">
                         <li class="nav-item mb-2"><a href="./index.html" class="nav-link p-0 text-muted">Inicio</a></li>
                         <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Club</a></li>
-                        <li class="nav-item mb-2"><a href="./calendario.html" class="nav-link p-0 text-muted">Calendario</a></li>
+                        <li class="nav-item mb-2"><a href="./calendario.html"
+                                class="nav-link p-0 text-muted">Calendario</a></li>
                         <li class="nav-item mb-2"><a href="" class="nav-link p-0 text-muted">Estadisticas</a></li>
-                        <li class="nav-item mb-2"><a href="./patrocinadores.html" class="nav-link p-0 text-muted">Patrocinadores</a></li>
-                        <li class="nav-item mb-2"><a href="./contacto.html" class="nav-link p-0 text-muted">Contacto</a></li>
+                        <li class="nav-item mb-2"><a href="./patrocinadores.html"
+                                class="nav-link p-0 text-muted">Patrocinadores</a></li>
+                        <li class="nav-item mb-2"><a href="./contacto.html" class="nav-link p-0 text-muted">Contacto</a>
+                        </li>
 
                     </ul>
                 </div>
@@ -347,11 +395,17 @@ Triki Team" />
                 </div>
             </div>
             <div class="d-flex flex-column flex-sm-row justify-content-between border-top text-center">
-                <p>&copy; 2024 Reservados todos los derechos. <a href="https://www.linkedin.com/in/%C3%B3scar-toimil-plaza/" style="color:#5e5b5b" target="_blank" rel="noopener noreferrer">Ó. Toimil</a>. &copy;</p>
-            
+                <p>&copy; 2024 Reservados todos los derechos. <a
+                        href="https://www.linkedin.com/in/%C3%B3scar-toimil-plaza/" style="color:#5e5b5b"
+                        target="_blank" rel="noopener noreferrer">Ó. Toimil</a>. &copy;</p>
+
                 <ul class="list-unstyled d-flex justify-content-center justify-content-sm-end mt-3 mt-sm-0">
-                    <li class="ms-4"><a class="bi bi-instagram link-dark d-none d-sm-inline" href="https://www.instagram.com/atletismosantiago/?hl=es" aria-label="Instagram de Atletismo Santiago"></a></li>
-                    <li class="ms-4"><a class="bi bi-facebook link-dark d-none d-sm-inline" href="https://www.facebook.com/clubatletismo.santiago/?locale=es_ES" aria-label="Facebook de Atletismo Santiago"></a></li>
+                    <li class="ms-4"><a class="bi bi-instagram link-dark d-none d-sm-inline"
+                            href="https://www.instagram.com/atletismosantiago/?hl=es"
+                            aria-label="Instagram de Atletismo Santiago"></a></li>
+                    <li class="ms-4"><a class="bi bi-facebook link-dark d-none d-sm-inline"
+                            href="https://www.facebook.com/clubatletismo.santiago/?locale=es_ES"
+                            aria-label="Facebook de Atletismo Santiago"></a></li>
                 </ul>
             </div>
 
@@ -368,6 +422,33 @@ Triki Team" />
     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.1/dist/js/bootstrap.min.js"></script> -->
     <script src="js/app.js"></script>
+
+    <script>
+        // Función para mostrar las imágenes de los patrocinadores en dispositivos móviles
+        function showMobilePatrocinadores() {
+            const mobilePatrocinadores = document.querySelector('.mobile-patrocinadores');
+            const desktoppatrocinadores = document.querySelector('.desktop-patrocinadores');
+            if (mobilePatrocinadores) {
+                mobilePatrocinadores.style.display = 'flex'; // Mostrar las imágenes
+                desktoppatrocinadores.style.display = 'none'; // Ocultar las imágenes de escritorio
+            }
+        }
+
+        // Función para verificar si el dispositivo es móvil
+        function isMobileDevice() {
+            if (screen.width < 768 || window.innerWidth < 768)
+                return true;
+            else
+                return false;
+        }
+
+
+
+        // Verificar si el dispositivo es móvil y mostrar las imágenes de los patrocinadores si es así
+        if (isMobileDevice()) {
+            showMobilePatrocinadores();
+        }
+    </script>
 </body>
 
 </html>

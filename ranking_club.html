@@ -174,7 +174,6 @@ Triki Team" />
             <div class="row justify-content-between">
                 <div class="col-auto">
                     <p> <i class='bx bxs-envelope'></i> atletismosantiago@gmail.com</p>
-                    <p> <i class='bx bxs-phone-call'></i> +34 618127115</p>
                 </div>
                 <div class="col-auto social-icons">
                     <a href="https://www.facebook.com/clubatletismo.santiago/?locale=es_ES"
@@ -226,6 +225,8 @@ Triki Team" />
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <li><a class="dropdown-item" href="./records_club.html">Récords del Club</a></li>
                             <li><a class="dropdown-item" href="./estadisticas_atleta.html">Estadísticas Atletas</a></li>
+                            <li><a class="dropdown-item" href="./ranking_club.html">Ranking del Club</a></li>
+
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -262,7 +263,7 @@ Triki Team" />
                 <form id="consultaForm" class="col-md-8">
                     <div class="row">
                         <div class="col-md-3">
-                            <label for="genero">Genero:</label>
+                            <label for="genero">Género:</label>
                             <select id="genero" class="form-control" required></select>
                         </div>
 
@@ -499,8 +500,10 @@ Triki Team" />
                 // Limpiar opciones actuales
                 tipoPruebaSelect.innerHTML = '';
 
-                // Llenar opciones de tipo de prueba
-                pruebasUnicas.forEach(prueba => {
+                // Convertir el conjunto a un array y ordenarlo alfabéticamente
+                const pruebasOrdenadas = Array.from(pruebasUnicas).sort();
+
+                pruebasOrdenadas.forEach(prueba => {
                     const option = document.createElement('option');
                     option.text = prueba;
                     tipoPruebaSelect.add(option);
@@ -530,8 +533,10 @@ Triki Team" />
                     // Limpiar opciones actuales
                     tipoPruebaSelect.innerHTML = '';
 
-                    // Llenar opciones de tipo de prueba
-                    pruebasUnicas.forEach(prueba => {
+                    // Convertir el conjunto a un array y ordenarlo alfabéticamente
+                    const pruebasOrdenadas = Array.from(pruebasUnicas).sort();
+
+                    pruebasOrdenadas.forEach(prueba => {
                         const option = document.createElement('option');
                         option.text = prueba;
                         tipoPruebaSelect.add(option);

@@ -193,7 +193,6 @@ Triki Team" />
             <div class="row justify-content-between">
                 <div class="col-auto">
                     <p> <i class='bx bxs-envelope'></i> atletismosantiago@gmail.com</p>
-                    <p> <i class='bx bxs-phone-call'></i> +34 618127115</p>
                 </div>
                 <div class="col-auto social-icons">
                     <a href="https://www.facebook.com/clubatletismo.santiago/?locale=es_ES"
@@ -245,6 +244,8 @@ Triki Team" />
                         <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
                             <li><a class="dropdown-item" href="./records_club.html">Récords del Club</a></li>
                             <li><a class="dropdown-item" href="./estadisticas_atleta.html">Estadísticas Atletas</a></li>
+                            <li><a class="dropdown-item" href="./ranking_club.html">Ranking del Club</a></li>
+
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -422,11 +423,11 @@ Triki Team" />
 
 
 
-    
 
 
 
-    
+
+
 
     <div id="projects" style="padding-top: 4rem; padding-bottom: 4rem;background-color: #F0F6FF">
         <div class="container ">
@@ -539,7 +540,49 @@ Triki Team" />
                     <hr class="divider" />
                 </div>
             </div>
-            <div class="row">
+            <div class="row mobile-patrocinadores" style="display: none;">
+                <div class="col-12 mt-5">
+                    <!-- Se muestran las imágenes de los patrocinadores para dispositivos móviles -->
+                    <div class="d-flex justify-content-between">
+                        <!-- Reemplaza las rutas de las imágenes con las de tus patrocinadores -->
+                        <img src="./img/patrocinador_carrilana.jpg" alt="Patrocinador 1"
+                            style="max-width: 33%; height: auto;">
+                        <img src="./img/patrocinador_fisioGDS.jpg" alt="Patrocinador 2"
+                            style="max-width: 33%; height: auto;">
+                        <img src="./img/patrocinador_redes.jpg" alt="Patrocinador 3"
+                            style="max-width: 33%; height: auto;">
+
+                    </div>
+                </div>
+                <div class="col-12 ">
+
+
+                    <div class="d-flex justify-content-between">
+                        <!-- Reemplaza las rutas de las imágenes con las de tus patrocinadores -->
+                        
+                        <!-- Reemplaza las rutas de las imágenes con las de tus patrocinadores -->
+                        <img src="./img/patrocinador_deputacion_coruna.jpg" alt="Patrocinador 5"
+                            style="max-width: 33%; height: auto;">
+                        <img src="./img/patrocinador_wooden_architecture.jpg" alt="Patrocinador 6"
+                            style="max-width: 33%; height: auto;">
+                        <img src="./img/patrocinador_deporte_galego.jpg" alt="Patrocinador 4"
+                            style="max-width: 33%; height: auto;">
+
+                    </div>
+                </div>
+                
+
+                <div class="col-12">
+                    <div class="d-flex justify-content-center align-items-center">
+                        <!-- Alineación vertical y horizontal -->
+                        <img src="./img/patrocinador_san.jpg" alt="Patrocinador 7"
+                            style="max-width: 33%; height: auto;">
+                    </div>
+                </div>
+            </div>
+            <div class="row desktop-patrocinadores" style="display: flex;">
+
+                <!-- Se muestran las imágenes de los patrocinadores para dispositivos de escritorio y tableta -->
                 <div class="col-12 mt-5">
                     <img src="./img/patrocinadores.webp" ata-src="./img/patrocinadores.webp" loading="lazy"
                         alt="Patrocinadores" style="width: 100%;">
@@ -761,6 +804,32 @@ Triki Team" />
                 <p><strong>Fecha:</strong> ${fechaFormateada}</p>
             `;
         }
+
+        // Función para verificar si el dispositivo es móvil
+        function isMobileDevice() {
+            if (screen.width < 768 || window.innerWidth < 768)
+                return true;
+            else
+                return false;
+        }
+
+        // Función para mostrar las imágenes de los patrocinadores en dispositivos móviles
+        function showMobilePatrocinadores() {
+            const mobilePatrocinadores = document.querySelector('.mobile-patrocinadores');
+            const desktoppatrocinadores = document.querySelector('.desktop-patrocinadores');
+            if (mobilePatrocinadores) {
+                mobilePatrocinadores.style.display = 'flex'; // Mostrar las imágenes
+                desktoppatrocinadores.style.display = 'none'; // Ocultar las imágenes de escritorio
+            }
+        }
+
+
+
+        // Verificar si el dispositivo es móvil y mostrar las imágenes de los patrocinadores si es así
+        if (isMobileDevice()) {
+            showMobilePatrocinadores();
+        }
+
     </script>
     <style>
         #modal-body p {
