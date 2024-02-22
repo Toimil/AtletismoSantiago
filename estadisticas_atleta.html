@@ -484,6 +484,8 @@ Triki Team" />
                 optionApellido.text = '---';
                 apellidoSelect.add(optionApellido);
 
+                
+
                 temporadas.forEach(temporada => {
                     const option = document.createElement('option');
                     option.text = temporada;
@@ -510,6 +512,12 @@ Triki Team" />
                     apellidoSelect.add(option);
                 });
                 temporadaSelect.value = '2024';
+                // Añadir una opción vacía al selector de temporadas
+                const optionTemporada = document.createElement('option');
+                optionTemporada.value = '';
+                optionTemporada.text = 'TODAS'
+                temporadaSelect.add(optionTemporada);
+
                 consultarMarcas();
 
             })
@@ -574,7 +582,7 @@ Triki Team" />
                 .then(response => response.json())
                 .then(datos => {
                     const datosFiltrados = datos.filter(item =>
-                        item.Temporada === temporada &&
+                    (!temporada || item.Temporada === temporada) &&
                         (!tipoPrueba || item.Title === tipoPrueba)
                     );
 
