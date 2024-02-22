@@ -209,7 +209,7 @@ Triki Team" />
     <nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top" id="barraNavegacion">
         <div class="container px-4">
             <a class="navbar-brand" href="./index.html" style="max-width: 40%">
-                <img src="./img/logo.webp" alt="Club Atletismo Santiago Logo" style="max-width: 50%; height: auto;">
+                <img src="./img/logo.webp" loading="lazy" alt="Club Atletismo Santiago Logo" style="max-width: 50%; height: auto;">
             </a>
             <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
@@ -546,18 +546,18 @@ Triki Team" />
                     <div class="d-flex justify-content-between">
                         <a href="https://deporte.xunta.gal/" style="max-width: 33%; height: auto;"
                             title="Deporte Galego" style="text-decoration: none; color: inherit; font-weight: inherit;">
-                            <img src="./img/patrocinador_deporte_galego.jpg" alt="Patrocinador 6">
+                            <img src="./img/patrocinador_deporte_galego.jpg" loading="lazy" alt="Patrocinador 6">
                         </a>
                         
                         <a href="https://fisiogds.es/" style="max-width: 33%; height: auto;" title="Fisio GDS"
                             style="text-decoration: none; color: inherit; font-weight: inherit;">
 
-                            <img src="./img/patrocinador_fisioGDS.jpg" alt="Patrocinador 2">
+                            <img src="./img/patrocinador_fisioGDS.jpg" loading="lazy" alt="Patrocinador 2">
                         </a>
                         <a href="https://www.dacoruna.gal/" style="max-width: 33%; height: auto;"
                             title="Deputación da Coruña"
                             style="text-decoration: none; color: inherit; font-weight: inherit;">
-                            <img src="./img/patrocinador_deputacion_coruna.jpg" alt="Patrocinador 4">
+                            <img src="./img/patrocinador_deputacion_coruna.jpg" loading="lazy" alt="Patrocinador 4">
                         </a>
                     </div>
                 </div>
@@ -568,18 +568,18 @@ Triki Team" />
                         <a href="https://redes-compostela-mariscos-tapas.negocio.site/" style="max-width: 33%; height: auto;" 
                             title="Redes Compostela" style="text-decoration: none; color: inherit; font-weight: inherit;">
 
-                            <img src="./img/patrocinador_redes.jpg" alt="Patrocinador 3">
+                            <img src="./img/patrocinador_redes.jpg" loading="lazy" alt="Patrocinador 3">
                         </a>
                         
                         
                         <a href="http://santiagodecompostela.gal/casa_concello/servizo.php?txt=ser_deportes&c=&lg=cas" style="max-width: 33%; height: auto;"
                             title="Departamento Deportes Santiago" style="text-decoration: none; color: inherit; font-weight: inherit;">
-                            <img src="./img/patrocinador_san.jpg" alt="Patrocinador 7">
+                            <img src="./img/patrocinador_san.jpg" loading="lazy" alt="Patrocinador 7">
                         </a>
                         <a href="https://acarrilana.com/es/inicio-es/" style="max-width: 33%; height: auto;"
                             title="Carrilana" style="text-decoration: none; color: inherit; font-weight: inherit;">
 
-                            <img src="./img/patrocinador_carrilana.jpg" alt="Patrocinador 1">
+                            <img src="./img/patrocinador_carrilana.jpg" loading="lazy" alt="Patrocinador 1">
                         </a>
                     </div>
                 </div>
@@ -590,7 +590,7 @@ Triki Team" />
                         <a href="http://woodenarchitecture.es/" style="max-width: 33%; height: auto;"
                             title="Wooden Architecture"
                             style="text-decoration: none; color: inherit; font-weight: inherit;">
-                            <img src="./img/patrocinador_wooden_architecture.jpg" alt="Patrocinador 5">
+                            <img src="./img/patrocinador_wooden_architecture.jpg" loading="lazy" alt="Patrocinador 5">
                         </a>
                     </div>
                 </div>
@@ -751,7 +751,7 @@ Triki Team" />
                 const card = `
             <div class="col-md-6 col-lg-4 mb-4 noticia-card">
                 <div class="card">
-                    <img src="${imagenUrl}" class="card-img-top" alt="${noticia.Titulo}">
+                    <img src="${imagenUrl}" class="card-img-top" loading="lazy" alt="${noticia.Titulo}">
                     <div class="card-body">
                         <h5 class="card-title" style="text-align: center;">${noticia.Titulo}</h5>
                         <p class="card-text">${noticia.Contenido.substring(0, 150)}...</p>
@@ -816,7 +816,7 @@ Triki Team" />
 
             modalBody.innerHTML = `
 
-                <img src="${imagenUrl}" class="img-fluid mb-3" alt="${noticia.Titulo}">
+                <img src="${imagenUrl}" class="img-fluid mb-3" loading="lazy" alt="${noticia.Titulo}">
                 <h5>${noticia.Titulo}</h5>
                 <p>${noticia.Contenido}</p>
                 <p><strong>Fecha:</strong> ${fechaFormateada}</p>
