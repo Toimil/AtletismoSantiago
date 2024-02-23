@@ -459,12 +459,14 @@ Triki Team" />
                     tableBody += '<td rowspan="' + rowspanValue + '">' + currentFechaComp + '</td>';
                     tableBody += '<td>' + data[i]["Nombre y Apellidos del Atleta"] + '</td>';
                     tableBody += '<td>' + data[i]["Pruebas a realizar y marca en esas pruebas"] + '</td>';
+                    tableBody += '<td>' + data[i]["Observaciones"] + '</td>';
                     tableBody += '</tr>';
                 } else {
                     // Mismo "Nombre de la Competición" y "Fecha de la Competición", mostrar solo Atleta y Pruebas
                     tableBody += '<tr>';
                     tableBody += '<td>' + data[i]["Nombre y Apellidos del Atleta"] + '</td>';
                     tableBody += '<td>' + data[i]["Pruebas a realizar y marca en esas pruebas"] + '</td>';
+                    tableBody += '<td>' + data[i]["Observaciones"] + '</td>';
                     tableBody += '</tr>';
                 }
             }
