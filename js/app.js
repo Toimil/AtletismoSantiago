@@ -121,6 +121,9 @@ function handleWindowResize() {
     if ((screen.width < 1000 || window.innerWidth < 1000) && (screen.width > 500 || window.innerWidth > 500)) {
         document.getElementsByClassName('navbar-brand')[0].style.maxWidth = '25%';
     }
+    else{
+        document.getElementsByClassName('navbar-brand')[0].style.maxWidth = '40%';
+    }
 }
 // Verificar el estado inicial del dispositivo y aplicar los cambios necesarios
 handleWindowResize();
