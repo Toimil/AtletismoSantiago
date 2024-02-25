@@ -187,6 +187,9 @@ Triki Team" />
 </head>
 
 <body data-bs-spy="scroll" data-bs-target=".navbar">
+    <button id="backToTopBtn" onclick="scrollToTop()" title="Volver arriba">
+        <i class="bx bxs-chevron-up"></i>
+    </button>
 
     <div class="top-nav" id="home">
         <div class="container px-4">
@@ -862,7 +865,7 @@ Triki Team" />
             if ((screen.width < 1000 || window.innerWidth < 1000) && (screen.width > 500 || window.innerWidth > 500)) {
                 document.getElementsByClassName('navbar-brand')[0].style.maxWidth = '25%';
             }
-            else{
+            else {
                 document.getElementsByClassName('navbar-brand')[0].style.maxWidth = '40%';
             }
         }
@@ -873,6 +876,23 @@ Triki Team" />
         // Escuchar el evento de cambio de tamaño de la ventana
         window.addEventListener('resize', handleWindowResize);
         window.addEventListener('load', handleWindowResize);
+
+
+
+        window.onscroll = function () { scrollFunction() };
+
+        function scrollFunction() {
+            if (document.body.scrollTop > 800 || document.documentElement.scrollTop > 800) {
+                document.getElementById("backToTopBtn").style.display = "block";
+            } else {
+                document.getElementById("backToTopBtn").style.display = "none";
+            }
+        }
+
+        function scrollToTop() {
+            document.body.scrollTop = 0; // Para Safari
+            document.documentElement.scrollTop = 0; // Para Chrome, Firefox, IE y Opera
+        }
 
     </script>
     <style>

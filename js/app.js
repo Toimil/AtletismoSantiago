@@ -131,3 +131,7 @@ handleWindowResize();
 // Escuchar el evento de cambio de tamaño de la ventana
 window.addEventListener('resize', handleWindowResize);
 window.addEventListener('load', handleWindowResize);
+
+
+
+
