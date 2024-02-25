@@ -209,7 +209,8 @@ Triki Team" />
     <nav class="navbar navbar-expand-lg navbar-light bg-white sticky-top" id="barraNavegacion">
         <div class="container px-4">
             <a class="navbar-brand" href="./index.html" style="max-width: 40%">
-                <img src="./img/logo.webp" loading="lazy" alt="Club Atletismo Santiago Logo" style="max-width: 50%; height: auto;">
+                <img src="./img/logo.webp" loading="lazy" alt="Club Atletismo Santiago Logo"
+                    style="max-width: 50%; height: auto;">
             </a>
             <button class="navbar-toggler navbar-toggler-right" type="button" data-bs-toggle="collapse"
                 data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false"
@@ -382,12 +383,12 @@ Triki Team" />
                         Récords del Club
                     </a>
 
-                    
+
                     <a href="./estadisticas_atleta.html" class="btn btn-primary" style="margin-right: 2%;">
                         Estadísticas Atletas
                     </a>
 
-                    <a href="./ranking_club.html" class="btn btn-primary" >
+                    <a href="./ranking_club.html" class="btn btn-primary">
                         Ranking del Club
                     </a>
 
@@ -554,7 +555,7 @@ Triki Team" />
                             title="Deporte Galego" style="text-decoration: none; color: inherit; font-weight: inherit;">
                             <img src="./img/patrocinador_deporte_galego.jpg" loading="lazy" alt="Patrocinador 6">
                         </a>
-                        
+
                         <a href="https://fisiogds.es/" style="max-width: 33%; height: auto;" title="Fisio GDS"
                             style="text-decoration: none; color: inherit; font-weight: inherit;">
 
@@ -571,15 +572,17 @@ Triki Team" />
 
 
                     <div class="d-flex justify-content-between">
-                        <a href="https://redes-compostela-mariscos-tapas.negocio.site/" style="max-width: 33%; height: auto;" 
-                            title="Redes Compostela" style="text-decoration: none; color: inherit; font-weight: inherit;">
+                        <a href="https://redes-compostela-mariscos-tapas.negocio.site/"
+                            style="max-width: 33%; height: auto;" title="Redes Compostela"
+                            style="text-decoration: none; color: inherit; font-weight: inherit;">
 
                             <img src="./img/patrocinador_redes.jpg" loading="lazy" alt="Patrocinador 3">
                         </a>
-                        
-                        
-                        <a href="http://santiagodecompostela.gal/casa_concello/servizo.php?txt=ser_deportes&c=&lg=cas" style="max-width: 33%; height: auto;"
-                            title="Departamento Deportes Santiago" style="text-decoration: none; color: inherit; font-weight: inherit;">
+
+
+                        <a href="http://santiagodecompostela.gal/casa_concello/servizo.php?txt=ser_deportes&c=&lg=cas"
+                            style="max-width: 33%; height: auto;" title="Departamento Deportes Santiago"
+                            style="text-decoration: none; color: inherit; font-weight: inherit;">
                             <img src="./img/patrocinador_san.jpg" loading="lazy" alt="Patrocinador 7">
                         </a>
                         <a href="https://acarrilana.com/es/inicio-es/" style="max-width: 33%; height: auto;"
@@ -589,7 +592,7 @@ Triki Team" />
                         </a>
                     </div>
                 </div>
-                
+
 
                 <div class="col-12">
                     <div class="d-flex justify-content-center align-items-center">
@@ -644,7 +647,7 @@ Triki Team" />
                         <li class="nav-item mb-2"><a href="./historia.html" class="nav-link p-0 text-muted">Historia</a>
                         </li>
 
-                       
+
 
                         <li class="nav-item mb-2"><a href="./noticias.html" class="nav-link p-0 text-muted">Últimas
                                 Noticias</a></li>
@@ -659,8 +662,8 @@ Triki Team" />
                                 class="nav-link p-0 text-muted">Estadísticas Atletas</a></li>
 
 
-                                <li class="nav-item mb-2"><a href="./ranking_club.html"
-                                    class="nav-link p-0 text-muted">Ranking del Club</a></li>     
+                        <li class="nav-item mb-2"><a href="./ranking_club.html" class="nav-link p-0 text-muted">Ranking
+                                del Club</a></li>
 
                     </ul>
                 </div>
@@ -849,15 +852,24 @@ Triki Team" />
 
 
 
-        // Verificar si el dispositivo es móvil y mostrar las imágenes de los patrocinadores si es así
-        if (isMobileDevice()) {
-            showMobilePatrocinadores();
+
+        // Función para manejar el evento de cambio de tamaño de la ventana
+        function handleWindowResize() {
+            if (isMobileDevice()) {
+                showMobilePatrocinadores();
+            }
+
+            if ((screen.width < 1000 || window.innerWidth < 1000) && (screen.width > 500 || window.innerWidth > 500)) {
+                document.getElementsByClassName('navbar-brand')[0].style.maxWidth = '25%';
+            }
         }
 
-        if ((screen.width < 1000 || window.innerWidth < 1000) && (screen.width > 500 || window.innerWidth > 500)) {
-            
-            document.getElementsByClassName('navbar-brand')[0].style.maxWidth = '25%';
-        }
+        // Verificar el estado inicial del dispositivo y aplicar los cambios necesarios
+        handleWindowResize();
+
+        // Escuchar el evento de cambio de tamaño de la ventana
+        window.addEventListener('resize', handleWindowResize);
+        window.addEventListener('load', handleWindowResize);
 
     </script>
     <style>

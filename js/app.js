@@ -109,11 +109,22 @@ window.onload = function () {
 
     const owlDotButtons = document.querySelectorAll('.owl-dots button');
 
-    owlDotButtons.forEach(function(button, index) {
+    owlDotButtons.forEach(function (button, index) {
         const buttonLabel = 'Slide ' + (index + 1); // Puedes personalizar el texto según tus necesidades
         button.setAttribute('aria-label', buttonLabel);
     });
 };
 
 
+function handleWindowResize() {
 
+    if ((screen.width < 1000 || window.innerWidth < 1000) && (screen.width > 500 || window.innerWidth > 500)) {
+        document.getElementsByClassName('navbar-brand')[0].style.maxWidth = '25%';
+    }
+}
+// Verificar el estado inicial del dispositivo y aplicar los cambios necesarios
+handleWindowResize();
+
+// Escuchar el evento de cambio de tamaño de la ventana
+window.addEventListener('resize', handleWindowResize);
+window.addEventListener('load', handleWindowResize);
