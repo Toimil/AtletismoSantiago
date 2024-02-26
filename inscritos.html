@@ -398,7 +398,7 @@ Triki Team" />
     <script src="js/app.js"></script>
 
     <script>
-        var urlJSON = "https://script.google.com/macros/s/AKfycbzhcAFKQOfKv43okQxFcMOggmXRAdLzpLjsumc7WMdPSzkmaGw8co6tSqosKAJ1bET4wQ/exec";
+        var urlJSON = "https://www.atletismosantiago.club/data/Inscritos.json";
 
         // Mostrar mensaje de carga
         document.getElementById('loading-message').innerHTML = 'Cargando los atletas inscritos, espera unos segundos...';
@@ -497,7 +497,8 @@ Triki Team" />
 
         function formatearFecha(fecha) {
             // Crear un objeto Date a partir de la cadena de fecha
-            var fechaObj = new Date(fecha);
+            
+            var fechaObj = new Date(convertirAFecha(fecha));
 
             // Obtener día, mes y año
             var dia = fechaObj.getDate();
@@ -508,6 +509,19 @@ Triki Team" />
             var fechaFormateada = dia + '/' + mes + '/' + año;
 
             return fechaFormateada;
+        }
+
+        function convertirAFecha(fechaString) {
+            // Dividir la cadena de fecha en día, mes y año
+            var partesFecha = fechaString.split('/');
+            var dia = parseInt(partesFecha[0], 10);
+            var mes = parseInt(partesFecha[1], 10) - 1; // Restar 1 porque los meses van de 0 a 11 en JavaScript
+            var año = parseInt(partesFecha[2], 10);
+
+            // Crear un objeto de fecha con las partes extraídas
+            var fecha = new Date(año, mes, dia);
+
+            return fecha;
         }
     </script>
 
