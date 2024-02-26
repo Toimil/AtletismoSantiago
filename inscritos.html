@@ -325,7 +325,7 @@ Triki Team" />
                         <li class="nav-item mb-2"><a href="./historia.html" class="nav-link p-0 text-muted">Historia</a>
                         </li>
 
-                        
+
 
                         <li class="nav-item mb-2"><a href="./noticias.html" class="nav-link p-0 text-muted">Últimas
                                 Noticias</a></li>
@@ -339,8 +339,8 @@ Triki Team" />
                         <li class="nav-item mb-2"><a href="./estadisticas_atleta.html"
                                 class="nav-link p-0 text-muted">Estadísticas Atletas</a></li>
 
-                                <li class="nav-item mb-2"><a href="./ranking_club.html"
-                                    class="nav-link p-0 text-muted">Ranking del Club</a></li>     
+                        <li class="nav-item mb-2"><a href="./ranking_club.html" class="nav-link p-0 text-muted">Ranking
+                                del Club</a></li>
 
                     </ul>
                 </div>
@@ -435,39 +435,38 @@ Triki Team" />
 
             for (var i = 0; i < headers.length; i++) {
                 tableHead += '<th>' + headers[i] + '</th>';
-            
-        }
+            }
 
             tableHead += '</tr></thead>';
 
             // Obtener el cuerpo de la tabla
             var tableBody = '<tbody>';
 
-            var currentNombreComp = "";
-            var currentFechaComp = "";
+            var gruposProcesados = []; // Almacenar las combinaciones de "Nombre de la Competición" ya procesadas
 
             for (var i = 0; i < data.length; i++) {
-                if (data[i]["Nombre de la Competición"] !== currentNombreComp || data[i]["Fecha de la Competición"] !== currentFechaComp) {
-                    // Nueva combinación de "Nombre de la Competición" y "Fecha de la Competición"
-                    currentNombreComp = data[i]["Nombre de la Competición"];
-                    currentFechaComp = data[i]["Fecha de la Competición"];
+                var currentNombreComp = data[i]["Nombre de la Competición"];
+                var currentFechaComp = data[i]["Fecha de la Competición"];
 
-                    var rowspanValue = calcularRowspan(data, i, "Nombre de la Competición", "Fecha de la Competición");
+                // Verificar si esta combinación ya fue procesada
+                if (!gruposProcesados.includes(currentNombreComp + currentFechaComp)) {
+                    gruposProcesados.push(currentNombreComp + currentFechaComp);
 
+                    // Filtrar los datos para obtener los atletas con la misma combinación de competición y fecha
+                    var atletasMismoGrupo = data.filter(fila => fila["Nombre de la Competición"] === currentNombreComp && fila["Fecha de la Competición"] === currentFechaComp);
+
+                    // Crear la fila para este grupo
                     tableBody += '<tr>';
-                    tableBody += '<td rowspan="' + rowspanValue + '">' + currentNombreComp + '</td>';
-                    tableBody += '<td rowspan="' + rowspanValue + '">' + currentFechaComp + '</td>';
-                    tableBody += '<td>' + data[i]["Nombre y Apellidos del Atleta"] + '</td>';
-                    tableBody += '<td>' + data[i]["Pruebas a realizar y marca en esas pruebas"] + '</td>';
-                    tableBody += '<td>' + data[i]["Observaciones"] + '</td>';
-                    tableBody += '</tr>';
-                } else {
-                    // Mismo "Nombre de la Competición" y "Fecha de la Competición", mostrar solo Atleta y Pruebas
-                    tableBody += '<tr>';
-                    tableBody += '<td>' + data[i]["Nombre y Apellidos del Atleta"] + '</td>';
-                    tableBody += '<td>' + data[i]["Pruebas a realizar y marca en esas pruebas"] + '</td>';
-                    tableBody += '<td>' + data[i]["Observaciones"] + '</td>';
-                    tableBody += '</tr>';
+                    tableBody += '<td rowspan="' + atletasMismoGrupo.length + '">' + currentNombreComp + '</td>';
+                    tableBody += '<td rowspan="' + atletasMismoGrupo.length + '">' + currentFechaComp + '</td>';
+
+                    // Iterar sobre los atletas del grupo y agregarlos a la tabla
+                    atletasMismoGrupo.forEach(atleta => {
+                        tableBody += '<td>' + atleta["Nombre y Apellidos del Atleta"] + '</td>';
+                        tableBody += '<td>' + atleta["Pruebas a realizar y marca en esas pruebas"] + '</td>';
+                        tableBody += '<td>' + atleta["Observaciones"] + '</td>';
+                        tableBody += '</tr>';
+                    });
                 }
             }
 
@@ -479,7 +478,6 @@ Triki Team" />
             // Insertar la tabla en el elemento con el ID 'inscritos'
             document.getElementById('inscritos').innerHTML = table;
         }
-
         function calcularRowspan(data, currentIndex, nombreColumna, fechaColumna) {
             var rowspanValue = 1;
 
