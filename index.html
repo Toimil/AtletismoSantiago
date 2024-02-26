@@ -727,7 +727,7 @@ Triki Team" />
         let noticiasData; // Variable global para almacenar los datos de noticias
 
         // Cargar noticias desde el JSON
-        fetch('https://www.atletismosantiago.club/data/NoticiasCAS.json')
+        fetch('https://raw.githubusercontent.com/Toimil/AtletismoSantiago/main/data/NoticiasCAS.json')
             .then(response => response.json())
             .then(data => {
                 noticiasData = data.filter(noticia => noticia.ID !== "");
