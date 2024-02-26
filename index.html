@@ -727,7 +727,7 @@ Triki Team" />
         let noticiasData; // Variable global para almacenar los datos de noticias
 
         // Cargar noticias desde el JSON
-        fetch('https://script.google.com/macros/s/AKfycbwzSvfateLbpW_3aec1OclCVygDtQEWUGTgdr8vYtKdowjA9WahfpDJXqJXaKzHWlhqmA/exec')
+        fetch('https://www.atletismosantiago.club/data/NoticiasCAS.json')
             .then(response => response.json())
             .then(data => {
                 noticiasData = data.filter(noticia => noticia.ID !== "");
@@ -755,7 +755,7 @@ Triki Team" />
             const noticiasCargadas = noticiasContainer.querySelectorAll('.noticia-card').length;
 
             // Ordenar las noticias por fecha en orden descendente
-            noticias.sort((a, b) => new Date(b.Fecha) - new Date(a.Fecha));
+            noticias.sort((a, b) => new Date(convertirAFecha(b.Fecha)) - new Date(convertirAFecha(a.Fecha)));
 
             noticias.slice(noticiasCargadas, noticiasCargadas + cantidadMaxima).forEach(noticia => {
                 const imagenUrl = noticia.Imagen || 'https://www.atletismosantiago.club/img/bg_banner1.webp';
@@ -892,6 +892,19 @@ Triki Team" />
         function scrollToTop() {
             document.body.scrollTop = 0; // Para Safari
             document.documentElement.scrollTop = 0; // Para Chrome, Firefox, IE y Opera
+        }
+
+        function convertirAFecha(fechaString) {
+            // Dividir la cadena de fecha en día, mes y año
+            var partesFecha = fechaString.split('/');
+            var dia = parseInt(partesFecha[0], 10);
+            var mes = parseInt(partesFecha[1], 10) - 1; // Restar 1 porque los meses van de 0 a 11 en JavaScript
+            var año = parseInt(partesFecha[2], 10);
+
+            // Crear un objeto de fecha con las partes extraídas
+            var fecha = new Date(año, mes, dia);
+
+            return fecha;
         }
 
     </script>

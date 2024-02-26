@@ -209,8 +209,7 @@ Triki Team" />
                             <li><a class="dropdown-item" href="./historia.html">Historia</a></li>
                             <li><a class="dropdown-item"
                                     href="https://swimburger-cas-app-demo.web.app/forms/licencia">Licencias</a></li>
-                                    <li><a class="dropdown-item"
-                                        href="./noticias.html">Últimas Noticias</a></li>        
+                            <li><a class="dropdown-item" href="./noticias.html">Últimas Noticias</a></li>
                         </ul>
                     </li>
                     <li class="nav-item">
@@ -326,7 +325,7 @@ Triki Team" />
                         <li class="nav-item mb-2"><a href="./historia.html" class="nav-link p-0 text-muted">Historia</a>
                         </li>
 
-                        
+
 
                         <li class="nav-item mb-2"><a href="./noticias.html" class="nav-link p-0 text-muted">Últimas
                                 Noticias</a></li>
@@ -340,8 +339,8 @@ Triki Team" />
                         <li class="nav-item mb-2"><a href="./estadisticas_atleta.html"
                                 class="nav-link p-0 text-muted">Estadísticas Atletas</a></li>
 
-                                <li class="nav-item mb-2"><a href="./ranking_club.html"
-                                    class="nav-link p-0 text-muted">Ranking del Club</a></li>     
+                        <li class="nav-item mb-2"><a href="./ranking_club.html" class="nav-link p-0 text-muted">Ranking
+                                del Club</a></li>
 
                     </ul>
                 </div>
@@ -403,7 +402,7 @@ Triki Team" />
         let noticiasData; // Variable global para almacenar los datos de noticias
 
         // Cargar noticias desde el JSON
-        fetch('https://script.google.com/macros/s/AKfycbwzSvfateLbpW_3aec1OclCVygDtQEWUGTgdr8vYtKdowjA9WahfpDJXqJXaKzHWlhqmA/exec')
+        fetch('https://www.atletismosantiago.club/data/NoticiasCAS.json')
             .then(response => response.json())
             .then(data => {
                 noticiasData = data.filter(noticia => noticia.ID !== "");
@@ -420,7 +419,8 @@ Triki Team" />
             const noticiasCargadas = noticiasContainer.querySelectorAll('.noticia-card').length;
 
             // Ordenar las noticias por fecha en orden descendente
-            noticias.sort((a, b) => new Date(b.Fecha) - new Date(a.Fecha));
+            noticias.sort((a, b) => new Date(convertirAFecha(b.Fecha)) - new Date(convertirAFecha(a.Fecha)));
+            console.log(noticias);
 
             noticias.slice(noticiasCargadas, noticiasCargadas + cantidadMaxima).forEach(noticia => {
                 const imagenUrl = noticia.Imagen || 'https://www.atletismosantiago.club/img/bg_banner1.webp';
@@ -494,6 +494,19 @@ Triki Team" />
                 <p>${noticia.Contenido}</p>
                 <p><strong>Fecha:</strong> ${fechaFormateada}</p>
             `;
+        }
+
+        function convertirAFecha(fechaString) {
+            // Dividir la cadena de fecha en día, mes y año
+            var partesFecha = fechaString.split('/');
+            var dia = parseInt(partesFecha[0], 10);
+            var mes = parseInt(partesFecha[1], 10) - 1; // Restar 1 porque los meses van de 0 a 11 en JavaScript
+            var año = parseInt(partesFecha[2], 10);
+
+            // Crear un objeto de fecha con las partes extraídas
+            var fecha = new Date(año, mes, dia);
+
+            return fecha;
         }
     </script>
 

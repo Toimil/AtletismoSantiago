@@ -443,6 +443,8 @@ Triki Team" />
             var tableBody = '<tbody>';
 
             var gruposProcesados = []; // Almacenar las combinaciones de "Nombre de la Competición" ya procesadas
+            data.sort((a, b) => new Date(a["Fecha de la Competición"]) - new Date(b["Fecha de la Competición"]));
+
 
             for (var i = 0; i < data.length; i++) {
                 var currentNombreComp = data[i]["Nombre de la Competición"];
