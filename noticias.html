@@ -420,7 +420,6 @@ Triki Team" />
 
             // Ordenar las noticias por fecha en orden descendente
             noticias.sort((a, b) => new Date(convertirAFecha(b.Fecha)) - new Date(convertirAFecha(a.Fecha)));
-            console.log(noticias);
 
             noticias.slice(noticiasCargadas, noticiasCargadas + cantidadMaxima).forEach(noticia => {
                 const imagenUrl = noticia.Imagen || 'https://www.atletismosantiago.club/img/bg_banner1.webp';
@@ -473,7 +472,7 @@ Triki Team" />
                     break; // Importante: detener el bucle una vez que se ha encontrado la noticia
                 }
             }
-            console.log(noticia);
+            /*
             // Convertir la cadena de fecha a un objeto Date
             const fechaNueva = new Date(noticia.Fecha);
 
@@ -483,7 +482,7 @@ Triki Team" />
             const ano = fechaNueva.getFullYear();
 
             // Formatear la fecha como "DD/MM/YYYY"
-            const fechaFormateada = `${dia}/${mes}/${ano}`;
+            const fechaFormateada = `${dia}/${mes}/${ano}`;*/
             const modalBody = document.getElementById('modal-body');
             const imagenUrl = noticia.Imagen || 'https://www.atletismosantiago.club/img/bg_banner1.webp';
 
@@ -492,7 +491,7 @@ Triki Team" />
                 <img src="${imagenUrl}" class="img-fluid mb-3" alt="${noticia.Titulo}">
                 <h5>${noticia.Titulo}</h5>
                 <p>${noticia.Contenido}</p>
-                <p><strong>Fecha:</strong> ${fechaFormateada}</p>
+                <p><strong>Fecha:</strong> ${noticia.Fecha}</p>
             `;
         }
 
