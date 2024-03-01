@@ -398,7 +398,7 @@ Triki Team" />
     <script src="js/app.js"></script>
 
     <script>
-        var urlJSON = "https://www.atletismosantiago.club/data/Inscritos.json";
+        var urlJSON = "https://script.google.com/macros/s/AKfycbzhcAFKQOfKv43okQxFcMOggmXRAdLzpLjsumc7WMdPSzkmaGw8co6tSqosKAJ1bET4wQ/exec";
 
         // Mostrar mensaje de carga
         document.getElementById('loading-message').innerHTML = 'Cargando los atletas inscritos, espera unos segundos...';
@@ -498,7 +498,7 @@ Triki Team" />
         function formatearFecha(fecha) {
             // Crear un objeto Date a partir de la cadena de fecha
             
-            var fechaObj = new Date(convertirAFecha(fecha));
+            var fechaObj = new Date(fecha);
 
             // Obtener día, mes y año
             var dia = fechaObj.getDate();
