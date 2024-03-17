@@ -449,7 +449,7 @@ Triki Team" />
             if (noticiasCargadas + cantidadMaxima < noticias.length) {
                 const cargarMasButton = `
             <div class="col-12 text-center mt-3">
-                <button class="btn btn-secondary cargar-mas-button" onclick="cargarMasNoticias(${cantidadMaxima})">Cargar más noticias</button>
+                <button class="btn btn-secondary cargar-mas-button" onclick="cargarMasNoticias(${noticias.length})">Cargar más noticias</button>
             </div>
         `;
                 noticiasContainer.innerHTML += cargarMasButton;
