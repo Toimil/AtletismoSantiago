@@ -1,0 +1,39 @@
+name: Actualizar Calendario Atletismo
+
+on:
+  schedule:
+    - cron: '30 18 * * 1'  
+    - cron: '30 18 * * 3'  
+    - cron: '30 18 * * 6'  
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout del repositorio
+        uses: actions/checkout@v4
+
+      - name: Configurar Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Instalar dependencias
+        run: pip install requests beautifulsoup4
+
+      - name: Ejecutar el script de scraping
+        run: python scrapping_calendario.py
+
+      - name: Confirmar cambios y hacer push
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+
+          if git diff --quiet data/calendario_fga.json; then
+            echo "No hay cambios, no se hace commit."
+          else
+            git add data/calendario_fga.json
+            git commit -m "Actualización automática del calendario"
+            git push
+          fi
