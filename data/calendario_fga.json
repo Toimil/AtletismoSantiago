@@ -162,12 +162,6 @@
         "start": "2025-05-11"
     },
     {
-        "title": "V Trofeo Club Deportivo La Purísima – SUSPENDIDO",
-        "place": "Pereiro de Aguiar, O",
-        "url": "https://atletismo.gal/competicions/v-trofeo-club-deportivo-la-purisima/",
-        "start": "2025-05-11"
-    },
-    {
         "title": "XLII Copa Deputación Ourense Atletismo – Final ABS – Máster",
         "place": "Pereiro de Aguiar, O",
         "url": "https://atletismo.gal/competicions/xlii-copa-deputacion-ourense-atletismo-final-abs-master/",
@@ -294,6 +288,12 @@
         "start": "2025-05-25"
     },
     {
+        "title": "X Castro Trail Xtrem 2025",
+        "place": "Barbadás",
+        "url": "https://atletismo.gal/competicions/x-catrso-trail-xtrem-2025/",
+        "start": "2025-05-25"
+    },
+    {
         "title": "XLIX Trofeo S. Gimnástica Pontevedra",
         "place": "Pontevedra",
         "url": "https://atletismo.gal/competicions/xlix-trofeo-s-gimnastica-pontevedra/",
@@ -348,6 +348,12 @@
         "start": "2025-05-31"
     },
     {
+        "title": "Control FGA Aire Libre – Xornada Tarde 31/05/2025",
+        "place": "Ferrol",
+        "url": "https://atletismo.gal/competicions/control-fga-aire-libre-xornada-tarde-31-05-2025/",
+        "start": "2025-05-31"
+    },
+    {
         "title": "Campionato Xunta de Galicia 10K en ruta 2025",
         "place": "Carballo",
         "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-5-km-absoluto-sub-18-sub-20-sub-23-e-master-2025/",
@@ -382,6 +388,18 @@
         "place": "Santiago de Compostela",
         "url": "https://atletismo.gal/competicions/xxxviii-campionato-xunta-de-galicia-de-atletismo-master-en-pista-al/",
         "start": "2025-06-01"
+    },
+    {
+        "title": "Control FGA Aire Libre – Xornada de Mañá – 01/06/2025",
+        "place": "Ferrol",
+        "url": "https://atletismo.gal/competicions/control-fga-aire-libre-xornada-de-mana-01-06-2025/",
+        "start": "2025-06-01"
+    },
+    {
+        "title": "1ª Xornada Serie Pistas USC 2025",
+        "place": "Santiago de Compostela",
+        "url": "https://atletismo.gal/competicions/1a-xornada-serie-pistas-usc-2025/",
+        "start": "2025-06-06"
     },
     {
         "title": "VII Carreira Holi Gaias 2025",
@@ -423,6 +441,12 @@
         "title": "3ª Xornada Serie Municipal 2025",
         "place": "Vigo",
         "url": "https://atletismo.gal/competicions/3a-xornada-serie-municipal-2025/",
+        "start": "2025-06-08"
+    },
+    {
+        "title": "V Trofeo Club Deportivo La Purísima",
+        "place": "Pereiro de Aguiar, O",
+        "url": "https://atletismo.gal/competicions/v-trofeo-club-deportivo-la-purisima/",
         "start": "2025-06-08"
     },
     {
@@ -582,9 +606,9 @@
         "start": "2025-07-05"
     },
     {
-        "title": "Gran Premio Internacional Ciudad de Vigo",
+        "title": "Gran Premio Internacional “Ciudad de Vigo” 2025",
         "place": "Vigo",
-        "url": "https://atletismo.gal/competicions/gran-premio-internacional-ciudad-de-vigo/",
+        "url": "https://atletismo.gal/competicions/gran-premio-internacional-ciudad-de-vigo-2025/",
         "start": "2025-07-05"
     },
     {
