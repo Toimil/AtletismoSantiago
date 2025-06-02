@@ -1,359 +1,5 @@
 [
     {
-        "title": "XLII Copa Deputación Ourense Atletismo – Final Sub10 – Sub12",
-        "place": "Pereiro de Aguiar, O",
-        "url": "https://atletismo.gal/competicions/xlii-copa-deputacion-ourense-atletismo-final-sub10-sub12/",
-        "start": "2025-05-01"
-    },
-    {
-        "title": "XLII Copa Deputación Ourense Atletismo",
-        "place": "Pereiro de Aguiar, O",
-        "url": "https://atletismo.gal/competicions/xlii-copa-deputacion-ourense-atletismo/",
-        "start": "2025-05-01"
-    },
-    {
-        "title": "X Carreira Pedestre Popular Concello de Frades 2025",
-        "place": "Frades",
-        "url": "https://atletismo.gal/competicions/x-carreira-pedestre-popular-concello-de-frades-2025/",
-        "start": "2025-05-01"
-    },
-    {
-        "title": "Control Aire Libre Riazor Coruña 2025",
-        "place": "A Coruña",
-        "url": "https://atletismo.gal/competicions/control-aire-libre-riazor-coruna-2025/",
-        "start": "2025-05-02"
-    },
-    {
-        "title": "IV Control FGA Aire Libre – 03/05/2025 (Xornada de tarde)",
-        "place": "Vigo",
-        "url": "https://atletismo.gal/competicions/iv-control-fga-aire-libre-03-05-2025-xornada-de-tarde/",
-        "start": "2025-05-03"
-    },
-    {
-        "title": "III Control FGA Aire Libre – 03/05/2025 (Xornada de mañá)",
-        "place": "Vigo",
-        "url": "https://atletismo.gal/competicions/iii-control-fga-aire-libre-03-05-2025-xornada-de-mana/",
-        "start": "2025-05-03"
-    },
-    {
-        "title": "III Edición Os 11 das Vías – Concello de Cerceda",
-        "place": "Cerceda",
-        "url": "https://atletismo.gal/competicions/iii-edicion-os-11-das-vias-concello-de-cerceda/",
-        "start": "2025-05-03"
-    },
-    {
-        "title": "XI Campionato Xunta de Galicia de Clubs de Probas Combinadas – Criterium de Combinadas",
-        "place": "Vigo",
-        "url": "https://atletismo.gal/competicions/xii-campionato-xunta-de-galicia-de-clubs-de-probas-combinadas-criterium-de-combinadas/",
-        "start": "2025-05-03"
-    },
-    {
-        "title": "V Control FGA Aire Libre – 04/05/2025 (Xornada de mañá)",
-        "place": "Vigo",
-        "url": "https://atletismo.gal/competicions/v-control-fga-aire-libre-04-05-2025-xornada-de-mana/",
-        "start": "2025-05-04"
-    },
-    {
-        "title": "Trofeo Marcha en Pista 2025 (Vigo)",
-        "place": "Vigo",
-        "url": "https://atletismo.gal/competicions/trofeo-marcha-en-pista-2025-vigo/",
-        "start": "2025-05-04"
-    },
-    {
-        "title": "I Carreira Poular da Baña",
-        "place": "Baña, A",
-        "url": "https://atletismo.gal/competicions/i-carreira-poular-da-bana/",
-        "start": "2025-05-04"
-    },
-    {
-        "title": "LI Trofeo Boa Vila",
-        "place": "Pontevedra",
-        "url": "https://atletismo.gal/competicions/li-trofeo-boa-vila/",
-        "start": "2025-05-07"
-    },
-    {
-        "title": "Xogade – Atletismo en Pista – Cervo 2025 – 4ª Xornada",
-        "place": "Cervo",
-        "url": "https://atletismo.gal/competicions/xogade-atletismo-en-pista-cervo-2025-4a-xornada/",
-        "start": "2025-05-09"
-    },
-    {
-        "title": "Xogade – Atletismo en Pista – Vigo 2025 – Programa AB Alevín/Benxamín",
-        "place": "Vigo",
-        "url": "https://atletismo.gal/competicions/xogade-atletismo-en-pista-vigo-2025-programa-ab-alevin-benxamin/",
-        "start": "2025-05-09"
-    },
-    {
-        "title": "III Trofeo La Mochila del Deporte – Memorial José Luis González “Edu”",
-        "place": "A Coruña",
-        "url": "https://atletismo.gal/competicions/iii-trofeo-la-mochila-del-deporte-memorial-jose-luis-gomez-edu/",
-        "start": "2025-05-09"
-    },
-    {
-        "title": "Xogade – Atletismo en Pista – Provincial da Coruña 2025",
-        "place": "Ferrol",
-        "url": "https://atletismo.gal/competicions/xogade-atletismo-en-pista-provincial-da-coruna-2025/",
-        "start": "2025-05-10"
-    },
-    {
-        "title": "Xogade – Atletismo en Pista – Provincial Pontevedra 2025 – Infantil",
-        "place": "Pontevedra",
-        "url": "https://atletismo.gal/competicions/xogade-atletismo-en-pista-provincial-pontevedra-2025-infantil/",
-        "start": "2025-05-10"
-    },
-    {
-        "title": "II Ourense Series Provinciais de Atletismo – Valdeorras Xornada 4",
-        "place": "Barco de Valdeorras, O",
-        "url": "https://atletismo.gal/competicions/ii-ourense-series-provinciais-de-atletismo-valdeorras-xornada-4/",
-        "start": "2025-05-10"
-    },
-    {
-        "title": "Xogade – Atletismo en Pista – Programa A – Valdeorras 2025 – 4ª Xornada",
-        "place": "Barco de Valdeorras, O",
-        "url": "https://atletismo.gal/competicions/xogade-atletismo-en-pista-programa-a-valdeorras-2025-4a-xornada/",
-        "start": "2025-05-10"
-    },
-    {
-        "title": "IX Carreira SantYago 10 Km",
-        "place": "Santiago de Compostela",
-        "url": "https://atletismo.gal/competicions/ix-carreira-santyago-10-km/",
-        "start": "2025-05-10"
-    },
-    {
-        "title": "Xornada Copa Deputación de Lugo – 10/05/2025",
-        "place": "Lugo",
-        "url": "https://atletismo.gal/competicions/xornada-copa-deputacion-de-lugo-10-05-2025/",
-        "start": "2025-05-10"
-    },
-    {
-        "title": "Asemblea Xeral Ordinaria FGA 2025",
-        "place": "Santiago de Compostela",
-        "url": "https://atletismo.gal/competicions/asemblea-xeral-ordinaria-fga-2025/",
-        "start": "2025-05-10"
-    },
-    {
-        "title": "VIII Carreira Pedestre Concello de Mazaricos 2025",
-        "place": "Mazaricos",
-        "url": "https://atletismo.gal/competicions/viii-carreira-pedestre-concello-de-mazaricos-2025/",
-        "start": "2025-05-11"
-    },
-    {
-        "title": "VI Carreira e Andaina Solidaria Concello de Curtis – 2025",
-        "place": "Curtis",
-        "url": "https://atletismo.gal/competicions/vi-carreira-e-andaina-solidaria-concello-de-curtis-2025/",
-        "start": "2025-05-11"
-    },
-    {
-        "title": "XVI Carreira Popular Cross de San Pedro -Circuito Coruña Corre",
-        "place": "Coruña, A",
-        "url": "https://atletismo.gal/competicions/xvi-carreira-popular-cross-de-san-pedro-circuito-coruna-corre/",
-        "start": "2025-05-11"
-    },
-    {
-        "title": "XI Trail e Andaina Vila de Cuntis",
-        "place": "Cuntis",
-        "url": "https://atletismo.gal/competicions/xi-trail-e-andaina-vial-de-cuntis/",
-        "start": "2025-05-11"
-    },
-    {
-        "title": "XXXVII Campionato Xunta de Galicia de Clubs Absoluto en Pista AL",
-        "place": "Pontevedra",
-        "url": "https://atletismo.gal/competicions/xxxvii-campionato-xunta-de-galicia-de-clubs-absoluto-en-pista-al/",
-        "start": "2025-05-11"
-    },
-    {
-        "title": "XLII Copa Deputación Ourense Atletismo – Final ABS – Máster",
-        "place": "Pereiro de Aguiar, O",
-        "url": "https://atletismo.gal/competicions/xlii-copa-deputacion-ourense-atletismo-final-abs-master/",
-        "start": "2025-05-16"
-    },
-    {
-        "title": "1ª Xornada Serie Municipal 2025",
-        "place": "Vigo",
-        "url": "https://atletismo.gal/competicions/1a-xornada-serie-municipal-2025/",
-        "start": "2025-05-17"
-    },
-    {
-        "title": "Serie Municipal – Concello de Vigo – 2025",
-        "place": "Vigo",
-        "url": "https://atletismo.gal/competicions/serie-municipal-concello-de-vigo-2025/",
-        "start": "2025-05-17"
-    },
-    {
-        "title": "XI Carreira Camiño das Letras 2025",
-        "place": "Santiago de Compostela",
-        "url": "https://atletismo.gal/competicions/xi-carreira-camino-das-letras-2025/",
-        "start": "2025-05-17"
-    },
-    {
-        "title": "XLI Campionato Xunta de Galicia de Clubs Sub16",
-        "place": "Coruña, A",
-        "url": "https://atletismo.gal/competicions/xli-campionato-xunta-de-galicia-de-clubs-sub16/",
-        "start": "2025-05-17"
-    },
-    {
-        "title": "VI Control FGA Aire Libre 2025",
-        "place": "Coruña, A",
-        "url": "https://atletismo.gal/competicions/vi-control-fga-aire-libre-2025/",
-        "start": "2025-05-17"
-    },
-    {
-        "title": "IV Carreira pola seguridade viaria Ferrol 2025",
-        "place": "Ferrol",
-        "url": "https://atletismo.gal/competicions/iv-carreira-pola-seguridade-viaria-ferrol-2024/",
-        "start": "2025-05-18"
-    },
-    {
-        "title": "Media Maratón entre Rías 2025",
-        "place": "Grove, O",
-        "url": "https://atletismo.gal/competicions/media-maraton-entre-rias/",
-        "start": "2025-05-18"
-    },
-    {
-        "title": "Trail Serra do Barbanza – 2025",
-        "place": "Pobra do Caramiñal, A",
-        "url": "https://atletismo.gal/competicions/trail-serra-do-barbanza-2025/",
-        "start": "2025-05-18"
-    },
-    {
-        "title": "Xogade – Atletismo en Pista – Provincial Pontevedra 2025 – Alevín",
-        "place": "Estrada, A",
-        "url": "https://atletismo.gal/competicions/xogade-atletismo-en-pista-provincial-pontevedra-2025-alevin/",
-        "start": "2025-05-18"
-    },
-    {
-        "title": "XXXIII Campionato Xunta de Galicia de Clubs Sub20",
-        "place": "Coruña, A",
-        "url": "https://atletismo.gal/competicions/xxxiii-campionato-xunta-de-galicia-de-clubs-sub20/",
-        "start": "2025-05-18"
-    },
-    {
-        "title": "II Control Riazor Coruña",
-        "place": "A Coruña",
-        "url": "https://atletismo.gal/competicions/ii-control-riazor-coruna/",
-        "start": "2025-05-22"
-    },
-    {
-        "title": "XLII Copa Deputación Ourense Atletismo – Final Sub14 – Sub16",
-        "place": "Barco de Valdeorras, O",
-        "url": "https://atletismo.gal/competicions/xlii-copa-deputacion-ourense-atletismo-final-sub14-sub16/",
-        "start": "2025-05-23"
-    },
-    {
-        "title": "Carreira do Couto 2025",
-        "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/carreira-do-couto-2025/",
-        "start": "2025-05-24"
-    },
-    {
-        "title": "IX Carreira Pedestre Concello de Dumbria 2025",
-        "place": "Dumbría",
-        "url": "https://atletismo.gal/competicions/ix-carreira-pedestre-concello-de-dumbria-2025/",
-        "start": "2025-05-24"
-    },
-    {
-        "title": "XXXIII Campionato Xunta de Galicia Sub12 – XVI Sub10 en Pista AL",
-        "place": "Coruña, A",
-        "url": "https://atletismo.gal/competicions/xxxiii-campionato-xunta-de-galicia-sub12-xvi-sub10-en-pista-al/",
-        "start": "2025-05-24"
-    },
-    {
-        "title": "Xornada Copa Deputacion de Lugo 2025",
-        "place": "Lugo",
-        "url": "https://atletismo.gal/competicions/xornada-copa-deputacion-de-lugo-2025/",
-        "start": "2025-05-24"
-    },
-    {
-        "title": "Milla pola Igualdade 2025",
-        "place": "A Castellana (Aranga)",
-        "url": "https://atletismo.gal/competicions/milla-pola-igualdade-2025/",
-        "start": "2025-05-25"
-    },
-    {
-        "title": "XXVIII Carreira Popular Concello de Ordes 2025",
-        "place": "Ordes",
-        "url": "https://atletismo.gal/competicions/xxviii-carreira-popular-concello-de-ordes-2025/",
-        "start": "2025-05-25"
-    },
-    {
-        "title": "X Campionato Xunta de Galicia de Trail Running por Clubs Absoluto e I de Promoción",
-        "place": "Barbadás",
-        "url": "https://atletismo.gal/competicions/i-campionato-xunta-de-galicia-de-trail-running-por-clubs/",
-        "start": "2025-05-25"
-    },
-    {
-        "title": "Campionato de España Clubs 1ª División Homes Liga Joma 2025",
-        "place": "Pontevedra",
-        "url": "https://atletismo.gal/competicions/campionato-de-espana-clubs-1a-division-homes-liga-joma-2025/",
-        "start": "2025-05-25"
-    },
-    {
-        "title": "X Castro Trail Xtrem 2025",
-        "place": "Barbadás",
-        "url": "https://atletismo.gal/competicions/x-catrso-trail-xtrem-2025/",
-        "start": "2025-05-25"
-    },
-    {
-        "title": "XLIX Trofeo S. Gimnástica Pontevedra",
-        "place": "Pontevedra",
-        "url": "https://atletismo.gal/competicions/xlix-trofeo-s-gimnastica-pontevedra/",
-        "start": "2025-05-28"
-    },
-    {
-        "title": "Gala do Atletismo Galego 2024",
-        "place": "Santiago de Compostela",
-        "url": "https://atletismo.gal/competicions/gala-do-atletismo-galego-2024/",
-        "start": "2025-05-30"
-    },
-    {
-        "title": "IV Poseidón Race",
-        "place": "Cerceda",
-        "url": "https://atletismo.gal/competicions/iv-poseidon-race/",
-        "start": "2025-05-31"
-    },
-    {
-        "title": "XXXVI Maratón de Fátima – Campelo 2025",
-        "place": "Campelo - Poio",
-        "url": "https://atletismo.gal/competicions/xxxvi-maraton-de-fatima-campelo-2025/",
-        "start": "2025-05-31"
-    },
-    {
-        "title": "2ª Xornada Serie Municipal 2025",
-        "place": "Vigo",
-        "url": "https://atletismo.gal/competicions/2a-xornada-serie-municipal-2025/",
-        "start": "2025-05-31"
-    },
-    {
-        "title": "Xogade – Atletismo en Pista – Provincial Pontevedra 2025 – Benxamín",
-        "place": "Vigo",
-        "url": "https://atletismo.gal/competicions/xogade-atletismo-en-pista-provincial-pontevedra-2025-benxamin/",
-        "start": "2025-05-31"
-    },
-    {
-        "title": "Xogade – Atletismo en Pista – Ourense 2025 – Final Provincial",
-        "place": "Pereiro de Aguiar, O",
-        "url": "https://atletismo.gal/competicions/xogade-atletismo-en-pista-ourense-2025-final-provincial/",
-        "start": "2025-05-31"
-    },
-    {
-        "title": "XXX Campionato Xunta de Galicia de Atletismo Sub18 en Pista AL",
-        "place": "Pontevedra",
-        "url": "https://atletismo.gal/competicions/xxx-campionato-xunta-de-galicia-de-atletismo-sub18-en-pista-al/",
-        "start": "2025-05-31"
-    },
-    {
-        "title": "Campionato Xunta de Galicia de Probas Combinadas Sub23 – Sub20 – Sub16 en Pista AL 2025",
-        "place": "Ferrol",
-        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-probas-combinadas-sub23-sub20-sub16-en-pista-al-2025/",
-        "start": "2025-05-31"
-    },
-    {
-        "title": "Control FGA Aire Libre – Xornada Tarde 31/05/2025",
-        "place": "Ferrol",
-        "url": "https://atletismo.gal/competicions/control-fga-aire-libre-xornada-tarde-31-05-2025/",
-        "start": "2025-05-31"
-    },
-    {
         "title": "Campionato Xunta de Galicia 10K en Ruta 2025",
         "place": "Carballo",
         "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-10k-en-ruta-2025/",
@@ -468,6 +114,18 @@
         "start": "2025-06-11"
     },
     {
+        "title": "II Ourense Series Provinciais de Atletismo – Xornada Extra",
+        "place": "Pereiro de Aguiar, O",
+        "url": "https://atletismo.gal/competicions/ii-ourense-series-provinciais-de-atletismo-xornada-extra/",
+        "start": "2025-06-12"
+    },
+    {
+        "title": "Control Riazor Coruña Aire Libre 13/06/2025",
+        "place": "A Coruña",
+        "url": "https://atletismo.gal/competicions/control-riazor-coruna-aire-libre-13-06-2025/",
+        "start": "2025-06-13"
+    },
+    {
         "title": "V Cross de Obstáculos Dumbria Terras do Vákner 2025",
         "place": "Dumbría",
         "url": "https://atletismo.gal/competicions/v-cross-de-obstaculos-dumbria-terras-do-vakner-2025/",
@@ -510,6 +168,12 @@
         "start": "2025-06-15"
     },
     {
+        "title": "Control FGA Aire Libre 18/06/2025",
+        "place": "A Coruña",
+        "url": "https://atletismo.gal/competicions/control-fga-aire-libre-18-06-2025/",
+        "start": "2025-06-18"
+    },
+    {
         "title": "X Carreira Popular de Moeche",
         "place": "Moeche",
         "url": "https://atletismo.gal/competicions/x-carreira-popular-de-moeche/",
@@ -540,6 +204,12 @@
         "start": "2025-06-21"
     },
     {
+        "title": "Setek Xinzo de Limia 2025",
+        "place": "Xinzo de Limia",
+        "url": "https://atletismo.gal/competicions/setek-xinzo-de-limia-2025/",
+        "start": "2025-06-21"
+    },
+    {
         "title": "V 5k El Canario – Homenaje Jose Nespereira",
         "place": "Ribeira",
         "url": "https://atletismo.gal/competicions/v-5k-el-canario-homenaje-jose-nespereira/",
@@ -565,7 +235,7 @@
     },
     {
         "title": "XCII Campionato Xunta de Galicia de Atletismo Absoluto Masculino – LII Feminino",
-        "place": "Ferrol",
+        "place": "Santiago de Compostela",
         "url": "https://atletismo.gal/competicions/xcii-campionato-xunta-de-galicia-de-atletismo-absoluto-masculino-lii-feminino/",
         "start": "2025-06-28"
     },
@@ -670,5 +340,47 @@
         "place": "Marín",
         "url": "https://atletismo.gal/competicions/10k-marin-manuel-rosales-2025/",
         "start": "2025-07-26"
+    },
+    {
+        "title": "I Carreira do Galo Piñeiro",
+        "place": "Arzúa - O Pino",
+        "url": "https://atletismo.gal/competicions/i-carreira-do-galo-pineiro/",
+        "start": "2025-08-02"
+    },
+    {
+        "title": "IX Corretroita Popular Concello de Sobrado 2025",
+        "place": "Sobrado",
+        "url": "https://atletismo.gal/competicions/ix-corretroita-popular-concello-de-sobrado-2025/",
+        "start": "2025-08-09"
+    },
+    {
+        "title": "XXXIII Milla Urbana Concello de Ares 2025",
+        "place": "Ares",
+        "url": "https://atletismo.gal/competicions/xxxiii-milla-urbana-concello-de-ares-2025/",
+        "start": "2025-08-09"
+    },
+    {
+        "title": "XXXIII Carreira Popular Concello de Cambre 2025",
+        "place": "Cambre",
+        "url": "https://atletismo.gal/competicions/xxxiii-carreira-popular-concello-de-cambre-2025/",
+        "start": "2025-08-15"
+    },
+    {
+        "title": "XVII Carreira Pedestre Popular de Noia",
+        "place": "Noia",
+        "url": "https://atletismo.gal/competicions/xvii-carreira-pedestre-popular-de-noia-2/",
+        "start": "2025-08-30"
+    },
+    {
+        "title": "Courel Mountain Running 2025",
+        "place": "Folgoso do Courel",
+        "url": "https://atletismo.gal/competicions/courel-mountain-running-2025/",
+        "start": "2025-08-31"
+    },
+    {
+        "title": "XVI Carreira Popular Concello da Pobra do Caramiñal 2025",
+        "place": "Pobra do Caramiñal, A",
+        "url": "https://atletismo.gal/competicions/xvi-carreira-popular-concello-da-pobra-do-caraminal-2025/",
+        "start": "2025-08-31"
     }
 ]
