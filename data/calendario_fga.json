@@ -79,7 +79,7 @@
     },
     {
         "title": "XII Trofeo Josefina Romero de Marcha en ruta",
-        "place": "A Coruña",
+        "place": "Coruña, A",
         "url": "https://atletismo.gal/competicions/xii-trofeo-josefina-romero-de-marcha-en-ruta-2/",
         "start": "2025-06-07"
     },
@@ -144,15 +144,21 @@
         "start": "2025-06-14"
     },
     {
+        "title": "XX Carreira Nocturna de Celanova",
+        "place": "Celanova",
+        "url": "https://atletismo.gal/competicions/xx-carreira-nocturna-de-celanova/",
+        "start": "2025-06-14"
+    },
+    {
         "title": "XLII Copa Deputación Ourense Atletismo – Trail Running",
         "place": "Esgos",
         "url": "https://atletismo.gal/competicions/xlii-copa-deputacion-ourense-atletismo-trail-running/",
         "start": "2025-06-15"
     },
     {
-        "title": "XVII Trail San Pedro de Rocas – Esgos",
+        "title": "XVII Carreira San Pedro de Rocas – Esgos",
         "place": "Esgos",
-        "url": "https://atletismo.gal/competicions/xvii-trail-san-pedro-de-rocas-esgos/",
+        "url": "https://atletismo.gal/competicions/xvii-carreira-san-pedro-de-rocas-esgos/",
         "start": "2025-06-15"
     },
     {
@@ -169,9 +175,21 @@
     },
     {
         "title": "Control FGA Aire Libre 18/06/2025",
-        "place": "A Coruña",
+        "place": "Coruña, A",
         "url": "https://atletismo.gal/competicions/control-fga-aire-libre-18-06-2025/",
         "start": "2025-06-18"
+    },
+    {
+        "title": "VI Control Concello de O Barco 19/06/25",
+        "place": "Barco de Valdeorras, O",
+        "url": "https://atletismo.gal/competicions/vi-control-concello-de-o-barco-19-06-25/",
+        "start": "2025-06-19"
+    },
+    {
+        "title": "Xornada Promoción Atletismo Xogade Valdeorras 19/06/25",
+        "place": "O Barco",
+        "url": "https://atletismo.gal/competicions/xornada-promocion-atletismo-xogade-valdeorras-19-06-25/",
+        "start": "2025-06-19"
     },
     {
         "title": "X Carreira Popular de Moeche",
@@ -354,7 +372,7 @@
         "start": "2025-07-26"
     },
     {
-        "title": "I Carreira do Galo Piñeiro",
+        "title": "Os 21 do Galo Piñeiro 2025",
         "place": "Arzúa - O Pino",
         "url": "https://atletismo.gal/competicions/i-carreira-do-galo-pineiro/",
         "start": "2025-08-02"
