@@ -174,12 +174,6 @@
         "start": "2025-06-15"
     },
     {
-        "title": "Control FGA Aire Libre 18/06/2025",
-        "place": "Coruña, A",
-        "url": "https://atletismo.gal/competicions/control-fga-aire-libre-18-06-2025/",
-        "start": "2025-06-18"
-    },
-    {
         "title": "VI Control Concello de O Barco 19/06/25",
         "place": "Barco de Valdeorras, O",
         "url": "https://atletismo.gal/competicions/vi-control-concello-de-o-barco-19-06-25/",
@@ -190,6 +184,12 @@
         "place": "O Barco",
         "url": "https://atletismo.gal/competicions/xornada-promocion-atletismo-xogade-valdeorras-19-06-25/",
         "start": "2025-06-19"
+    },
+    {
+        "title": "Control FGA Aire Libre 20/06/2025",
+        "place": "Coruña, A",
+        "url": "https://atletismo.gal/competicions/control-fga-aire-libre-20-06-2025/",
+        "start": "2025-06-20"
     },
     {
         "title": "X Carreira Popular de Moeche",
