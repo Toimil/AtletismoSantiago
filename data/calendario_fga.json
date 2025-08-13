@@ -120,6 +120,12 @@
         "start": "2025-09-13"
     },
     {
+        "title": "XII Carreira Nocturna Corre por Ferrol",
+        "place": "Ferrol",
+        "url": "https://atletismo.gal/competicions/xii-carreira-nocturna-corre-por-ferrol/",
+        "start": "2025-09-13"
+    },
+    {
         "title": "Corresan Ruta dos Parques 2025 – XI Circuíto Carreiras Saudables CorreSan 2025",
         "place": "Santiago de Compostela",
         "url": "https://atletismo.gal/competicions/corresan-ruta-dos-parques-2025-xi-circuito-carreiras-saudables-corresan-2025/",
@@ -138,13 +144,19 @@
         "start": "2025-09-20"
     },
     {
+        "title": "XLII Maratón Popular San Xoán de Piñeiro",
+        "place": "Mugardos",
+        "url": "https://atletismo.gal/competicions/xlii-maraton-popular-san-xoan-de-pineiro/",
+        "start": "2025-09-20"
+    },
+    {
         "title": "XX Carreira Pedestre Popular Concello de O Pino",
         "place": "Pino, O",
         "url": "https://atletismo.gal/competicions/xx-carreira-pedestre-popular-concello-de-o-pino/",
         "start": "2025-09-21"
     },
     {
-        "title": "XXVI Carreira Popular Santa Uxía – II Memorial Miguel Ruíz",
+        "title": "XXVI Carreira Popular Santa Uxía de Ribeira – II Memorial Miguel Ruíz",
         "place": "Ribeira",
         "url": "https://atletismo.gal/competicions/xxvi-carreira-popular-santa-uxia-ii-memorial-miguel-ruiz/",
         "start": "2025-09-27"
@@ -159,6 +171,12 @@
         "title": "XXVI Milla Urbana San Miguel de Marín",
         "place": "Marín",
         "url": "https://atletismo.gal/competicions/xxvi-milla-urbana-san-miguel-de-marin/",
+        "start": "2025-09-27"
+    },
+    {
+        "title": "XI Carreira Pedestre Popular Concello de Touro",
+        "place": "Touro",
+        "url": "https://atletismo.gal/competicions/xi-carreira-pedestre-popular-concello-de-touro/",
         "start": "2025-09-27"
     },
     {
@@ -213,6 +231,12 @@
         "title": "XV Carreira Pinga Pinga",
         "place": "Marín",
         "url": "https://atletismo.gal/competicions/xv-carreira-pinga-pinga/",
+        "start": "2025-10-11"
+    },
+    {
+        "title": "V Urban Trail Polígono de Bergondo",
+        "place": "Bergondo",
+        "url": "https://atletismo.gal/competicions/v-urban-trail-poligono-de-bergondo/",
         "start": "2025-10-11"
     },
     {
