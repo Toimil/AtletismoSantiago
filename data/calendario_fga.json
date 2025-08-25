@@ -114,12 +114,6 @@
         "start": "2025-09-13"
     },
     {
-        "title": "IV Carreira Popular dos Dores 2025",
-        "place": "Ponte Caldelas",
-        "url": "https://atletismo.gal/competicions/iv-carreira-popular-dos-dores-2025/",
-        "start": "2025-09-13"
-    },
-    {
         "title": "XII Carreira Nocturna Corre por Ferrol",
         "place": "Ferrol",
         "url": "https://atletismo.gal/competicions/xii-carreira-nocturna-corre-por-ferrol/",
@@ -141,6 +135,12 @@
         "title": "X Carreira Popular Dolmen de Dombate 2025",
         "place": "Cabana de Bergantiños",
         "url": "https://atletismo.gal/competicions/x-carreira-popular-dolmen-de-dombate-2025/",
+        "start": "2025-09-20"
+    },
+    {
+        "title": "IV Carreira Popular dos Dores 2025",
+        "place": "Ponte Caldelas",
+        "url": "https://atletismo.gal/competicions/iv-carreira-popular-dos-dores-2025/",
         "start": "2025-09-20"
     },
     {
@@ -228,12 +228,6 @@
         "start": "2025-10-11"
     },
     {
-        "title": "XV Carreira Pinga Pinga",
-        "place": "Marín",
-        "url": "https://atletismo.gal/competicions/xv-carreira-pinga-pinga/",
-        "start": "2025-10-11"
-    },
-    {
         "title": "V Urban Trail Polígono de Bergondo",
         "place": "Bergondo",
         "url": "https://atletismo.gal/competicions/v-urban-trail-poligono-de-bergondo/",
@@ -249,6 +243,12 @@
         "title": "VII Campionato Xunta de Galicia de Campo a Través de Remudas Mixto",
         "place": "A designar",
         "url": "https://atletismo.gal/competicions/vii-campionato-xunta-de-galicia-de-campo-a-traves-de-remudas-mixto/",
+        "start": "2025-10-12"
+    },
+    {
+        "title": "XV Carreira Pinga Pinga",
+        "place": "Marín",
+        "url": "https://atletismo.gal/competicions/xv-carreira-pinga-pinga/",
         "start": "2025-10-12"
     },
     {
