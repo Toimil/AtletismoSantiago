@@ -1,77 +1,5 @@
 [
     {
-        "title": "Os 21 do Galo Piñeiro 2025",
-        "place": "Arzúa - O Pino",
-        "url": "https://atletismo.gal/competicions/i-carreira-do-galo-pineiro/",
-        "start": "2025-08-02"
-    },
-    {
-        "title": "XXI Carreira Nocturna Concello de Vilagarcía",
-        "place": "Vilagarcía de Arousa",
-        "url": "https://atletismo.gal/competicions/xxi-carreira-nocturna-concello-de-vilagarcia/",
-        "start": "2025-08-02"
-    },
-    {
-        "title": "XXXII Cros Popular Piñeiral de Cabanas",
-        "place": "Cabanas",
-        "url": "https://atletismo.gal/competicions/xxxii-cros-popular-pineiral-de-cabanas/",
-        "start": "2025-08-03"
-    },
-    {
-        "title": "IX Corretroita Popular Concello de Sobrado",
-        "place": "Sobrado",
-        "url": "https://atletismo.gal/competicions/ix-corretroita-popular-concello-de-sobrado/",
-        "start": "2025-08-09"
-    },
-    {
-        "title": "XXXIII Milla Urbana Concello de Ares",
-        "place": "Ares",
-        "url": "https://atletismo.gal/competicions/xxxiii-milla-urbana-concello-de-ares/",
-        "start": "2025-08-09"
-    },
-    {
-        "title": "XXXIII Carreira Popular Concello de Cambre (Proba Cancelada)",
-        "place": "Cambre",
-        "url": "https://atletismo.gal/competicions/xxxiii-carreira-popular-concello-de-cambre/",
-        "start": "2025-08-15"
-    },
-    {
-        "title": "XIV Nigrán Area",
-        "place": "Nigrán",
-        "url": "https://atletismo.gal/competicions/xiv-nigran-area/",
-        "start": "2025-08-23"
-    },
-    {
-        "title": "Carreira do Románico 2025",
-        "place": "Negreira",
-        "url": "https://atletismo.gal/competicions/carreira-do-romanico-2025/",
-        "start": "2025-08-23"
-    },
-    {
-        "title": "XVII Carreira Pedestre Popular de Noia",
-        "place": "Noia",
-        "url": "https://atletismo.gal/competicions/xvii-carreira-pedestre-popular-de-noia-2/",
-        "start": "2025-08-30"
-    },
-    {
-        "title": "Courel Mountain Running 2025",
-        "place": "Folgoso do Courel",
-        "url": "https://atletismo.gal/competicions/courel-mountain-running-2025/",
-        "start": "2025-08-31"
-    },
-    {
-        "title": "XVI Carreira Popular Concello da Pobra do Caramiñal",
-        "place": "Pobra do Caramiñal, A",
-        "url": "https://atletismo.gal/competicions/xvi-carreira-popular-concello-da-pobra-do-caraminal/",
-        "start": "2025-08-31"
-    },
-    {
-        "title": "XVII Campionato Xunta de Galicia Trail Running – Carreiras de Montaña",
-        "place": "Folgoso do Courel",
-        "url": "https://atletismo.gal/competicions/xvii-campionato-xunta-de-galicia-trail-running-carreiras-de-montana/",
-        "start": "2025-08-31"
-    },
-    {
         "title": "XVI Campionato Xunta de Galicia de Milla en Ruta e 1 Km 2025",
         "place": "Lourenzá",
         "url": "https://atletismo.gal/competicions/xvi-campionato-xunta-de-galicia-de-milla-en-ruta-e-1-km-2025/",
@@ -118,6 +46,12 @@
         "place": "Ferrol",
         "url": "https://atletismo.gal/competicions/xii-carreira-nocturna-corre-por-ferrol/",
         "start": "2025-09-13"
+    },
+    {
+        "title": "XXXVII Milla Urbana Festas do Cristo – O Barco de Valdeorras",
+        "place": "Barco de Valdeorras, O",
+        "url": "https://atletismo.gal/competicions/xxxvii-milla-urbana-festas-do-cristo-o-barco-de-valdeorras/",
+        "start": "2025-09-14"
     },
     {
         "title": "Corresan Ruta dos Parques 2025 – XI Circuíto Carreiras Saudables CorreSan 2025",
@@ -280,5 +214,95 @@
         "place": "Santiago de Compostela",
         "url": "https://atletismo.gal/competicions/xlvi-carreira-pedestre-popular-de-santiago-el-correo-gallego/",
         "start": "2025-10-26"
+    },
+    {
+        "title": "XI Carreira Popular Concello de Rianxo",
+        "place": "Rianxo",
+        "url": "https://atletismo.gal/competicions/xi-carreira-popular-concello-de-rianxo/",
+        "start": "2025-11-01"
+    },
+    {
+        "title": "XLIV Carreira Internacional de Negreira – A Clásica",
+        "place": "Negreira",
+        "url": "https://atletismo.gal/competicions/xliv-carreira-internacional-de-negreira-a-clasica/",
+        "start": "2025-11-02"
+    },
+    {
+        "title": "I Trail Monte Acibal",
+        "place": "Moraña",
+        "url": "https://atletismo.gal/competicions/i-trail-monte-acibal/",
+        "start": "2025-11-02"
+    },
+    {
+        "title": "XII Carreira da Auga de Sada",
+        "place": "Sada",
+        "url": "https://atletismo.gal/competicions/xii-carreira-da-auga-de-sada/",
+        "start": "2025-11-02"
+    },
+    {
+        "title": "VI Congreso Técnico de Xuíces de Atletismo",
+        "place": "",
+        "url": "https://atletismo.gal/competicions/vi-congreso-tecnico-de-xuices-de-atletismo/",
+        "start": "2025-11-08"
+    },
+    {
+        "title": "XII “Ferrol, en marcha contra o cancro”",
+        "place": "Ferrol",
+        "url": "https://atletismo.gal/competicions/xii-ferrol-en-marcha-contra-o-cancro/",
+        "start": "2025-11-09"
+    },
+    {
+        "title": "XLVIII Carreira Pedestre Popular do San Martiño",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/xlviii-carreira-pedestre-popular-do-san-martino/",
+        "start": "2025-11-09"
+    },
+    {
+        "title": "Corresan Ruta da prata Angrois 2025 – XI Circuíto Carreiras Saudables CorreSan 2025",
+        "place": "Santiago de Compostela",
+        "url": "https://atletismo.gal/competicions/corresan-ruta-da-prata-angrois-2025-xi-circuito-carreiras-saudables-corresan-2025/",
+        "start": "2025-11-15"
+    },
+    {
+        "title": "XVIII Campionato Xunta de Galicia de Marcha de Inverno de Promoción",
+        "place": "Pontevedra",
+        "url": "https://atletismo.gal/competicions/xviii-campionato-xunta-de-galicia-de-marcha-de-inverno-de-promocion/",
+        "start": "2025-11-22"
+    },
+    {
+        "title": "XIII Carreira Popular Novo Mesoiro -Circuíto Coruña Corre",
+        "place": "Coruña, A",
+        "url": "https://atletismo.gal/competicions/xiii-carreira-popular-novo-mesoiro-circuito-coruna-corre/",
+        "start": "2025-11-23"
+    },
+    {
+        "title": "II Correndo entre Auga, Mondariz Balneario",
+        "place": "Mondariz-Balneario",
+        "url": "https://atletismo.gal/competicions/ii-correndo-entre-auga-mondariz-balneario/",
+        "start": "2025-11-23"
+    },
+    {
+        "title": "XLVI Memorial Belarmino Alonso de Campo a Través",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/xlvi-memorial-belarmino-alonso-de-campo-a-traves/",
+        "start": "2025-11-23"
+    },
+    {
+        "title": "III Trail do Cervo",
+        "place": "Campo Lameiro - Pontevedra",
+        "url": "https://atletismo.gal/competicions/iii-trail-do-cervo/",
+        "start": "2025-11-30"
+    },
+    {
+        "title": "X Carreira Pedestre de Ribadavia",
+        "place": "Ribadavia",
+        "url": "https://atletismo.gal/competicions/x-carreira-pedestre-de-ribadavia/",
+        "start": "2025-11-30"
+    },
+    {
+        "title": "Campionato Xunta de Galicia de Medio Maratón 2025",
+        "place": "Vilagarcía de Arousa",
+        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-medio-maraton-2025/",
+        "start": "2025-11-30"
     }
 ]
