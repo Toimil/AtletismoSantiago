@@ -66,15 +66,21 @@
         "start": "2025-10-18"
     },
     {
+        "title": "XX Carreira Pedestre de Lestrobe",
+        "place": "Dodro",
+        "url": "https://atletismo.gal/competicions/xx-carreira-pedestre-de-lestrobe/",
+        "start": "2025-10-18"
+    },
+    {
         "title": "XXIV Carreira Pedestre Popular Concello de Ames",
         "place": "Ames",
         "url": "https://atletismo.gal/competicions/xxiv-carreira-pedestre-popular-concello-de-ames/",
         "start": "2025-10-19"
     },
     {
-        "title": "Campionato de España Master 5 Km ruta",
+        "title": "Campionato de España Master 5 Km. ruta 2025",
         "place": "Ames",
-        "url": "https://atletismo.gal/competicions/campionato-de-espana-master-5-km-ruta/",
+        "url": "https://atletismo.gal/competicions/campionato-de-espana-master-5-km-ruta-2025/",
         "start": "2025-10-19"
     },
     {
@@ -90,9 +96,21 @@
         "start": "2025-10-19"
     },
     {
+        "title": "Carreira da Carballeira 2025",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/carreira-da-carballeira-2025/",
+        "start": "2025-10-19"
+    },
+    {
         "title": "Asemblea Xeral Ordinaria FGA – 25/10/2025",
         "place": "Santiago de Compostela",
         "url": "https://atletismo.gal/competicions/asemblea-xeral-ordinaria-fga-25-10-2025/",
+        "start": "2025-10-25"
+    },
+    {
+        "title": "V Desafío Internacional EcoCamiño 50K",
+        "place": "Melide - Santiago de Compostela",
+        "url": "https://atletismo.gal/competicions/v-desafio-internacional-ecocamino-50k/",
         "start": "2025-10-25"
     },
     {
@@ -144,6 +162,12 @@
         "start": "2025-11-02"
     },
     {
+        "title": "XVII Carreira Popular dos Santiños",
+        "place": "Barco de Valdeorras, O",
+        "url": "https://atletismo.gal/competicions/xvii-carreira-popular-dos-santinos/",
+        "start": "2025-11-02"
+    },
+    {
         "title": "VI Congreso Técnico de Xuíces de Atletismo",
         "place": "",
         "url": "https://atletismo.gal/competicions/vi-congreso-tecnico-de-xuices-de-atletismo/",
@@ -180,6 +204,12 @@
         "start": "2025-11-22"
     },
     {
+        "title": "XXVIII Cros Guillelme Brown",
+        "place": "Pereiro de Aguiar, O",
+        "url": "https://atletismo.gal/competicions/xxviii-cros-guillelme-brown/",
+        "start": "2025-11-22"
+    },
+    {
         "title": "XIII Carreira Popular Novo Mesoiro -Circuíto Coruña Corre",
         "place": "Coruña, A",
         "url": "https://atletismo.gal/competicions/xiii-carreira-popular-novo-mesoiro-circuito-coruna-corre/",
@@ -204,6 +234,12 @@
         "start": "2025-11-23"
     },
     {
+        "title": "46º Memorial Belarmino Alonso de Campo a Través",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/46o-memorial-belarmino-alonso-de-campo-a-traves/",
+        "start": "2025-11-23"
+    },
+    {
         "title": "Xogade – Cros – Final Comarcal As Burgas 2025",
         "place": "",
         "url": "https://atletismo.gal/competicions/xogade-campo-a-traves-final-comarcal-as-burgas-2025/",
@@ -213,12 +249,6 @@
         "title": "III Trail do Cervo",
         "place": "Campo Lameiro - Pontevedra",
         "url": "https://atletismo.gal/competicions/iii-trail-do-cervo/",
-        "start": "2025-11-30"
-    },
-    {
-        "title": "X Carreira Pedestre de Ribadavia",
-        "place": "Ribadavia",
-        "url": "https://atletismo.gal/competicions/x-carreira-pedestre-de-ribadavia/",
         "start": "2025-11-30"
     },
     {
@@ -261,6 +291,12 @@
         "title": "Campionato de España de Marcha de Inverno de Promoción 2025",
         "place": "Barco de Valdeorras, O",
         "url": "https://atletismo.gal/competicions/campionato-de-espana-de-marcha-de-inverno-de-promocion-2025/",
+        "start": "2025-12-14"
+    },
+    {
+        "title": "X Carreira Pedestre de Ribadavia",
+        "place": "Ribadavia",
+        "url": "https://atletismo.gal/competicions/x-carreira-pedestre-de-ribadavia/",
         "start": "2025-12-14"
     },
     {
