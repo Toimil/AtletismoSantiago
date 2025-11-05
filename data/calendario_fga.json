@@ -72,6 +72,12 @@
         "start": "2025-11-09"
     },
     {
+        "title": "VIII Trail das Bestas – Ranking G3",
+        "place": "Muras",
+        "url": "https://atletismo.gal/competicions/viii-trail-das-bestas-ranking-g3/",
+        "start": "2025-11-09"
+    },
+    {
         "title": "Corresan Ruta da prata Angrois 2025 – XI Circuíto Carreiras Saudables CorreSan 2025",
         "place": "Santiago de Compostela",
         "url": "https://atletismo.gal/competicions/corresan-ruta-da-prata-angrois-2025-xi-circuito-carreiras-saudables-corresan-2025/",
@@ -139,7 +145,7 @@
     },
     {
         "title": "III Circuíto Deputación A Coruña en Pista 2025 – 3ª Xornada",
-        "place": "Ferrol",
+        "place": "Coruña, A",
         "url": "https://atletismo.gal/competicions/iii-circuito-deputacion-a-coruna-en-pista-2025-3a-xornada/",
         "start": "2025-11-29"
     },
@@ -175,7 +181,7 @@
     },
     {
         "title": "Xogade – Cros – Fase Provincial Ourense 2025",
-        "place": "",
+        "place": "Ribadavia",
         "url": "https://atletismo.gal/competicions/xogade-cros-fase-provincial-ourense-2025/",
         "start": "2025-12-13"
     },
@@ -423,6 +429,12 @@
         "title": "FGA Control PC 2026 – 10ª Xornada",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/fga-control-pc-2026-10a-xornada/",
+        "start": "2026-01-31"
+    },
+    {
+        "title": "IV Trail Terras de Burón – O Trail do Inverno – Ranking G1",
+        "place": "Fonsagrada, A",
+        "url": "https://atletismo.gal/competicions/iv-trail-terras-de-buron-o-trail-do-inverno-ranking-g1/",
         "start": "2026-01-31"
     }
 ]
