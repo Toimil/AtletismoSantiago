@@ -96,6 +96,12 @@
         "start": "2025-11-15"
     },
     {
+        "title": "A 21 Santander Medio Maratón de Vigo 2025",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/a-21-santander-medio-maraton-de-vigo-2025/",
+        "start": "2025-11-16"
+    },
+    {
         "title": "XVIII Campionato Xunta de Galicia de Marcha de Inverno",
         "place": "Pontevedra",
         "url": "https://atletismo.gal/competicions/xviii-campionato-xunta-de-galicia-de-marcha-de-inverno/",
@@ -156,7 +162,7 @@
         "start": "2025-11-29"
     },
     {
-        "title": "III Trail do Cervo – Prova Cancelada",
+        "title": "III Trail do Cervo – Proba Cancelada",
         "place": "Campo Lameiro",
         "url": "https://atletismo.gal/competicions/iii-trail-do-cervo/",
         "start": "2025-11-30"
@@ -165,6 +171,12 @@
         "title": "Campionato Xunta de Galicia de Medio Maratón 2025",
         "place": "Vilagarcía de Arousa",
         "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-medio-maraton-2025/",
+        "start": "2025-11-30"
+    },
+    {
+        "title": "VI Carreira e Andaina contra a Violencia de Xénero",
+        "place": "Ferrol",
+        "url": "https://atletismo.gal/competicions/vi-carreira-e-andaina-contra-a-violencia-de-xenero/",
         "start": "2025-11-30"
     },
     {
@@ -303,6 +315,12 @@
         "title": "V San Silvestre Concello de Neda",
         "place": "Neda",
         "url": "https://atletismo.gal/competicions/v-san-silvestre-concello-de-neda/",
+        "start": "2025-12-31"
+    },
+    {
+        "title": "X San Silvestre Ourensá",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/x-san-silvestre-ourensa/",
         "start": "2025-12-31"
     },
     {
