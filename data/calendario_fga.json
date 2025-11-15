@@ -144,7 +144,19 @@
         "start": "2025-11-23"
     },
     {
-        "title": "III Control AVA en Pista Cuberta 2025",
+        "title": "Xornada Deputacion de Lugo – Categorias Menores 2025 – Modulo Cuberto",
+        "place": "Lugo",
+        "url": "https://atletismo.gal/competicions/xornada-deputacion-de-lugo-categorias-menores-2025/",
+        "start": "2025-11-23"
+    },
+    {
+        "title": "Xornada Deputacion de Lugo – Categorias Menores 2025 – Aire Libre",
+        "place": "Lugo",
+        "url": "https://atletismo.gal/competicions/xornada-deputacion-de-lugo-categorias-menores-2025-aire-libre/",
+        "start": "2025-11-23"
+    },
+    {
+        "title": "III Control AVA en Pista Cuberta 2025. (ADIADO A UNHA NOVA DATA)",
         "place": "Vigo",
         "url": "https://atletismo.gal/competicions/iii-control-ava-en-pista-cuberta-2025/",
         "start": "2025-11-28"
@@ -174,7 +186,7 @@
         "start": "2025-11-30"
     },
     {
-        "title": "VI Carreira e Andaina contra a Violencia de Xénero",
+        "title": "VI Carreira e Camiñada contra a Violencia de Xénero",
         "place": "Ferrol",
         "url": "https://atletismo.gal/competicions/vi-carreira-e-andaina-contra-a-violencia-de-xenero/",
         "start": "2025-11-30"
@@ -237,6 +249,12 @@
         "title": "VIII Trofeo José Ruiz de Marcha",
         "place": "Barco de Valdeorras, O",
         "url": "https://atletismo.gal/competicions/viii-trofeo-jose-ruiz-de-marcha/",
+        "start": "2025-12-14"
+    },
+    {
+        "title": "Milla Cidade de Vigo 2025",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/milla-cidade-de-vigo-2025/",
         "start": "2025-12-14"
     },
     {
@@ -321,6 +339,12 @@
         "title": "X San Silvestre Ourensá",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/x-san-silvestre-ourensa/",
+        "start": "2025-12-31"
+    },
+    {
+        "title": "San Silvestre Vigo 2025",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/san-silvestre-vigo-2025/",
         "start": "2025-12-31"
     },
     {
