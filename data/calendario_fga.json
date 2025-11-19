@@ -192,6 +192,12 @@
         "start": "2025-11-30"
     },
     {
+        "title": "III Medio Maratón Concello de Vilagarcía de Arousa",
+        "place": "Vilagarcía de Arousa",
+        "url": "https://atletismo.gal/competicions/iii-medio-maraton-concello-de-vilagarcia-de-arousa/",
+        "start": "2025-11-30"
+    },
+    {
         "title": "IV Control AVA en Pista Cuberta 2025",
         "place": "Vigo",
         "url": "https://atletismo.gal/competicions/iv-control-ava-en-pista-cuberta-2025/",
@@ -256,6 +262,12 @@
         "place": "Vigo",
         "url": "https://atletismo.gal/competicions/milla-cidade-de-vigo-2025/",
         "start": "2025-12-14"
+    },
+    {
+        "title": "X Carreira Nocturna de Sada “Ninguén sen Nadal”",
+        "place": "Sada",
+        "url": "https://atletismo.gal/competicions/x-carreira-nocturna-de-sada-ninguen-sen-nadal/",
+        "start": "2025-12-19"
     },
     {
         "title": "Campionato de España Clubs Sub20 Short Track 2025",
@@ -330,6 +342,12 @@
         "start": "2025-12-28"
     },
     {
+        "title": "XIV Carreira e Andaina Popular do Nadal",
+        "place": "Rúa, A",
+        "url": "https://atletismo.gal/competicions/xiv-carreira-e-andaina-popular-do-nadal/",
+        "start": "2025-12-28"
+    },
+    {
         "title": "V San Silvestre Concello de Neda",
         "place": "Neda",
         "url": "https://atletismo.gal/competicions/v-san-silvestre-concello-de-neda/",
@@ -348,6 +366,12 @@
         "start": "2025-12-31"
     },
     {
+        "title": "XXVII Carreira de San Silvestre Castrelo de Miño",
+        "place": "Castrelo de Miño",
+        "url": "https://atletismo.gal/competicions/xxvii-carreira-de-san-silvestre-castrelo-de-mino/",
+        "start": "2025-12-31"
+    },
+    {
         "title": "Campionato Xunta de Galicia de Campo a Través Absoluto – Sub23 – Sub20 – Sub18 – Sub16 – Individual e Clubs 2026",
         "place": "A designar",
         "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-campo-a-traves-absoluto-sub23-sub20-sub18-sub16-individual-e-clubs-2026/",
@@ -358,6 +382,12 @@
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/vii-trofeo-deporte-la-region-en-pista-curta/",
         "start": "2026-01-03"
+    },
+    {
+        "title": "Control Marcas de Inverno CAR 2026",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/control-marcas-de-inverno-car-2026/",
+        "start": "2026-01-04"
     },
     {
         "title": "VIII Copa de Clubs Máster en Pista Curta",
@@ -393,6 +423,18 @@
         "title": "FGA Control PC 2026 – 2ª Xornada",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/fga-control-pc-2026-2a-xornada/",
+        "start": "2026-01-11"
+    },
+    {
+        "title": "VIII Carreira Popular Concello de Castro de Rei",
+        "place": "Castro de Rei",
+        "url": "https://atletismo.gal/competicions/viii-carreira-popular-concello-de-castro-de-rei/",
+        "start": "2026-01-11"
+    },
+    {
+        "title": "VI Control en Pista SGP – CA Sada 2026",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/vi-control-en-pista-sgp-ca-sada-2026/",
         "start": "2026-01-11"
     },
     {
