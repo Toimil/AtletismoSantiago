@@ -150,13 +150,13 @@
         "start": "2025-12-27"
     },
     {
-        "title": "Control FGA 27/12/2025 – Xornada Mañá",
+        "title": "Control FGA 27/12/2025 – Xornada Tarde",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/control-fga-27-12-2025-xornada-mana/",
         "start": "2025-12-27"
     },
     {
-        "title": "Control FGA 27/12/2025 – Xornada Tarde",
+        "title": "Control FGA 27/12/2025 – Xornada  de Mañá",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/control-fga-27-12-2025-xornada-tarde/",
         "start": "2025-12-27"
@@ -225,6 +225,12 @@
         "title": "San Silvestre de Santiago 2025",
         "place": "Santiago de Compostela",
         "url": "https://atletismo.gal/competicions/san-silvestre-de-santiago-2025/",
+        "start": "2025-12-31"
+    },
+    {
+        "title": "VIII San Silvestre Ordes",
+        "place": "Ordes",
+        "url": "https://atletismo.gal/competicions/viii-san-silvestre-ordes/",
         "start": "2025-12-31"
     },
     {
@@ -373,7 +379,7 @@
     },
     {
         "title": "XXXVII Campionato Xunta de Galicia de Marcha en Ruta",
-        "place": "A designar",
+        "place": "Marín",
         "url": "https://atletismo.gal/competicions/xxxvii-campionato-xunta-de-galicia-de-marcha-en-ruta/",
         "start": "2026-01-25"
     },
@@ -429,7 +435,7 @@
         "title": "VIII Campionato Xunta de Galicia de Probas Combinadas Máster en Pista Curta",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/viii-campionato-xunta-de-galicia-de-probas-combinadas-master-en-pista-curta/",
-        "start": "2026-02-07"
+        "start": "2026-02-08"
     },
     {
         "title": "Campionato Xunta de Galicia de Lanzamentos Longos Sub16 2026",
