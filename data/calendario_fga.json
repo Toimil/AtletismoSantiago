@@ -30,12 +30,6 @@
         "start": "2025-12-13"
     },
     {
-        "title": "Xogade – Cros – Fase Provincial Pontevedra 2025",
-        "place": "Vigo",
-        "url": "https://atletismo.gal/competicions/xogade-cros-fase-provincial-pontevedra-2025/",
-        "start": "2025-12-13"
-    },
-    {
         "title": "Xogade – Cros – Fase Provincial Ourense 2025",
         "place": "Ribadavia",
         "url": "https://atletismo.gal/competicions/xogade-cros-fase-provincial-ourense-2025/",
@@ -51,12 +45,6 @@
         "title": "Multievento 2025 Lousame: Pequetrail",
         "place": "Lousame",
         "url": "https://atletismo.gal/competicions/multievento-2025-lousame-pequetrail/",
-        "start": "2025-12-13"
-    },
-    {
-        "title": "XXIV Cros Andrés Abanqueiro",
-        "place": "Vigo",
-        "url": "https://atletismo.gal/competicions/xxiv-cros-andres-abanqueiro/",
         "start": "2025-12-13"
     },
     {
@@ -174,6 +162,12 @@
         "start": "2025-12-27"
     },
     {
+        "title": "III Trofeo José Luis Torrado – Festa HQR! Rías Baixas",
+        "place": "Pontevedra",
+        "url": "https://atletismo.gal/competicions/iii-trofeo-jose-luis-torrado-festa-hqr-rias-baixas/",
+        "start": "2025-12-27"
+    },
+    {
         "title": "XX Carreira Popular de Fin de Ano Ares – Mugardos – Ares",
         "place": "Ares - Mugardos",
         "url": "https://atletismo.gal/competicions/xx-carreira-popular-de-fin-de-ano-ares-mugardos-ares/",
@@ -240,8 +234,14 @@
         "start": "2025-12-31"
     },
     {
+        "title": "A Trintaeundoce (San Silvestre Naronesa 2025)",
+        "place": "Narón",
+        "url": "https://atletismo.gal/competicions/a-trintaeundoce-san-silvestre-naronesa-2025/",
+        "start": "2025-12-31"
+    },
+    {
         "title": "Campionato Xunta de Galicia de Campo a Través Absoluto – Sub23 – Sub20 – Sub18 – Sub16 – Individual e Clubs 2026",
-        "place": "A designar",
+        "place": "Rúa, A",
         "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-campo-a-traves-absoluto-sub23-sub20-sub18-sub16-individual-e-clubs-2026/",
         "start": "2026-01-03"
     },
@@ -256,6 +256,12 @@
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/control-marcas-de-inverno-car-2026/",
         "start": "2026-01-04"
+    },
+    {
+        "title": "VII Torneo de Reis 2026 – Gran Premio Jim Sports",
+        "place": "Pontevedra",
+        "url": "https://atletismo.gal/competicions/vii-torneo-de-reis-2026-gran-premio-jim-sports/",
+        "start": "2026-01-05"
     },
     {
         "title": "VIII Copa de Clubs Máster en Pista Curta",
