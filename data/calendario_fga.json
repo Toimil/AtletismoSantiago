@@ -54,7 +54,7 @@
         "start": "2026-01-11"
     },
     {
-        "title": "II Circuíto Galego de Lanzamentos Longos – 1ª Xornada",
+        "title": "II Circuíto Galego de Lanzamentos Longos – 1ª Xornada (Suspendida xornada de tarde)",
         "place": "Ordes",
         "url": "https://atletismo.gal/competicions/ii-circuito-galego-de-lanzamentos-longos-1a-xornada/",
         "start": "2026-01-11"
@@ -180,6 +180,12 @@
         "start": "2026-01-25"
     },
     {
+        "title": "Circuíto Carreira en Anillo CAS – COCO – 2026 – I Xornada",
+        "place": "Coruña, A",
+        "url": "https://atletismo.gal/competicions/circuito-carreira-en-anillo-cas-coco-2026-i-xornada/",
+        "start": "2026-01-30"
+    },
+    {
         "title": "X Campionato Xunta de Galicia de Lanzamentos Longos Máster",
         "place": "Ordes",
         "url": "https://atletismo.gal/competicions/x-campionato-xunta-de-galicia-de-lanzamentos-longos-master/",
@@ -238,6 +244,12 @@
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/fga-control-pc-2026-11a-xornada/",
         "start": "2026-02-08"
+    },
+    {
+        "title": "Circuíto Carreira en Anillo CAS – COCO – 2026 – II Xornada",
+        "place": "Coruña, A",
+        "url": "https://atletismo.gal/competicions/circuito-carreira-en-anillo-cas-coco-2026-ii-xornada/",
+        "start": "2026-02-13"
     },
     {
         "title": "XLI Campionato Xunta de Galicia de Atletismo Absoluto en Pista Curta",
@@ -309,6 +321,12 @@
         "title": "Campionato Xunta de Galicia de Probas Combinadas Sub18 – Sub20 en Pista Curta 2026",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-probas-combinadas-sub18-sub20-en-pista-curta-2026/",
+        "start": "2026-02-28"
+    },
+    {
+        "title": "Carreira e Camiñada Solidaria Gatocan Oroso 2026",
+        "place": "Oroso",
+        "url": "https://atletismo.gal/competicions/carreira-e-andaina-solidaria-gatocan-oroso-2026/",
         "start": "2026-02-28"
     },
     {
