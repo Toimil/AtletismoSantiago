@@ -156,6 +156,12 @@
         "start": "2026-01-24"
     },
     {
+        "title": "IV Cros Vila de Ribadavia",
+        "place": "Ribadavia",
+        "url": "https://atletismo.gal/competicions/iv-cros-vila-de-ribadavia/",
+        "start": "2026-01-24"
+    },
+    {
         "title": "Circuíto Galego de Marcha Atlética 2026",
         "place": "",
         "url": "https://atletismo.gal/competicions/circuito-galego-de-marcha-atletica-2026/",
@@ -235,7 +241,7 @@
     },
     {
         "title": "Campionato Xunta de Galicia de Lanzamentos Longos Sub16 2026",
-        "place": "A designar",
+        "place": "Estrada, A",
         "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-lanzamentos-longos-sub16-2026/",
         "start": "2026-02-08"
     },
@@ -306,6 +312,12 @@
         "start": "2026-02-21"
     },
     {
+        "title": "II Meeting de Ourense Categorías Base",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/ii-meeting-de-ourense-categorias-base/",
+        "start": "2026-02-21"
+    },
+    {
         "title": "XXXVII Campionato Xunta de Galicia de Atletismo Sub16 en Pista Curta",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/xxxvii-campionato-xunta-de-galicia-de-atletismo-sub16-en-pista-curta/",
@@ -363,6 +375,12 @@
         "title": "XXI Campionato Xunta de Galicia de Atletismo Sub12 – XXVI Sub10 en Pista Curta",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/xxi-campionato-xunta-de-galicia-de-atletismo-sub12-xxvi-sub10-en-pista-curta/",
+        "start": "2026-03-14"
+    },
+    {
+        "title": "XV Carreira Popular Torre de Hercules",
+        "place": "Coruña, A",
+        "url": "https://atletismo.gal/competicions/xv-carreira-popular-torre-de-hercules/",
         "start": "2026-03-14"
     },
     {
