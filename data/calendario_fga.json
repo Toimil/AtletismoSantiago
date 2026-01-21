@@ -144,13 +144,13 @@
         "start": "2026-01-24"
     },
     {
-        "title": "FGA Control PC 2026 – 6ª Xornada",
+        "title": "FGA Control PC 2026 – 6ª Xornada  (Mañá)",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/fga-control-pc-2026-6a-xornada/",
         "start": "2026-01-24"
     },
     {
-        "title": "FGA Control PC 2026 – 7ª Xornada",
+        "title": "FGA Control PC 2026 – 7ª Xornada (Tarde)",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/fga-control-pc-2026-7a-xornada/",
         "start": "2026-01-24"
@@ -180,15 +180,21 @@
         "start": "2026-01-25"
     },
     {
-        "title": "FGA Control PC 2026 – 8ª Xornada",
+        "title": "FGA Control PC 2026 – 8ª Xornada (Mañá)",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/fga-control-pc-2026-8a-xornada/",
         "start": "2026-01-25"
     },
     {
-        "title": "Circuíto Carreira en Pista Curta CAS – COCO – 2026 – I Xornada",
+        "title": "Circuíto Carreira en Pista Curta CAS – COCO – 2026 – 1ª Xornada",
         "place": "Coruña, A",
-        "url": "https://atletismo.gal/competicions/circuito-carreira-en-pista-curta-cas-coco-2026-i-xornada/",
+        "url": "https://atletismo.gal/competicions/circuito-carreira-en-pista-curta-cas-coco-2026-1a-xornada/",
+        "start": "2026-01-30"
+    },
+    {
+        "title": "Copa Deputación de Lugo 2026 – AL – PC – 1ª Xornada",
+        "place": "Lugo",
+        "url": "https://atletismo.gal/competicions/copa-deputacion-de-lugo-2026-al-pc-1a-xornada/",
         "start": "2026-01-30"
     },
     {
@@ -234,6 +240,12 @@
         "start": "2026-02-07"
     },
     {
+        "title": "1ª Carreira Solidaria Polilla Ana Vicente",
+        "place": "Meaño",
+        "url": "https://atletismo.gal/competicions/1a-carreira-solidaria-polilla-ana-vicente/",
+        "start": "2026-02-07"
+    },
+    {
         "title": "VIII Campionato Xunta de Galicia de Probas Combinadas Máster en Pista Curta",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/viii-campionato-xunta-de-galicia-de-probas-combinadas-master-en-pista-curta/",
@@ -255,6 +267,12 @@
         "title": "Circuíto Carreira en Pista Curta CAS – COCO – 2026 – II Xornada",
         "place": "Coruña, A",
         "url": "https://atletismo.gal/competicions/circuito-carreira-en-pista-curta-cas-coco-2026-ii-xornada/",
+        "start": "2026-02-13"
+    },
+    {
+        "title": "III Trofeo +Deporte Atlántico diario",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/iii-trofeo-deporte-atlantico-diario/",
         "start": "2026-02-13"
     },
     {
@@ -360,9 +378,9 @@
         "start": "2026-03-06"
     },
     {
-        "title": "2ª Xornada do Circuíto Galego de Marcha Atlética",
+        "title": "Circuíto Galego de Marcha Atlética 2026 – Xornada A Estrada",
         "place": "Estrada, A",
-        "url": "https://atletismo.gal/competicions/2a-xornada-do-circuito-galego-de-marcha-atletica/",
+        "url": "https://atletismo.gal/competicions/circuito-galego-de-marcha-atletica-2026-a-estrada/",
         "start": "2026-03-07"
     },
     {
