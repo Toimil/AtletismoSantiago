@@ -30,6 +30,12 @@
         "start": "2026-02-07"
     },
     {
+        "title": "Control FGA PC 2026 – 11ª Xornada",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/control-fga-pc-2026-11a-xornada/",
+        "start": "2026-02-07"
+    },
+    {
         "title": "VIII Campionato Xunta de Galicia de Probas Combinadas Máster en Pista Curta",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/viii-campionato-xunta-de-galicia-de-probas-combinadas-master-en-pista-curta/",
@@ -138,6 +144,12 @@
         "start": "2026-02-22"
     },
     {
+        "title": "Xornada Menores Deputacion de Lugo AL-Módulo 2026",
+        "place": "Lugo",
+        "url": "https://atletismo.gal/competicions/xornada-menores-deputacion-de-lugo-al-modulo-2026/",
+        "start": "2026-02-27"
+    },
+    {
         "title": "XXXI Campionato Xunta de Galicia de Atletismo Sub18 en Pista Curta",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/xxxi-campionato-xunta-de-galicia-de-atletismo-sub18-en-pista-curta/",
@@ -153,6 +165,12 @@
         "title": "Carreira e Camiñada Solidaria Gatocan Oroso 2026",
         "place": "Oroso",
         "url": "https://atletismo.gal/competicions/carreira-e-andaina-solidaria-gatocan-oroso-2026/",
+        "start": "2026-02-28"
+    },
+    {
+        "title": "III Control Atletismo Piringalla AL – Módulo 2026",
+        "place": "Lugo",
+        "url": "https://atletismo.gal/competicions/iii-control-atletismo-piringalla-al-modulo-2026/",
         "start": "2026-02-28"
     },
     {
@@ -333,6 +351,12 @@
         "title": "XI Carreira Pedestre Concello de Zas",
         "place": "Zas",
         "url": "https://atletismo.gal/competicions/xi-carreira-pedestre-concello-de-zas/",
+        "start": "2026-04-26"
+    },
+    {
+        "title": "Carreira do Vinteún 2026",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/carreira-do-vinteun-2026/",
         "start": "2026-04-26"
     }
 ]
