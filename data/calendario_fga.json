@@ -330,12 +330,6 @@
         "start": "2026-04-18"
     },
     {
-        "title": "I Cros Popular Concello de Carballo",
-        "place": "Carballo",
-        "url": "https://atletismo.gal/competicions/i-cros-popular-concello-de-carballo/",
-        "start": "2026-04-18"
-    },
-    {
         "title": "IV Edición 10K “Costa Ártabra”",
         "place": "Coruña, A",
         "url": "https://atletismo.gal/competicions/iv-edicion-10k-costa-artabra/",
@@ -364,6 +358,12 @@
         "place": "Cervo",
         "url": "https://atletismo.gal/competicions/xogade-atletismo-en-pista-a-marina-2026-4a-xornada/",
         "start": "2026-04-24"
+    },
+    {
+        "title": "Campionato de España Clubs Primeira División 2026 – 1ª Xornada",
+        "place": "Pereiro de Aguiar, O",
+        "url": "https://atletismo.gal/competicions/campionato-de-espana-clubs-primeira-division-2026-1a-xornada/",
+        "start": "2026-04-25"
     },
     {
         "title": "VI Cros Solidario en favor da Investigación de Duchenne e Becker “Unha tarde con Samuel”",
