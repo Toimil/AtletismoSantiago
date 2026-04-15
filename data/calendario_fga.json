@@ -456,6 +456,12 @@
         "start": "2026-05-10"
     },
     {
+        "title": "I Control Riazor Coruña 2026",
+        "place": "Coruña, A",
+        "url": "https://atletismo.gal/competicions/i-control-riazor-coruna-2026/",
+        "start": "2026-05-15"
+    },
+    {
         "title": "Xogade – Atletismo en Pista – Ourense 2026 – Final Provincial",
         "place": "Pereiro de Aguiar, O",
         "url": "https://atletismo.gal/competicions/xogade-atletismo-en-pista-ourense-2026-final-provincial/",
@@ -595,7 +601,7 @@
     },
     {
         "title": "Xogade – Atletismo en Pista – Pontevedra 2026 – Final Provincial Infantil",
-        "place": "A designar",
+        "place": "Pontevedra",
         "url": "https://atletismo.gal/competicions/xogade-atletismo-en-pista-pontevedra-2026-final-provincial-infantil/",
         "start": "2026-05-30"
     },
@@ -673,7 +679,7 @@
     },
     {
         "title": "Xogade – Atletismo en Pista – Pontevedra 2026 – Final Provincial Alevín",
-        "place": "A designar",
+        "place": "Vigo",
         "url": "https://atletismo.gal/competicions/xogade-atletismo-en-pista-pontevedra-2026-final-provincial-alevin/",
         "start": "2026-06-06"
     },
@@ -681,6 +687,12 @@
         "title": "I Circuíto de Atletismo en Pista Deputación de Pontevedra – Xornada 2",
         "place": "Vigo",
         "url": "https://atletismo.gal/competicions/i-circuito-de-atletismo-en-pista-deputacion-de-pontevedra-xornada-2/",
+        "start": "2026-06-06"
+    },
+    {
+        "title": "Corresan Barrio de Conxo 2026 – XII Circuíto Carreiras Saudables CorreSan",
+        "place": "Santiago de Compostela",
+        "url": "https://atletismo.gal/competicions/corresan-barrio-de-conxo-2026-xii-circuito-carreiras-saudables-corresan/",
         "start": "2026-06-06"
     },
     {
@@ -697,7 +709,7 @@
     },
     {
         "title": "Xogade – Atletismo en Pista – Pontevedra 2026 – Final Provincial Benxamín",
-        "place": "A designar",
+        "place": "Pontevedra",
         "url": "https://atletismo.gal/competicions/xogade-atletismo-en-pista-pontevedra-2026-final-provincial-benxamin/",
         "start": "2026-06-07"
     },
