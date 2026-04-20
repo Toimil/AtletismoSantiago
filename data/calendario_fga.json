@@ -282,15 +282,15 @@
         "start": "2026-04-25"
     },
     {
-        "title": "I Xornada serie pistas USC Santiago",
+        "title": "Serie Pistas USC Santiago 2026 – 1ª Xornada",
         "place": "Santiago de Compostela",
-        "url": "https://atletismo.gal/competicions/i-xornada-serie-pistas-usc-santiago/",
+        "url": "https://atletismo.gal/competicions/serie-pistas-usc-santiago-2026-1a-xornada/",
         "start": "2026-04-25"
     },
     {
-        "title": "I Xornada Atletismo – Deputación de Lugo 2026",
+        "title": "Deputación de Lugo 2026 – 1ª Xornada Atletismo",
         "place": "Lugo",
-        "url": "https://atletismo.gal/competicions/i-xornada-atletismo-deputacion-de-lugo-2026/",
+        "url": "https://atletismo.gal/competicions/deputacion-de-lugo-2026-1a-xornada-atletismo/",
         "start": "2026-04-25"
     },
     {
@@ -300,9 +300,9 @@
         "start": "2026-04-26"
     },
     {
-        "title": "Asemblea Xeral Ordinaria FGA – 26/04/2025",
+        "title": "Asemblea Xeral FGA – 26/04/2025",
         "place": "Santiago de Compostela",
-        "url": "https://atletismo.gal/competicions/asemblea-xeral-ordinaria-fga-26-04-2025/",
+        "url": "https://atletismo.gal/competicions/asemblea-xeral-fga-26-04-2025/",
         "start": "2026-04-26"
     },
     {
@@ -330,9 +330,21 @@
         "start": "2026-04-26"
     },
     {
+        "title": "Correndo x Ourense 2026",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/correndo-x-ourense-2026/",
+        "start": "2026-04-26"
+    },
+    {
         "title": "XI Carreira Pedestre Popular Concello de Frades",
         "place": "Frades",
         "url": "https://atletismo.gal/competicions/xi-carreira-pedestre-popular-concello-de-frades/",
+        "start": "2026-05-01"
+    },
+    {
+        "title": "VI Trofeo Club Deportivo La Purísima",
+        "place": "Pereiro de Aguiar, O",
+        "url": "https://atletismo.gal/competicions/vi-trofeo-club-deportivo-la-purisima/",
         "start": "2026-05-01"
     },
     {
@@ -393,6 +405,12 @@
         "title": "III Ourense Series Provinciais de Atletismo – Valdeorras Xornada 4",
         "place": "Barco de Valdeorras, O",
         "url": "https://atletismo.gal/competicions/iii-ourense-series-provinciais-de-atletismo-valdeorras-xornada-4/",
+        "start": "2026-05-08"
+    },
+    {
+        "title": "Xornada Xogade Celta de Atletismo",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/xornada-xogade-celta-de-atletismo/",
         "start": "2026-05-08"
     },
     {
