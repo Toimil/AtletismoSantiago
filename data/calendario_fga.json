@@ -84,9 +84,9 @@
         "start": "2026-05-08"
     },
     {
-        "title": "Xornada Xogade Celta de Atletismo",
+        "title": "Xogade – Xornada Celta Atletismo 2026",
         "place": "Pontevedra",
-        "url": "https://atletismo.gal/competicions/xornada-xogade-celta-de-atletismo/",
+        "url": "https://atletismo.gal/competicions/xogade-xornada-celta-atletismo-2026/",
         "start": "2026-05-08"
     },
     {
@@ -168,12 +168,6 @@
         "start": "2026-05-16"
     },
     {
-        "title": "VI Trofeo Mariano Castiñeira 2026",
-        "place": "Lugo",
-        "url": "https://atletismo.gal/competicions/vi-trofeo-mariano-castineira-2026/",
-        "start": "2026-05-16"
-    },
-    {
         "title": "PGTA 2026 – Sesión Técnica Marcha",
         "place": "Santiago de Compostela",
         "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-marcha/",
@@ -183,6 +177,12 @@
         "title": "V Poseidón Race",
         "place": "Cerceda",
         "url": "https://atletismo.gal/competicions/v-poseidon-race/",
+        "start": "2026-05-16"
+    },
+    {
+        "title": "2ª Xornada Atletismo – Deputacion de Lugo 2026",
+        "place": "Lugo",
+        "url": "https://atletismo.gal/competicions/2a-xornada-atletismo-deputacion-de-lugo-2026/",
         "start": "2026-05-16"
     },
     {
@@ -237,6 +237,12 @@
         "title": "IV Trail dos Muiños – G1",
         "place": "Riotorto",
         "url": "https://atletismo.gal/competicions/trail-dos-muinos-g1/",
+        "start": "2026-05-23"
+    },
+    {
+        "title": "VI Trofeo Mariano Castiñeira 2026",
+        "place": "Lugo",
+        "url": "https://atletismo.gal/competicions/vi-trofeo-mariano-castineira-2026/",
         "start": "2026-05-23"
     },
     {
