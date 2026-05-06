@@ -150,9 +150,9 @@
         "start": "2026-05-10"
     },
     {
-        "title": "Control FGA 10 de maio. A Malata (Ferrol)",
+        "title": "Control FGA – Ferrol 10/05/2026",
         "place": "Ferrol",
-        "url": "https://atletismo.gal/competicions/control-fga-10-de-maio-a-maleta-ferrol/",
+        "url": "https://atletismo.gal/competicions/control-fga-ferrol-10-05-2026/",
         "start": "2026-05-10"
     },
     {
@@ -180,9 +180,15 @@
         "start": "2026-05-16"
     },
     {
-        "title": "2ª Xornada Atletismo – Deputacion de Lugo 2026",
+        "title": "Deputación de Lugo 2026 – 4ª Xornada Atletismo",
         "place": "Lugo",
-        "url": "https://atletismo.gal/competicions/2a-xornada-atletismo-deputacion-de-lugo-2026/",
+        "url": "https://atletismo.gal/competicions/deputacion-de-lugo-2026-4a-xornada-atletismo/",
+        "start": "2026-05-16"
+    },
+    {
+        "title": "Xogade – Atletismo en Pista – II Xornada Previa IFEVI – Vigo",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/xogade-atletismo-en-pista-ii-xornada-previa-ifevi-vigo/",
         "start": "2026-05-16"
     },
     {
@@ -331,7 +337,7 @@
     },
     {
         "title": "IX Copa de Galicia de Clubs Máster en Pista AL",
-        "place": "A designar",
+        "place": "Pereiro de Aguiar, O",
         "url": "https://atletismo.gal/competicions/ix-copa-de-galicia-de-clubs-master-en-pista-al/",
         "start": "2026-05-31"
     },
@@ -462,6 +468,12 @@
         "start": "2026-06-13"
     },
     {
+        "title": "X Nocturna Correndo por Vigo",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/x-nocturna-correndo-por-vigo/",
+        "start": "2026-06-13"
+    },
+    {
         "title": "XXXIX Campionato Xunta de Galicia de Atletismo Máster en Pista AL",
         "place": "A designar",
         "url": "https://atletismo.gal/competicions/xxxix-campionato-xunta-de-galicia-de-atletismo-master-en-pista-al/",
@@ -531,6 +543,12 @@
         "title": "XXXVIII Campionato Xunta de Galicia de Probas Combinadas Absoluto",
         "place": "Pereiro de Aguiar, O",
         "url": "https://atletismo.gal/competicions/xxxviii-campionato-xunta-de-galicia-de-probas-combinadas-absoluto/",
+        "start": "2026-06-20"
+    },
+    {
+        "title": "XXI Carreira Nocturna de Celanova",
+        "place": "Celanova",
+        "url": "https://atletismo.gal/competicions/xxi-carreira-nocturna-de-celanova/",
         "start": "2026-06-20"
     },
     {
