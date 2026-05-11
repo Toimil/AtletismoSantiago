@@ -174,12 +174,6 @@
         "start": "2026-05-16"
     },
     {
-        "title": "V Poseidón Race",
-        "place": "Cerceda",
-        "url": "https://atletismo.gal/competicions/v-poseidon-race/",
-        "start": "2026-05-16"
-    },
-    {
         "title": "Deputación de Lugo 2026 – 4ª Xornada Atletismo",
         "place": "Lugo",
         "url": "https://atletismo.gal/competicions/deputacion-de-lugo-2026-4a-xornada-atletismo/",
@@ -213,6 +207,12 @@
         "title": "VII Medio Maratón Cidade de Lugo El Progreso",
         "place": "Lugo",
         "url": "https://atletismo.gal/competicions/vii-medio-maraton-cidade-de-lugo-el-progreso/",
+        "start": "2026-05-17"
+    },
+    {
+        "title": "Media Maratón entre Rías 2026",
+        "place": "Grove, O",
+        "url": "https://atletismo.gal/competicions/media-maraton-entre-rias-2026/",
         "start": "2026-05-17"
     },
     {
@@ -385,13 +385,13 @@
     },
     {
         "title": "XXXI Campionato Xunta de Galicia de Atletismo Sub18 en Pista AL",
-        "place": "A designar",
+        "place": "Lugo",
         "url": "https://atletismo.gal/competicions/xxxi-campionato-xunta-de-galicia-de-atletismo-sub18-en-pista-al/",
         "start": "2026-06-06"
     },
     {
         "title": "XXV Campionato Xunta de Galicia de Probas Combinadas Sub18",
-        "place": "A designar",
+        "place": "Lugo",
         "url": "https://atletismo.gal/competicions/xxv-campionato-xunta-de-galicia-de-probas-combinadas-sub18/",
         "start": "2026-06-06"
     },
@@ -421,7 +421,7 @@
     },
     {
         "title": "XXXV Campionato Xunta de Galicia de Atletismo Sub14 en Pista AL",
-        "place": "A designar",
+        "place": "Barco de Valdeorras, O",
         "url": "https://atletismo.gal/competicions/xxxv-campionato-xunta-de-galicia-de-atletismo-sub14-en-pista-al/",
         "start": "2026-06-07"
     },
