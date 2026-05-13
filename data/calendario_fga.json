@@ -222,6 +222,12 @@
         "start": "2026-05-20"
     },
     {
+        "title": "III Ourense Series Provinciais de Atletismo – Xornada Extra",
+        "place": "Pereiro de Aguiar, O",
+        "url": "https://atletismo.gal/competicions/iii-ourense-series-provinciais-de-atletismo-xornada-extra/",
+        "start": "2026-05-21"
+    },
+    {
         "title": "XXXIX Gran Premio Internacional de Marcha Cantones de A Coruña – Trofeo “Sergio Vázquez”",
         "place": "Coruña, A",
         "url": "https://atletismo.gal/competicions/xxxix-gran-premio-internacional-de-marcha-cantones-de-a-coruna-trofeo-sergio-vazquez/",
@@ -246,7 +252,7 @@
         "start": "2026-05-23"
     },
     {
-        "title": "VI Trofeo Mariano Castiñeira 2026",
+        "title": "I Xornada Concello de Lugo – VI Trofeo Mariano Castiñeira 2026",
         "place": "Lugo",
         "url": "https://atletismo.gal/competicions/vi-trofeo-mariano-castineira-2026/",
         "start": "2026-05-23"
@@ -384,9 +390,9 @@
         "start": "2026-06-05"
     },
     {
-        "title": "XXXI Campionato Xunta de Galicia de Atletismo Sub18 en Pista AL",
+        "title": "XXX Campionato Xunta de Galicia de Atletismo Sub18 en Pista AL 2026",
         "place": "Lugo",
-        "url": "https://atletismo.gal/competicions/xxxi-campionato-xunta-de-galicia-de-atletismo-sub18-en-pista-al/",
+        "url": "https://atletismo.gal/competicions/xxx-campionato-xunta-de-galicia-de-atletismo-sub18-en-pista-al-2026/",
         "start": "2026-06-06"
     },
     {
@@ -447,12 +453,6 @@
         "title": "I Circuíto de Atletismo Cidade de Vigo 2026 – 2ª Xornada",
         "place": "Vigo",
         "url": "https://atletismo.gal/competicions/i-circuito-de-atletismo-cidade-de-vigo-2026-2a-xornada/",
-        "start": "2026-06-07"
-    },
-    {
-        "title": "VIII Carreira Holi Gaias",
-        "place": "Santiago de Compostela",
-        "url": "https://atletismo.gal/competicions/viii-carreira-holi-gaias/",
         "start": "2026-06-07"
     },
     {
@@ -543,6 +543,12 @@
         "title": "XXXVIII Campionato Xunta de Galicia de Probas Combinadas Absoluto",
         "place": "Pereiro de Aguiar, O",
         "url": "https://atletismo.gal/competicions/xxxviii-campionato-xunta-de-galicia-de-probas-combinadas-absoluto/",
+        "start": "2026-06-20"
+    },
+    {
+        "title": "VIII Carreira Holi Gaias",
+        "place": "Santiago de Compostela",
+        "url": "https://atletismo.gal/competicions/viii-carreira-holi-gaias/",
         "start": "2026-06-20"
     },
     {
