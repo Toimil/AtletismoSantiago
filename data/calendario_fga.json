@@ -409,7 +409,7 @@
     },
     {
         "title": "Xogade – Atletismo en Pista – Pontevedra 2026 – Final Provincial Alevín",
-        "place": "Vigo",
+        "place": "Pontevedra",
         "url": "https://atletismo.gal/competicions/xogade-atletismo-en-pista-pontevedra-2026-final-provincial-alevin/",
         "start": "2026-06-06"
     },
@@ -558,6 +558,12 @@
         "start": "2026-06-20"
     },
     {
+        "title": "XIII Nocturna Estradense",
+        "place": "Estrada, A",
+        "url": "https://atletismo.gal/competicions/xiii-nocturna-estradense/",
+        "start": "2026-06-20"
+    },
+    {
         "title": "XIII Campionato Xunta de Galicia de Clubs Sub12 – Sub10 en Pista AL",
         "place": "Barco de Valdeorras, O",
         "url": "https://atletismo.gal/competicions/xiii-campionato-xunta-de-galicia-de-clubs-sub12-sub10-en-pista-al/",
@@ -568,6 +574,12 @@
         "place": "Muxía",
         "url": "https://atletismo.gal/competicions/xi-carreira-pedestre-concello-muxia/",
         "start": "2026-06-21"
+    },
+    {
+        "title": "XVIII Trofeo Alfonso Posada",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/122753/",
+        "start": "2026-06-23"
     },
     {
         "title": "XLIII Copa Deputación Ourense Atletismo – Final Absoluta – Máster",
