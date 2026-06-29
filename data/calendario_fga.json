@@ -216,12 +216,6 @@
         "start": "2026-06-20"
     },
     {
-        "title": "XIII Campionato Xunta de Galicia de Clubs Sub12 – Sub10 en Pista AL – Suspendido",
-        "place": "Barco de Valdeorras, O",
-        "url": "https://atletismo.gal/competicions/xiii-campionato-xunta-de-galicia-de-clubs-sub12-sub10-en-pista-al/",
-        "start": "2026-06-21"
-    },
-    {
         "title": "XI Carreira Pedestre Concello Muxía",
         "place": "Muxía",
         "url": "https://atletismo.gal/competicions/xi-carreira-pedestre-concello-muxia/",
@@ -378,16 +372,16 @@
         "start": "2026-07-18"
     },
     {
-        "title": "XV Campionato Xunta de Galicia de 10 Km Ruta",
-        "place": "Vilagarcía de Arousa",
-        "url": "https://atletismo.gal/competicions/xv-campionato-xunta-de-galicia-de-10-km-ruta/",
-        "start": "2026-07-25"
-    },
-    {
         "title": "+ 10K Marín 2026",
         "place": "Marín",
         "url": "https://atletismo.gal/competicions/10k-marin-2026/",
         "start": "2026-07-25"
+    },
+    {
+        "title": "XV Campionato Xunta de Galicia de 10 Km Ruta",
+        "place": "Vilagarcía de Arousa",
+        "url": "https://atletismo.gal/competicions/xv-campionato-xunta-de-galicia-de-10-km-ruta/",
+        "start": "2026-08-01"
     },
     {
         "title": "XXXIII Cros Popular Piñeiral de Cabanas",
