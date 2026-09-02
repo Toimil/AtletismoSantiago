@@ -1,90 +1,12 @@
 [
     {
-        "title": "XV Campionato Xunta de Galicia de 10 Km Ruta",
-        "place": "Vilagarcía de Arousa",
-        "url": "https://atletismo.gal/competicions/xv-campionato-xunta-de-galicia-de-10-km-ruta/",
-        "start": "2026-08-01"
-    },
-    {
-        "title": "XXII Carreira Nocturna Concello de Vilagarcía",
-        "place": "Vilagarcía de Arousa",
-        "url": "https://atletismo.gal/competicions/xxii-carreira-nocturna-concello-de-vilagarcia/",
-        "start": "2026-08-01"
-    },
-    {
-        "title": "XXXIII Cros Popular Piñeiral de Cabanas",
-        "place": "Cabanas",
-        "url": "https://atletismo.gal/competicions/xxxiii-cros-popular-pineiral-de-cabanas/",
-        "start": "2026-08-02"
-    },
-    {
-        "title": "XXIX Milla e Doble Milla Urbana do Albariño Concello de Cambados",
-        "place": "Cambados",
-        "url": "https://atletismo.gal/competicions/xxix-milla-e-doble-milla-urbana-do-albarino-concello-de-cambados/",
-        "start": "2026-08-07"
-    },
-    {
-        "title": "X Corretroita Popular Concello de Sobrado",
-        "place": "Sobrado",
-        "url": "https://atletismo.gal/competicions/x-corretroita-popular-concello-de-sobrado/",
-        "start": "2026-08-08"
-    },
-    {
-        "title": "XXXIV Milla Urbana Concello de Ares",
-        "place": "Ares",
-        "url": "https://atletismo.gal/competicions/xxxiv-milla-urbana-concello-de-ares/",
-        "start": "2026-08-08"
-    },
-    {
-        "title": "XXXIII Carreira Popular Concello de Cambre",
-        "place": "Cambre",
-        "url": "https://atletismo.gal/competicions/xxxiii-carreira-popular-concello-de-cambre/",
-        "start": "2026-08-15"
-    },
-    {
-        "title": "I Carreira da Festa do Marisco de Barallobre",
-        "place": "Fene",
-        "url": "https://atletismo.gal/competicions/i-carreira-da-festa-do-marisco-de-barallobre/",
-        "start": "2026-08-23"
-    },
-    {
-        "title": "XVIII Carreira Pedestre Popular de Noia",
-        "place": "Noia",
-        "url": "https://atletismo.gal/competicions/xviii-carreira-pedestre-popular-de-noia-2/",
-        "start": "2026-08-29"
-    },
-    {
-        "title": "II Courel Mountain Running",
-        "place": "Folgoso do Courel",
-        "url": "https://atletismo.gal/competicions/ii-courel-mountain-running/",
-        "start": "2026-08-29"
-    },
-    {
-        "title": "XVIII Campionato Xunta de Galicia Trail Running – Carreiras de Montaña",
-        "place": "Folgoso do Courel",
-        "url": "https://atletismo.gal/competicions/xviii-campionato-xunta-de-galicia-trail-running-carreiras-de-montana/",
-        "start": "2026-08-29"
-    },
-    {
-        "title": "XVII Carreira Popular Concello da Pobra do Caramiñal",
-        "place": "Pobra do Caramiñal, A",
-        "url": "https://atletismo.gal/competicions/xvii-carreira-popular-concello-da-pobra-do-caraminal/",
-        "start": "2026-08-30"
-    },
-    {
-        "title": "XV Nigrán Area",
-        "place": "Nigrán",
-        "url": "https://atletismo.gal/competicions/xv-nigran-area/",
-        "start": "2026-08-30"
-    },
-    {
         "title": "XXIII Carreira Pedestre Vila de Corcubión",
         "place": "Corcubión",
         "url": "https://atletismo.gal/competicions/xxiii-carreira-pedestre-vila-de-corcubion/",
         "start": "2026-09-05"
     },
     {
-        "title": "II Carreira do Románico",
+        "title": "II Carreira do Románico – Proba Cancelada",
         "place": "Negreira",
         "url": "https://atletismo.gal/competicions/ii-carreira-do-romanico/",
         "start": "2026-09-05"
@@ -117,6 +39,12 @@
         "title": "XIII Carreira Nocturna Corre por Ferrol",
         "place": "Ferrol",
         "url": "https://atletismo.gal/competicions/xiii-carreira-nocturna-corre-por-ferrol/",
+        "start": "2026-09-11"
+    },
+    {
+        "title": "Control FGA Sub14 Aire Libre – Vigo 2026",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/control-fga-sub14-aire-libre-vigo-2026/",
         "start": "2026-09-11"
     },
     {
@@ -252,6 +180,12 @@
         "start": "2026-10-03"
     },
     {
+        "title": "5+​5 Da Rosquilla 2026",
+        "place": "Ponteareas",
+        "url": "https://atletismo.gal/competicions/55-da-rosquilla-2026/",
+        "start": "2026-10-03"
+    },
+    {
         "title": "XX Carreira Popular Coruña 10",
         "place": "Coruña, A",
         "url": "https://atletismo.gal/competicions/xx-carreira-popular-coruna-10/",
@@ -300,9 +234,21 @@
         "start": "2026-10-11"
     },
     {
+        "title": "XI Carreira Popular 10K Cambados",
+        "place": "Cambados",
+        "url": "https://atletismo.gal/competicions/xi-carreira-popular-10k-cambados/",
+        "start": "2026-10-11"
+    },
+    {
         "title": "XXI Carreira Pedestre de Lestrobe",
         "place": "Lestrobe",
         "url": "https://atletismo.gal/competicions/xxi-carreira-pedestre-de-lestrobe/",
+        "start": "2026-10-12"
+    },
+    {
+        "title": "III Milla da Hispanidade",
+        "place": "Ribeira",
+        "url": "https://atletismo.gal/competicions/iii-milla-da-hispanidade/",
         "start": "2026-10-12"
     },
     {
@@ -394,5 +340,113 @@
         "place": "Ribeira",
         "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-saltos-horizontais-pntd/",
         "start": "2026-10-31"
+    },
+    {
+        "title": "IX Cross Ponte Romana 2026",
+        "place": "Lugo",
+        "url": "https://atletismo.gal/competicions/ix-cross-ponte-romana-2026/",
+        "start": "2026-11-01"
+    },
+    {
+        "title": "PGTA 2026 – Sesión Técnica Valos (PNTD)",
+        "place": "Lugo",
+        "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-valos-pntd/",
+        "start": "2026-11-07"
+    },
+    {
+        "title": "I Circuíto de Atletismo Concello de Vigo – 3ª Xornada",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/i-circuito-de-atletismo-concello-de-vigo-3a-xornada/",
+        "start": "2026-11-07"
+    },
+    {
+        "title": "XLIX Carreira Pedestre Popular do San Martiño",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/xlix-carreira-pedestre-popular-do-san-martino/",
+        "start": "2026-11-08"
+    },
+    {
+        "title": "PGTA 2026 – Sesión Técnica Trail Running (PNTD)",
+        "place": "Cuntis",
+        "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-trail-running-pntd/",
+        "start": "2026-11-14"
+    },
+    {
+        "title": "PGTA 2026 – Sesión Técnica Marcha (PNTD)",
+        "place": "Santiago de Compostela",
+        "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-marcha-pntd/",
+        "start": "2026-11-14"
+    },
+    {
+        "title": "Corresan Ruta da Prata 2026 – Manolo Moure – XII Circuíto Carreiras Saudables CorreSan",
+        "place": "Santiago de Compostela",
+        "url": "https://atletismo.gal/competicions/corresan-ruta-da-prata-manolo-moure-xii-circuito-carreiras-saudables-corresan/",
+        "start": "2026-11-14"
+    },
+    {
+        "title": "Campionato de España Master 5 Km. ruta 2026",
+        "place": "Negreira",
+        "url": "https://atletismo.gal/competicions/campionato-de-espana-master-5-km-ruta-2026/",
+        "start": "2026-11-15"
+    },
+    {
+        "title": "XLV Carreira Internacional de Negreira – A Clásica",
+        "place": "Negreira",
+        "url": "https://atletismo.gal/competicions/xlv-carreira-internacional-de-negreira-a-clasica/",
+        "start": "2026-11-15"
+    },
+    {
+        "title": "XXVIII A 21 Media Maratón de Vigo",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/xxviii-la21-media-maraton-de-vigo/",
+        "start": "2026-11-15"
+    },
+    {
+        "title": "XIX Campionato Xunta de Galicia de Marcha de Inverno",
+        "place": "Pontevedra",
+        "url": "https://atletismo.gal/competicions/xix-campionato-xunta-de-galicia-de-marcha-de-inverno/",
+        "start": "2026-11-21"
+    },
+    {
+        "title": "I Circuíto de Atletismo en Pista Deputación de Pontevedra – Xornada 3",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/i-circuito-de-atletismo-en-pista-deputacion-de-pontevedra-xornada-3/",
+        "start": "2026-11-21"
+    },
+    {
+        "title": "PGTA 2026 – Sesión Técnica Saltos Verticais (mañá)",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-saltos-verticais-mana/",
+        "start": "2026-11-21"
+    },
+    {
+        "title": "PGTA 2026 – Sesión Técnica Saltos Verticais (tarde)",
+        "place": "Lugo",
+        "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-saltos-verticais-tarde/",
+        "start": "2026-11-21"
+    },
+    {
+        "title": "I Carreira das Cidades contra o Cancro de Páncreas",
+        "place": "Santiago de Compostela",
+        "url": "https://atletismo.gal/competicions/i-carreira-das-cidades-contra-o-cancro-de-pancreas/",
+        "start": "2026-11-22"
+    },
+    {
+        "title": "XIV Carreira Popular Novo Mesoiro",
+        "place": "Coruña, A",
+        "url": "https://atletismo.gal/competicions/xiv-carreira-popular-novo-mesoiro/",
+        "start": "2026-11-22"
+    },
+    {
+        "title": "XI Carreira Pedestre de Ribadavia",
+        "place": "Ribadavia",
+        "url": "https://atletismo.gal/competicions/xi-carreira-pedestre-de-ribadavia/",
+        "start": "2026-11-22"
+    },
+    {
+        "title": "I Circuíto de Atletismo en Pista Deputación de Pontevedra – Xornada 4",
+        "place": "Pontevedra",
+        "url": "https://atletismo.gal/competicions/i-circuito-de-atletismo-en-pista-deputacion-de-pontevedra-xornada-4/",
+        "start": "2026-11-28"
     }
 ]
