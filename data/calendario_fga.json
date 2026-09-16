@@ -132,6 +132,12 @@
         "start": "2026-09-26"
     },
     {
+        "title": "III Milla Cidade de Vigo",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/iii-milla-cidade-de-vigo/",
+        "start": "2026-09-26"
+    },
+    {
         "title": "IX Trail da Baña – Serie Ouro",
         "place": "Baña, A",
         "url": "https://atletismo.gal/competicions/x-trail-da-bana/",
@@ -186,6 +192,12 @@
         "start": "2026-10-03"
     },
     {
+        "title": "Trail do Xurés 2026",
+        "place": "Muiños",
+        "url": "https://atletismo.gal/competicions/trail-do-xures-2026/",
+        "start": "2026-10-03"
+    },
+    {
         "title": "XX Carreira Popular Coruña 10",
         "place": "Coruña, A",
         "url": "https://atletismo.gal/competicions/xx-carreira-popular-coruna-10/",
@@ -195,12 +207,6 @@
         "title": "IV Carreira e Camiñada Solidaria de Leo",
         "place": "Meis",
         "url": "https://atletismo.gal/competicions/iv-carreira-e-caminada-solidaria-de-leo/",
-        "start": "2026-10-04"
-    },
-    {
-        "title": "III Milla Cidade de Vigo",
-        "place": "Vigo",
-        "url": "https://atletismo.gal/competicions/iii-milla-cidade-de-vigo/",
         "start": "2026-10-04"
     },
     {
@@ -267,6 +273,12 @@
         "title": "IV Trail Concello de Mañón",
         "place": "Mañón",
         "url": "https://atletismo.gal/competicions/iv-trail-concello-de-manon/",
+        "start": "2026-10-17"
+    },
+    {
+        "title": "Milla Internacional del Cantábrico 2026",
+        "place": "Viveiro",
+        "url": "https://atletismo.gal/competicions/milla-internacional-del-cantabrico-2026/",
         "start": "2026-10-17"
     },
     {
@@ -372,6 +384,12 @@
         "start": "2026-11-08"
     },
     {
+        "title": "IX Trail das Bestas",
+        "place": "Muras",
+        "url": "https://atletismo.gal/competicions/ix-trail-das-bestas/",
+        "start": "2026-11-08"
+    },
+    {
         "title": "PGTA 2026 – Sesión Técnica Trail Running (PNTD)",
         "place": "Cuntis",
         "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-trail-running-pntd/",
@@ -459,6 +477,12 @@
         "title": "Campionato Xunta de Galicia de Medio Maratón 2026",
         "place": "Vilagarcía de Arousa",
         "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-medio-maraton-2026/",
+        "start": "2026-11-29"
+    },
+    {
+        "title": "III Correndo entre Auga, Mondariz Balneario",
+        "place": "Mondariz Balneario",
+        "url": "https://atletismo.gal/competicions/iii-correndo-entre-auga-mondariz-balneario/",
         "start": "2026-11-29"
     }
 ]
