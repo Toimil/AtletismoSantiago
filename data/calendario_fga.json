@@ -132,7 +132,7 @@
         "start": "2026-09-26"
     },
     {
-        "title": "III Milla Cidade de Vigo",
+        "title": "III Milla Cidade de Vigo – Proba Aprazada",
         "place": "Vigo",
         "url": "https://atletismo.gal/competicions/iii-milla-cidade-de-vigo/",
         "start": "2026-09-26"
@@ -330,6 +330,12 @@
         "start": "2026-10-18"
     },
     {
+        "title": "XIII Campionato Xunta de Galicia de Clubs Sub12 – Sub10 en Pista AL",
+        "place": "Barco de Valdeorras, O",
+        "url": "https://atletismo.gal/competicions/xiii-campionato-xunta-de-galicia-de-clubs-sub12-sub10-en-pista-al/",
+        "start": "2026-10-24"
+    },
+    {
         "title": "XLVII Carreira Pedestre Popular de Santiago – El Correo Gallego",
         "place": "Santiago de Compostela",
         "url": "https://atletismo.gal/competicions/xlvii-carreira-pedestre-popular-de-santiago-el-correo-gallego/",
@@ -352,12 +358,6 @@
         "place": "Lugo",
         "url": "https://atletismo.gal/competicions/pgta-2026-ii-sesion-tecnica-velocidade/",
         "start": "2026-10-30"
-    },
-    {
-        "title": "XIII Campionato Xunta de Galicia de Clubs Sub12 – Sub10 en Pista AL",
-        "place": "Barco de Valdeorras, O",
-        "url": "https://atletismo.gal/competicions/xiii-campionato-xunta-de-galicia-de-clubs-sub12-sub10-en-pista-al/",
-        "start": "2026-10-31"
     },
     {
         "title": "XII Carreira Popular Concello de Rianxo",
