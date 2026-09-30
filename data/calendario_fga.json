@@ -210,6 +210,12 @@
         "start": "2026-10-04"
     },
     {
+        "title": "XI European Police & Fire Games",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/xi-european-police-fire-games/",
+        "start": "2026-10-09"
+    },
+    {
         "title": "XXXIV Campionato Xunta de Galicia de Clubs Sub20",
         "place": "Pontevedra",
         "url": "https://atletismo.gal/competicions/xxxiv-campionato-xunta-de-galicia-de-clubs-sub20/",
@@ -252,7 +258,7 @@
         "start": "2026-10-11"
     },
     {
-        "title": "I Carreira Populra Activaemos",
+        "title": "I Carreira Popular Activaemos",
         "place": "Mos",
         "url": "https://atletismo.gal/competicions/i-carreira-populra-activaemos/",
         "start": "2026-10-11"
@@ -378,12 +384,6 @@
         "start": "2026-11-01"
     },
     {
-        "title": "III Carreira Camiños da Vía Verde – Deputación da Coruña",
-        "place": "Ordes",
-        "url": "https://atletismo.gal/competicions/iii-carreira-caminos-da-via-verde-deputacion-da-coruna/",
-        "start": "2026-11-01"
-    },
-    {
         "title": "PGTA 2026 – Sesión Técnica Valos (PNTD)",
         "place": "Lugo",
         "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-valos-pntd/",
@@ -474,6 +474,12 @@
         "start": "2026-11-21"
     },
     {
+        "title": "III Carreira Camiños da Vía Verde – Deputación da Coruña",
+        "place": "Ordes",
+        "url": "https://atletismo.gal/competicions/iii-carreira-caminos-da-via-verde-deputacion-da-coruna/",
+        "start": "2026-11-21"
+    },
+    {
         "title": "I Carreira das Cidades contra o Cancro de Páncreas",
         "place": "Santiago de Compostela",
         "url": "https://atletismo.gal/competicions/i-carreira-das-cidades-contra-o-cancro-de-pancreas/",
@@ -495,6 +501,12 @@
         "title": "I Circuíto de Atletismo en Pista Deputación de Pontevedra – Xornada 4",
         "place": "Pontevedra",
         "url": "https://atletismo.gal/competicions/i-circuito-de-atletismo-en-pista-deputacion-de-pontevedra-xornada-4/",
+        "start": "2026-11-28"
+    },
+    {
+        "title": "XXIX Cros Guillelme Brown",
+        "place": "Pereiro de Aguiar, O",
+        "url": "https://atletismo.gal/competicions/xxix-cros-guillelme-brown/",
         "start": "2026-11-28"
     },
     {
