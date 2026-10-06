@@ -78,6 +78,18 @@
         "start": "2026-10-10"
     },
     {
+        "title": "PGTA 2026 – Sesión Técnica Marcha (Portas Abertas)",
+        "place": "Lalín",
+        "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-marcha-portas-abertas/",
+        "start": "2026-10-10"
+    },
+    {
+        "title": "PGTA 2026 – Sesión Técnica Velocidade (Portas Abertas)",
+        "place": "Lalín",
+        "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-velocidade-portas-abertas/",
+        "start": "2026-10-10"
+    },
+    {
         "title": "XI Carreira Pedestre Concello de Fisterra",
         "place": "Fisterra",
         "url": "https://atletismo.gal/competicions/xi-carreira-pedestre-concello-de-fisterra/",
@@ -138,9 +150,21 @@
         "start": "2026-10-17"
     },
     {
+        "title": "PGTA 2026 – Sesión Técnica Combinadas (PNTD)",
+        "place": "Lugo",
+        "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-combinadas-pntd/",
+        "start": "2026-10-17"
+    },
+    {
         "title": "Milla Internacional del Cantábrico 2026",
         "place": "Viveiro",
         "url": "https://atletismo.gal/competicions/milla-internacional-del-cantabrico-2026/",
+        "start": "2026-10-17"
+    },
+    {
+        "title": "PGTA 2026 – Sesión Técnica Velocidade (PNTD)",
+        "place": "Lugo",
+        "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-velocidade-pntd/",
         "start": "2026-10-17"
     },
     {
@@ -153,12 +177,6 @@
         "title": "Carreira da Carballeira 2026",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/carreira-da-carballeira-2026/",
-        "start": "2026-10-18"
-    },
-    {
-        "title": "PGTA 2026 – Sesión Técnica Combinadas (PNTD)",
-        "place": "Lugo",
-        "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-combinadas-pntd/",
         "start": "2026-10-18"
     },
     {
@@ -177,6 +195,12 @@
         "title": "XIII Campionato Xunta de Galicia de Clubs Sub12 – Sub10 en Pista AL",
         "place": "Barco de Valdeorras, O",
         "url": "https://atletismo.gal/competicions/xiii-campionato-xunta-de-galicia-de-clubs-sub12-sub10-en-pista-al/",
+        "start": "2026-10-24"
+    },
+    {
+        "title": "PGTA 2026 – Sesión Técnica Trail Running – Lalín",
+        "place": "Lalín",
+        "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-trail-running-lalin/",
         "start": "2026-10-24"
     },
     {
@@ -348,6 +372,12 @@
         "start": "2026-11-28"
     },
     {
+        "title": "PGTA 2026 – Sesión Técnica Salto de Altura (PNTD)",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-salto-de-altura-pntd/",
+        "start": "2026-11-28"
+    },
+    {
         "title": "Campionato Xunta de Galicia de Medio Maratón 2026",
         "place": "Vilagarcía de Arousa",
         "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-medio-maraton-2026/",
@@ -393,6 +423,12 @@
         "title": "II Circuíto Galego de Lanzamentos Longos – 5ª Xornada",
         "place": "Ordes",
         "url": "https://atletismo.gal/competicions/ii-circuito-galego-de-lanzamentos-longos-5a-xornada/",
+        "start": "2026-12-12"
+    },
+    {
+        "title": "PGTA 2026 – Sesión Técnica Trail Running – Vilagarcía de Arousa",
+        "place": "Vilagarcía de Arousa",
+        "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-trail-running-vilagarcia-de-arousa/",
         "start": "2026-12-12"
     },
     {
