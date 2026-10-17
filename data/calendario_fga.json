@@ -43,7 +43,7 @@
     },
     {
         "title": "Marcha Fina Acuña 2026",
-        "place": "Bueu e Moaña",
+        "place": "Bueu - Moaña",
         "url": "https://atletismo.gal/competicions/marcha-fina-acuna-2026/",
         "start": "2026-10-04"
     },
@@ -300,6 +300,12 @@
         "start": "2026-11-08"
     },
     {
+        "title": "XIII Milla Solidaria Anedia",
+        "place": "Pontevedra",
+        "url": "https://atletismo.gal/competicions/xiii-milla-solidaria-anedia/",
+        "start": "2026-11-08"
+    },
+    {
         "title": "PGTA 2026 – Sesión Técnica Trail Running (PNTD)",
         "place": "Cuntis",
         "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-trail-running-pntd/",
@@ -387,6 +393,12 @@
         "title": "XI Carreira Pedestre de Ribadavia",
         "place": "Ribadavia",
         "url": "https://atletismo.gal/competicions/xi-carreira-pedestre-de-ribadavia/",
+        "start": "2026-11-22"
+    },
+    {
+        "title": "XVIII Carreira Popular dos Santiños",
+        "place": "Barco de Valdeorras, O",
+        "url": "https://atletismo.gal/competicions/xviii-carreira-popular-dos-santinos/",
         "start": "2026-11-22"
     },
     {
@@ -480,6 +492,12 @@
         "start": "2026-12-13"
     },
     {
+        "title": "X Carreira Nocturna de Sada “Ninguén sen Nadal”",
+        "place": "Sada",
+        "url": "https://atletismo.gal/competicions/x-carreira-nocturna-de-sada-ninguen-sen-nadal/",
+        "start": "2026-12-18"
+    },
+    {
         "title": "Control de Marcas de Inverno CAR 2026",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/control-de-marcas-de-inverno-car-2026/",
@@ -489,6 +507,12 @@
         "title": "XV Sin Son 10 K",
         "place": "Porto do Son, O",
         "url": "https://atletismo.gal/competicions/xv-sin-son-10-k/",
+        "start": "2026-12-20"
+    },
+    {
+        "title": "XXIII Carreira do Nadal de San Cibrao das Viñas",
+        "place": "San Cibrao das Viñas",
+        "url": "https://atletismo.gal/competicions/xxiii-carreira-do-nadal-de-san-cibrao-das-vinas/",
         "start": "2026-12-20"
     },
     {
@@ -507,6 +531,12 @@
         "title": "Circuíto Galego de Marcha Atlética 2026 – Última xornada",
         "place": "A designar",
         "url": "https://atletismo.gal/competicions/circuito-galego-de-marcha-atletica-2026-ultima-xornada/",
+        "start": "2026-12-27"
+    },
+    {
+        "title": "XXI Carreira Popular de Fin de Ano Mugardos – Ares – Mugardos",
+        "place": "Mugardos",
+        "url": "https://atletismo.gal/competicions/xxi-carreira-popular-de-fin-de-ano-mugardos-ares-mugardos/",
         "start": "2026-12-27"
     }
 ]
