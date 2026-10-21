@@ -252,6 +252,12 @@
         "start": "2026-11-01"
     },
     {
+        "title": "XOGADE – Cros Carballo 2026",
+        "place": "Carballo",
+        "url": "https://atletismo.gal/competicions/xogade-cros-carballo-2026/",
+        "start": "2026-11-06"
+    },
+    {
         "title": "PGTA 2026 – Sesión Técnica Valos (PNTD)",
         "place": "Lugo",
         "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-valos-pntd/",
@@ -426,12 +432,6 @@
         "start": "2026-11-28"
     },
     {
-        "title": "Campionato Xunta de Galicia de Medio Maratón 2026",
-        "place": "Vilagarcía de Arousa",
-        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-medio-maraton-2026/",
-        "start": "2026-11-29"
-    },
-    {
         "title": "I Circuíto de Atletismo en Pista Deputación de Pontevedra – Xornada 5",
         "place": "Vigo",
         "url": "https://atletismo.gal/competicions/i-circuito-de-atletismo-en-pista-deputacion-de-pontevedra-xornada-5/",
@@ -454,6 +454,12 @@
         "place": "Pontevedra",
         "url": "https://atletismo.gal/competicions/pgta-2026-ii-sesion-tecnica-lanzamentos/",
         "start": "2026-12-06"
+    },
+    {
+        "title": "Campionato Xunta de Galicia de Medio Maratón 2026",
+        "place": "Vilagarcía de Arousa",
+        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-medio-maraton-2026/",
+        "start": "2026-12-08"
     },
     {
         "title": "II Campionato Xunta de Galicia de Clubs Sub16 en Pista Curta",
@@ -531,6 +537,12 @@
         "title": "XXI Carreira Popular de Fin de Ano Mugardos – Ares – Mugardos",
         "place": "Mugardos",
         "url": "https://atletismo.gal/competicions/xxi-carreira-popular-de-fin-de-ano-mugardos-ares-mugardos/",
+        "start": "2026-12-27"
+    },
+    {
+        "title": "II Campionato Xunta de Galicia de Trail Running Maratón",
+        "place": "Lousame",
+        "url": "https://atletismo.gal/competicions/ii-campionato-xunta-de-galicia-de-trail-running-maraton/",
         "start": "2026-12-27"
     }
 ]
