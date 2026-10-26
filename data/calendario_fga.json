@@ -408,6 +408,12 @@
         "start": "2026-11-22"
     },
     {
+        "title": "VII Carreira e Camiñada contra a Violencia Machista",
+        "place": "Ferrol",
+        "url": "https://atletismo.gal/competicions/vii-carreira-e-caminada-contra-a-violencia-machista/",
+        "start": "2026-11-22"
+    },
+    {
         "title": "I Circuíto de Atletismo en Pista Deputación de Pontevedra – Xornada 4",
         "place": "Pontevedra",
         "url": "https://atletismo.gal/competicions/i-circuito-de-atletismo-en-pista-deputacion-de-pontevedra-xornada-4/",
@@ -556,5 +562,11 @@
         "place": "Lousame",
         "url": "https://atletismo.gal/competicions/ii-campionato-xunta-de-galicia-de-trail-running-maraton/",
         "start": "2026-12-27"
+    },
+    {
+        "title": "IX San Silvestre Ordes",
+        "place": "Ordes",
+        "url": "https://atletismo.gal/competicions/ix-san-silvestre-ordes/",
+        "start": "2026-12-31"
     }
 ]
