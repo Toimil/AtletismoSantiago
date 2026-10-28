@@ -312,6 +312,12 @@
         "start": "2026-11-08"
     },
     {
+        "title": "XIII “Ferrol, en marcha contra o cancro”",
+        "place": "Ferrol",
+        "url": "https://atletismo.gal/competicions/xiii-ferrol-en-marcha-contra-o-cancro/",
+        "start": "2026-11-08"
+    },
+    {
         "title": "PGTA 2026 – Sesión Técnica Trail Running (PNTD)",
         "place": "Cuntis",
         "url": "https://atletismo.gal/competicions/pgta-2026-sesion-tecnica-trail-running-pntd/",
@@ -567,6 +573,12 @@
         "title": "IX San Silvestre Ordes",
         "place": "Ordes",
         "url": "https://atletismo.gal/competicions/ix-san-silvestre-ordes/",
+        "start": "2026-12-31"
+    },
+    {
+        "title": "XXVIII Carreira de San Silvestre Castrelo de Miño",
+        "place": "Castrelo de Miño",
+        "url": "https://atletismo.gal/competicions/xxviii-carreira-de-san-silvestre-castrelo-de-mino/",
         "start": "2026-12-31"
     }
 ]
