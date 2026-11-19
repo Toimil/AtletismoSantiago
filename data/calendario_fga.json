@@ -150,6 +150,12 @@
         "start": "2026-11-21"
     },
     {
+        "title": "III Milla Cidade de Vigo",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/iii-milla-cidade-de-vigo/",
+        "start": "2026-11-21"
+    },
+    {
         "title": "Xogade – Cros – ADE As Burgas – Fase Previa 2026/2027",
         "place": "Pereiro de Aguiar, O",
         "url": "https://atletismo.gal/competicions/xogade-cros-ade-as-burgas-fase-previa-2026-2027/",
@@ -184,6 +190,24 @@
         "place": "Ferrol",
         "url": "https://atletismo.gal/competicions/vii-carreira-e-caminada-contra-a-violencia-machista/",
         "start": "2026-11-22"
+    },
+    {
+        "title": "Asemblea Xeral Ordinaria FGA – 22/11/2026",
+        "place": "Santiago de Compostela",
+        "url": "https://atletismo.gal/competicions/asemblea-xeral-ordinaria-fga-22-11-2026/",
+        "start": "2026-11-22"
+    },
+    {
+        "title": "Xogade – Cros – Horario Lectivo – Aldea Novas – 1ª Xornada Previa – 2026/2027",
+        "place": "Ames",
+        "url": "https://atletismo.gal/competicions/xogade-cros-horario-lectivo-aldea-novas-1a-xornada-previa-2026-2027/",
+        "start": "2026-11-24"
+    },
+    {
+        "title": "Xogade – Cros – Horario Lectivo – Aldea Novas – 2ª Xornada Previa – 2026/2027",
+        "place": "Ames",
+        "url": "https://atletismo.gal/competicions/xogade-cros-horario-lectivo-aldea-novas-2a-xornada-previa-2026-2027/",
+        "start": "2026-11-25"
     },
     {
         "title": "I Circuíto de Atletismo en Pista Deputación de Pontevedra – Xornada 4",
@@ -312,6 +336,12 @@
         "start": "2026-12-13"
     },
     {
+        "title": "II Trail Monte Acibal",
+        "place": "Moraña",
+        "url": "https://atletismo.gal/competicions/ii-trail-monte-acibal/",
+        "start": "2026-12-13"
+    },
+    {
         "title": "X Carreira Nocturna de Sada “Ninguén sen Nadal”",
         "place": "Sada",
         "url": "https://atletismo.gal/competicions/x-carreira-nocturna-de-sada-ninguen-sen-nadal/",
@@ -354,9 +384,9 @@
         "start": "2026-12-26"
     },
     {
-        "title": "Circuíto Galego de Marcha Atlética 2026 – Última xornada",
-        "place": "A designar",
-        "url": "https://atletismo.gal/competicions/circuito-galego-de-marcha-atletica-2026-ultima-xornada/",
+        "title": "Circuíto Galego de Marcha Atlética 2026 – Xornada Ames",
+        "place": "Ames",
+        "url": "https://atletismo.gal/competicions/circuito-galego-de-marcha-atletica-2026-xornada-ames/",
         "start": "2026-12-27"
     },
     {
@@ -384,6 +414,18 @@
         "start": "2026-12-31"
     },
     {
+        "title": "San Silvestre Vigo 2026",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/san-silvestre-vigo-2026/",
+        "start": "2026-12-31"
+    },
+    {
+        "title": "XI San Silvestre Ourensá",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/xi-san-silvestre-ourensa/",
+        "start": "2026-12-31"
+    },
+    {
         "title": "VIII Trofeo + Deporte La Región en Pista Curta",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/viii-trofeo-deporte-la-region-en-pista-curta/",
@@ -394,5 +436,17 @@
         "place": "Marín",
         "url": "https://atletismo.gal/competicions/gala-do-atletismo-galego-2026/",
         "start": "2027-01-15"
+    },
+    {
+        "title": "Control de Invierno La Mochila del Deporte 2027",
+        "place": "Coruña, A",
+        "url": "https://atletismo.gal/competicions/control-de-invierno-la-mochila-del-deporte-2027/",
+        "start": "2027-01-22"
+    },
+    {
+        "title": "XXIV Padrón 10K",
+        "place": "Padrón",
+        "url": "https://atletismo.gal/competicions/xxiv-padron-10k/",
+        "start": "2027-01-30"
     }
 ]
