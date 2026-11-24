@@ -96,7 +96,7 @@
         "start": "2026-11-14"
     },
     {
-        "title": "Campionato de España Master 5 Km. ruta 2026",
+        "title": "Campionato de España Máster 5 Km. ruta 2026",
         "place": "Negreira",
         "url": "https://atletismo.gal/competicions/campionato-de-espana-master-5-km-ruta-2026/",
         "start": "2026-11-15"
@@ -354,9 +354,21 @@
         "start": "2026-12-18"
     },
     {
+        "title": "Campionato Xunta de Galicia de Probas Combinadas Clubs en Pista Curta – Criterium de Combinadas de Inverno 2026",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-probas-combinadas-clubs-en-pista-curta-criterium-de-combinadas-de-inverno-2026/",
+        "start": "2026-12-19"
+    },
+    {
         "title": "Control de Marcas de Inverno CAR 2026",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/control-de-marcas-de-inverno-car-2026/",
+        "start": "2026-12-19"
+    },
+    {
+        "title": "Trofeo Solidario do Nadal 2026",
+        "place": "Vigo",
+        "url": "https://atletismo.gal/competicions/trofeo-solidario-do-nadal-2026/",
         "start": "2026-12-19"
     },
     {
@@ -370,12 +382,6 @@
         "place": "San Cibrao das Viñas",
         "url": "https://atletismo.gal/competicions/xxiii-carreira-do-nadal-de-san-cibrao-das-vinas/",
         "start": "2026-12-20"
-    },
-    {
-        "title": "Campionato Xunta de Galicia de Probas Combinadas Clubs en Pista Curta – Criterium de Combinadas de Inverno 2026",
-        "place": "Ourense",
-        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-probas-combinadas-clubs-en-pista-curta-criterium-de-combinadas-de-inverno-2026/",
-        "start": "2026-12-26"
     },
     {
         "title": "III San Silvestre do Pino",
@@ -426,10 +432,40 @@
         "start": "2026-12-31"
     },
     {
+        "title": "San Silvestre de Santiago 2026",
+        "place": "Santiago de Compostela",
+        "url": "https://atletismo.gal/competicions/san-silvestre-de-santiago-2026/",
+        "start": "2026-12-31"
+    },
+    {
         "title": "VIII Trofeo + Deporte La Región en Pista Curta",
         "place": "Ourense",
         "url": "https://atletismo.gal/competicions/viii-trofeo-deporte-la-region-en-pista-curta/",
         "start": "2027-01-03"
+    },
+    {
+        "title": "III Circuíto Galego de Lanzamentos Longos",
+        "place": "Varias sedes",
+        "url": "https://atletismo.gal/competicions/iii-circuito-galego-de-lanzamentos-longos/",
+        "start": "2027-01-09"
+    },
+    {
+        "title": "III Circuíto Galego de Lanzamentos Longos – 1ª Xornada",
+        "place": "A designar",
+        "url": "https://atletismo.gal/competicions/iii-circuito-galego-de-lanzamentos-longos-1a-xornada/",
+        "start": "2027-01-09"
+    },
+    {
+        "title": "XXXVI Campionato Xunta de Galicia de Probas Combinadas Absoluto – Sub23 – VIII Máster en Pista Curta",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/xxxvi-campionato-xunta-de-galicia-de-probas-combinadas-absoluto-sub23-viii-master-en-pista-curta/",
+        "start": "2027-01-09"
+    },
+    {
+        "title": "Campionato Xunta de Galicia de Campo a Través Absoluto – Sub23 – Sub20 – Sub18 – Sub16 – Individual e Clubs 2027",
+        "place": "A designar",
+        "url": "https://atletismo.gal/competicions/campionato-xunta-de-galicia-de-campo-a-traves-absoluto-sub23-sub20-sub18-sub16-individual-e-clubs-2027/",
+        "start": "2027-01-10"
     },
     {
         "title": "Gala do Atletismo Galego 2026",
@@ -438,10 +474,70 @@
         "start": "2027-01-15"
     },
     {
+        "title": "XXII Copa de Clubs Absoluta en Pista Curta",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/xxii-copa-de-clubs-absoluta-en-pista-curta/",
+        "start": "2027-01-16"
+    },
+    {
+        "title": "Circuíto Galego de Marcha Atlética 2027",
+        "place": "Varias sedes",
+        "url": "https://atletismo.gal/competicions/circuito-galego-de-marcha-atletica-2027/",
+        "start": "2027-01-17"
+    },
+    {
+        "title": "XXXVIII Campionato Xunta de Galicia de Marcha en Ruta",
+        "place": "A designar",
+        "url": "https://atletismo.gal/competicions/xxxviii-campionato-xunta-de-galicia-de-marcha-en-ruta/",
+        "start": "2027-01-17"
+    },
+    {
+        "title": "XXII Campionato Xunta de Galicia de Atletismo Máster en Pista Curta (Agás Marcha)",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/xxii-campionato-xunta-de-galicia-de-atletismo-master-en-pista-curta/",
+        "start": "2027-01-17"
+    },
+    {
         "title": "Control de Invierno La Mochila del Deporte 2027",
         "place": "Coruña, A",
         "url": "https://atletismo.gal/competicions/control-de-invierno-la-mochila-del-deporte-2027/",
         "start": "2027-01-22"
+    },
+    {
+        "title": "XXXVIII Campionato Xunta de Galicia de Atletismo Sub16 en Pista Curta (Agás 600 m. – 1.000 m. – 3.000 m.)",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/xxxviii-campionato-xunta-de-galicia-de-atletismo-sub16-en-pista-curta/",
+        "start": "2027-01-23"
+    },
+    {
+        "title": "XXXVII Campionato Xunta de Galicia de Probas Combinadas Absoluto – Sub16",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/xxxvii-campionato-xunta-de-galicia-de-probas-combinadas-absoluto-sub16/",
+        "start": "2027-01-23"
+    },
+    {
+        "title": "Campionato de España de Campo a Través Sub18 – Sub16 e Inclusivo por SSAA 2027",
+        "place": "Ribadavia",
+        "url": "https://atletismo.gal/competicions/campionato-de-espana-de-campo-a-traves-sub18-sub16-e-inclusivo-por-ssaa-2027/",
+        "start": "2027-01-23"
+    },
+    {
+        "title": "XXXI Campionato Xunta de Galicia de Atletismo Sub23 en Pista Curta",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/xxxi-campionato-xunta-de-galicia-de-atletismo-sub23-en-pista-curta/",
+        "start": "2027-01-24"
+    },
+    {
+        "title": "III Circuíto Galego de Lanzamentos Longos – 2ª Xornada",
+        "place": "A designar",
+        "url": "https://atletismo.gal/competicions/iii-circuito-galego-de-lanzamentos-longos-2a-xornada/",
+        "start": "2027-01-24"
+    },
+    {
+        "title": "Campionato de España de Campo a Través Individual e por FFAA 2027",
+        "place": "Ribadavia",
+        "url": "https://atletismo.gal/competicions/campionato-de-espana-de-campo-a-traves-individual-e-por-ffaa-2027/",
+        "start": "2027-01-24"
     },
     {
         "title": "Gala do Trail Running Galego 2026",
@@ -454,5 +550,35 @@
         "place": "Padrón",
         "url": "https://atletismo.gal/competicions/xxiv-padron-10k/",
         "start": "2027-01-30"
+    },
+    {
+        "title": "XXXVIII Campionato Xunta de Galicia Sub16 de 600 m. – 1.000 m. – 3.000 m. en Pista Curta",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/xxxviii-campionato-xunta-de-galicia-sub16-de-600-m-1-000-m-3-000-m-en-pista-curta/",
+        "start": "2027-01-30"
+    },
+    {
+        "title": "IX Campionato Xunta de Galicia de Lanzamentos Longos Sub16",
+        "place": "A designar",
+        "url": "https://atletismo.gal/competicions/ix-campionato-xunta-de-galicia-de-lanzamentos-longos-sub16/",
+        "start": "2027-01-30"
+    },
+    {
+        "title": "Campionato de España de Short Track por Clubs – Copa Joma – Copa Iberdrola 2027",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/campionato-de-espana-de-short-track-por-clubs-copa-joma-copa-iberdrola-2027/",
+        "start": "2027-01-30"
+    },
+    {
+        "title": "XLII Campionato Xunta de Galicia de Atletismo Absoluto en Pista Curta",
+        "place": "Ourense",
+        "url": "https://atletismo.gal/competicions/xlii-campionato-xunta-de-galicia-de-atletismo-absoluto-en-pista-curta/",
+        "start": "2027-01-31"
+    },
+    {
+        "title": "XI Campionato Xunta de Galicia de Lanzamentos Longos Máster",
+        "place": "A designar",
+        "url": "https://atletismo.gal/competicions/xi-campionato-xunta-de-galicia-de-lanzamentos-longos-master/",
+        "start": "2027-01-31"
     }
 ]
