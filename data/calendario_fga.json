@@ -198,18 +198,6 @@
         "start": "2026-11-22"
     },
     {
-        "title": "Xogade – Cros – Horario Lectivo – Aldea Novas – 1ª Xornada Previa – 2026/2027",
-        "place": "Ames",
-        "url": "https://atletismo.gal/competicions/xogade-cros-horario-lectivo-aldea-novas-1a-xornada-previa-2026-2027/",
-        "start": "2026-11-24"
-    },
-    {
-        "title": "Xogade – Cros – Horario Lectivo – Aldea Novas – 2ª Xornada Previa – 2026/2027",
-        "place": "Ames",
-        "url": "https://atletismo.gal/competicions/xogade-cros-horario-lectivo-aldea-novas-2a-xornada-previa-2026-2027/",
-        "start": "2026-11-25"
-    },
-    {
         "title": "I Circuíto de Atletismo en Pista Deputación de Pontevedra – Xornada 4",
         "place": "Pontevedra",
         "url": "https://atletismo.gal/competicions/i-circuito-de-atletismo-en-pista-deputacion-de-pontevedra-xornada-4/",
@@ -238,6 +226,18 @@
         "place": "Ferrol",
         "url": "https://atletismo.gal/competicions/iv-circuito-deputacion-a-coruna-en-pista-2026-3a-xornada/",
         "start": "2026-11-28"
+    },
+    {
+        "title": "Xogade – Cros – Horario Lectivo – Aldea Novas – 1ª Xornada Previa – 2026/2027",
+        "place": "Ames",
+        "url": "https://atletismo.gal/competicions/xogade-cros-horario-lectivo-aldea-novas-1a-xornada-previa-2026-2027/",
+        "start": "2026-11-30"
+    },
+    {
+        "title": "Xogade – Cros – Horario Lectivo – Aldea Novas – 2ª Xornada Previa – 2026/2027",
+        "place": "Ames",
+        "url": "https://atletismo.gal/competicions/xogade-cros-horario-lectivo-aldea-novas-2a-xornada-previa-2026-2027/",
+        "start": "2026-12-01"
     },
     {
         "title": "Charlas Psicoloxía do Deporte 2026",
@@ -315,6 +315,12 @@
         "title": "Xogade – Cros – ADE As Burgas – Final Comarcal 2026/2027",
         "place": "Pereiro de Aguiar, O",
         "url": "https://atletismo.gal/competicions/xogade-cros-ade-as-burgas-final-comarcal-2026-2027/",
+        "start": "2026-12-12"
+    },
+    {
+        "title": "Xogade – Cros – Fase Previa Provincial A Coruña 2026/2027",
+        "place": "Culleredo",
+        "url": "https://atletismo.gal/competicions/xogade-cros-fase-previa-provincial-a-coruna-2026-2027/",
         "start": "2026-12-12"
     },
     {
